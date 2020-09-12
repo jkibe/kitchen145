@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://0.0.0.0:4000/resurrection</loc>
+<loc>http://0.0.0.0:4000/kitchen145/resurrection</loc>
 <lastmod>2020-09-12T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/about</loc>
+<loc>http://0.0.0.0:4000/kitchen145/about</loc>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/</loc>
+<loc>http://0.0.0.0:4000/kitchen145/</loc>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/tags</loc>
+<loc>http://0.0.0.0:4000/kitchen145/tags</loc>
 </url>
 </urlset>
