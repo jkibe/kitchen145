@@ -31,7 +31,7 @@ navigation:
   - text: Home
     url: /kitchen145/
   - text: About
-    url: /kitchen145/about/
+    url: /kitchen145/about
 
 # The shortname for your Disqus site to enable comments.
 # disqus: 
