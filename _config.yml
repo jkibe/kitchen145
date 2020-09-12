@@ -9,7 +9,7 @@
 lang: en-US
 
 # Site title
-title: "Kitchen 145"
+title: "Renovation Diary"
 
 # A description of your site for meta tag, search engine results.
 description: "Joseph remodels his kitchen."
@@ -29,9 +29,9 @@ google_analytics: ""
 # Site navigation - each item must have a title and a url.
 navigation:
   - text: Home
-    url: /
+    url: /kitchen145/
   - text: About
-    url: /about/
+    url: /kitchen145/about/
 
 # The shortname for your Disqus site to enable comments.
 # disqus: 
@@ -41,7 +41,7 @@ accent_color: '#2d72d9'
 
 # Site footer
 footer:
-  content: "&copy; Copyright 2020 Joseph Kibe. All rights reserveds. Tous droits réservés."
+  content: "&copy; Copyright 2020 Joseph Kibe. All rights reserved. Tous droits réservés."
   has_social: true
 
 # Plugins
