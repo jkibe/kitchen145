@@ -27,6 +27,11 @@ One apartment I looked at (sadly, I forgot to take a photo) had a kitchen that w
 
 Instead, I chose to go for something that hadn't been touched for 30 years. How hard could it be to scape together $20,000 to renovate a kitchen? As it turns out, pretty hard when you vastly underestimate all the leeches who siphon money off unsuspecting people when you buy a home and encounter some novel personal financial issues. (I'm not allowed to discuss those for legal reasons.)
 
+![Kitchen](images/current.jpeg)
+
+{:.image-caption}
+*A glimpse into my current tiny kitchen, taken the day I moved in.*
+
 By the time I had the money put together last fall, I also realized that $20,000 wasn't going to be enough for my tiny kitchen and big ambitions. At the moment, I'm budgeting closer to $30,000, and I wouldn't be surprised if I spend more than $40,000.
 
 ![Sketch](images/sketch.png)
