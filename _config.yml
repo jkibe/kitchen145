@@ -12,7 +12,7 @@ lang: en-US
 title: "Renovation Diary"
 
 # A description of your site for meta tag, search engine results.
-description: "Joseph remodels his kitchen."
+description: "Joseph renovates his kitchen."
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: "/kitchen145"
