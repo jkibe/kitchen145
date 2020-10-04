@@ -25,9 +25,9 @@ Whether it's being in New England or being in the US more generally, most firms 
 
 There are places like Architizer or even Instagram. But the listing sites don't tend to be comprehensive --- the practice I hired isn't on Architizer, for example --- and Instagram is hard to browse if you're looking for more than "inspiration."
 
-In the end, I found a firm through a combination of meticulousness and good luck. The initial shortlist of firms came from literally clicking on close to 100 firms' listings on Houzz and though more straightforward Web searches. From there, a few never wrote back to my emails, and a few more set up some initial consultations.
+In the end, I found a firm through a combination of meticulousness and good luck. The initial shortlist of firms came from literally clicking on close to 100 firms' listings on Houzz and though more straightforward Web searches. From there, a few never wrote back to my emails, and a few set up initial consultations.
 
-Despite what I would've guessed, a lot of firms have such a backlog of work that at least a few couldn't have fit me in until the next year. Fortunately, the director of one practice was able to refer me to <a href="https://bos-ua.com/about/">BOS|UA</a>, who really impressed me (the most important part) and had enough capacity to start my small project immediately to boot.
+Despite what I would've guessed, a lot of firms have such a backlog of work that at least a few couldn't have fit me in until the next year. Fortunately, the director of one practice was able to refer me to <a href="https://bos-ua.com/about/">BOS|UA</a>, who (most importantly) really impressed me, and had enough capacity to start my small project immediately to boot.
 
 Every practice I talked to made me feel pretty confident that hiring an architect was the right choice. Even the fanciest-looking practices that listed very big, very expensive projects on their websites seemed very down to earth and willing to take on my project. They all, even in my brief consultations, had ideas that never would have crossed my mind. The architects at the practice I wound up hiring suggested, for instance, that there were a few ways I might avoid moving my electrical panel. Avoiding that one change alone probably covers the cost of hiring them!
 
