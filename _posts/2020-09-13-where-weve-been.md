@@ -18,7 +18,7 @@ When I was shopping for a place to buy, it quickly became clear that the kitchen
 {:.image-caption}
 *One option I didn't go for. The cabinet installers were so bad, I can tell some of the doors aren't in alignment by looking at this photo, which is hiding many smaller sins. This apartment also had the disadvantage of being in a basement.*
 
-One apartment I looked at (sadly, I forgot to take a photo) had a kitchen that was more or less a corner of the living room in which they'd installed a $10,000 Sub-Zero refrigerator and a half-size dishwasher. Yes, I could have removed it after purchase, but then I've have to pay for a $10,000 refrigerator that I didn't want. Others, like the one in the photo above, were clearly designed to tick boxes on a real estate listing, not work well as a system. One easy check: nothing I looked at had a dishwasher that cost more than my most expensive stock pot. Admittedly, my most expensive stock pot cost about $400 --- which is a lot for a piece of cookware --- but it's also really not that much for a dishwasher. By comparison, that expanse of low-grade jet black granite probably cost upwards of $5,000. It truly boggles my mind someone would want such fancy worktops but skimp on way more useful choices, like spending the extra money to get drawers with nice runners instead of shelves in the lower cabinets.
+One apartment I looked at (sadly, I forgot to take a photo) had a kitchen that was more or less a corner of the living room in which they'd installed a $10,000 Sub-Zero refrigerator and a half-size dishwasher. Yes, I could have removed it after purchase, but then I've have had to pay for a $10,000 refrigerator that I didn't want. Others, like the one in the photo above, were clearly designed to tick boxes on a real estate listing, not work well as a system. One easy check: nothing I looked at had a dishwasher that cost more than my most expensive stock pot. Admittedly, my most expensive stock pot cost about $400 --- which is a lot for a piece of cookware --- but it's also really not that much for a dishwasher. By comparison, that expanse of low-grade jet black granite probably cost upwards of $5,000. It truly boggles my mind someone would want such fancy worktops but skimp on way more useful choices, like spending the extra money to get drawers with nice runners instead of shelves in the lower cabinets.
 
 ![Questionable kitchen](images/shopping2.jpeg)
 
@@ -32,7 +32,7 @@ Instead, I chose to go for something that hadn't been touched for 30 years. How 
 {:.image-caption}
 *A glimpse into my current tiny kitchen, taken the day I moved in.*
 
-By the time I had the money put together last fall, I also realized that $20,000 wasn't going to be enough for my tiny kitchen and big ambitions. At the moment, I'm budgeting closer to $30,000, and I wouldn't be surprised if I spend more than $40,000.
+By the time I had the money put together last fall, I also realized that $20,000 wasn't going to be enough for my tiny kitchen and big ambitions. At the moment, I'm budgeting closer to $30,000, and I wouldn't be surprised if I spend more like $40,000.
 
 ![Sketch](images/sketch.png)
 
@@ -50,7 +50,7 @@ Speaking of, the process of finding a contractor isn't one known for being pleas
 
 When I did find someone, it was not an especially productive relationship. Despite being a man, I'm pretty sure I fell victim to "mansplaining." Because my kitchen was built in the 1950s, they decided to put the electrical panel in the kitchen. Rotating the layout virtually necessitates moving that, which is expensive, probably in the region of $3000. It's a strange feeling to put that in an email and mention it on the phone up front, only to have the someone call and spend 20 minutes explaining it again, as if there was no way I could have understood it.
 
-Then, of course, the pandemic hit. With it came a construction ban in my building and the necessity that I work from home more or less indefinitely. The idea of living off microwave meals and takeout isn't super appealing to me. But at least in the pre-covid world I could have commandeered a friend's kitchen, gone out to restaurants, and traveled freely.
+Then, of course, the pandemic hit. With it came a construction ban in my building and the necessity that I work from home more or less indefinitely. The idea of living off microwave meals and takeout isn't super appealing to me. But at least in the pre-covid world I would have been able to commandeer friends' kitchens, eat out at restaurants, and travel freely.
 
 It was the realization that the public health crisis may last for another year or more that pushed me to bring this project back to life. If I wait for the situation to really improve, it might be 2022 before I have a new kitchen --- five years after I moved in.
 
