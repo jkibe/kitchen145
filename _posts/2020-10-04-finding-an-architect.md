@@ -19,7 +19,7 @@ Between my ambivalence about the contractor to begin with and the supposed requi
 
 Finding an architect, though, proved to be harder than I would've guessed. Most of the obvious resources like Houzz were unhelpful in that the sort order of firms tended to correlate with the size or "prestige" of the practice, and there weren't a lot of other levers to find what I was looking for.
 
-Whether it's being in New England or being in the US more generally, most firms seem to cater to people who want something either very cookie cutter or very showy. There are lots of photos of double-wide Wolf ranges that cost more than some compact cars and other touches that look
+Whether it's being in New England or being in the US more generally, most firms seem to cater to people who want something either very cookie cutter or very showy. There are lots of photos of double-wide Wolf ranges that cost more than some compact cars and other touches that look generically expensive.
 
 {% include image_caption.html imageurl="https://st.hzcdn.com/simgs/pictures/kitchens/kitchen-krieger-associates-architects-inc-img~ad81ab970f7c97cc_9-4138-1-8234192.jpg" title="No thanks kitchen image" caption="A cookie-cutter high-end suburban kitchen. At least this one looks well-executed, even if the design is a little tired. (<a href='https://www.houzz.fr/photos/kitchen-phvw-vp~771539'>Photo</a> courtesy <a href='https://www.houzz.fr/hznb/professionnels/architecte/krieger-associates-architects-inc-pfvwus-pf~1702898409' target='_blank'>Krieger + Associates Architects, Inc.</a>)" %}
 
