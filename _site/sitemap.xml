@@ -13,6 +13,10 @@
 <lastmod>2020-10-04T00:00:00-05:00</lastmod>
 </url>
 <url>
+<loc>http://0.0.0.0:4000/kitchen145/step-one</loc>
+<lastmod>2020-10-22T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>http://0.0.0.0:4000/kitchen145/about</loc>
 </url>
 <url>
@@ -20,5 +24,8 @@
 </url>
 <url>
 <loc>http://0.0.0.0:4000/kitchen145/tags</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/kitchen145/page2/</loc>
 </url>
 </urlset>
