@@ -33,9 +33,9 @@ Zooming out a little, the cabinets more or less need to cost about $10,000. With
 
 Thus: the final option on the table is the "IKEA hack." In particular, my architects have proposed going with Reform, a company out of Copenhagen that offers "designer" fronts for IKEA cabinet shells. That looks like it will fall somewhere closer to $7500 for the options that looked the most promising to me. I should get a quote from Space Theory in the next few days as well.
 
-{% include image_caption.html imageurl="images/fold.jpeg" title="Reform Fold" caption="Reform's Fold design. (Image credit: Reform)" %}
+{% include image_caption.html imageurl="images/fold.jpeg" title="Reform Degree" caption="Reform's Degree design. (Image credit: Reform)" %}
 
-In a way, I find this comforting. I worry that I'm spending way, way too much money on fancy appliances. But even if I go down to more "conventional" choices for my oven or refrigerator, I still wouldn't be able to afford one of my fancy German cabinet options. It seems possible I might even get the project in under $40,000, which could leave some latitude for buying some extra fancy lighting or buy laundry appliances.
+In a way, I find this comforting. I worry that I'm spending way, way too much money on fancy appliances. But even if I go down to more "conventional" choices for my oven or refrigerator, I still wouldn't be able to afford one of my fancy German cabinet options. It seems possible I might even get the project in under $40,000, which could leave some latitude for buying some extra fancy lighting or laundry appliances.
 
 Once I have this narrowed down a bit, there will be more renders to finalize the design, and then it comes down to scheduling. Finding a contractor will depend a lot on the point at which I can take delivery of the cabinets at the core of the design.
 
