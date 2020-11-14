@@ -23,11 +23,11 @@ If money were no object, I'd get cabinets from one of the high-end German manufa
 
 The rough estimates that my architects got were surprising. Some were more than I would've imagined. Others were still outside my budget, but a lot more reasonable than I would've guessed.
 
-The two most expensive were Bulthaup, at a whopping $55,000, and Poggenpohl --- my personal favorite if money were not a consideration --- wouldn't even give my architects a quote. Apparently projects have a hard floor of $50,000. The Poggenpohl team didn't even want to see the drawings to see if they could go lower.
+The two most expensive were Bulthaup --- at a whopping $55,000 --- and Poggenpohl. Money aside, Poggenpohl was my top pick. They are so expensive that projects have a hard floor of $50,000, and it's hard to imagine that I'd want to get the absolute cheapest, most basic option they offer. They're so expensive the Poggenpohl team didn't even want to see the drawings to contemplate giving a more affordable bid.
 
-My second choice, SieMatic, came in lower than I would've guessed, at around $25,000. They also looked at Leicht, which came in around the same price.
+My second choice, SieMatic, came in lower than I would've guessed, at around $25,000. My architects also looked at Leicht, which came in around the same price.
 
-{% include image_caption.html imageurl="images/siematic-pure-010.jpeg" title="SieMatic Pure" caption="A SieMatic Kitchen I probably can't afford. (Image credit: SieMatic)" %}
+{% include image_caption.html imageurl="images/siematic-pure-010.jpeg" title="SieMatic Pure" caption="A SieMatic Kitchen I can't afford. (Image credit: SieMatic)" %}
 
 Zooming out a little, the cabinets more or less need to cost about $10,000. With my $40,000 budget, about $10,000 will go to appliances, and the architects are working with a $10,000 figure for all the construction costs, like moving the plumbing and moving walls. With $10,000 spent on cabinets, that leaves a further $10,000 for other finishes like worktops and lighting.
 
