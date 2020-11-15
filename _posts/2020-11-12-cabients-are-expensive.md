@@ -7,7 +7,7 @@ feature_image: images/poggenpohl.jpeg
 tags: 
 ---
 
-When we left off, I had been asked to choose a layout. There was the more conservative option --- leaving the kitchen in place and slightly reorganizing --- versus the bolder option of creating and office and creating a linear kitchen in my living room. After some consideration, I decided to go down the linear kitchen route.
+When we left off, I had been asked to choose a layout. There was the more conservative option --- leaving the kitchen in place and slightly reorganizing --- versus the bolder option of creating an office with a linear kitchen in my living room. After some consideration, I decided to go down the linear kitchen route.
 
 The area where the new cabinets go is already dead space: I can't put anything there because it would block access to the rest of my apartment and the kitchen. If I can fill that in, and also get a small room for a desk or my piano, that seems like a great idea. It also made a lot more sense when I realized it was possible to get rid of the island-cum-dining table. I should probably get a smaller dining table at some point, but in any case, that's much more flexible when it's not fixed as a set of cabinets.
 
