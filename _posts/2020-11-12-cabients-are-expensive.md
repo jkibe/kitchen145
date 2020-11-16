@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cabients Are Expensive"
+title: "Cabinets Are Expensive"
 description: "Turns out, kitchen cabinets are not cheap"
 date: 2020-11-12
 feature_image: images/poggenpohl.jpeg
