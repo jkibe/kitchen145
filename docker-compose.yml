@@ -1,0 +1,48 @@
+version: "3.7"
+services:
+
+  # blog:
+  #   image: kitchen145
+  #   build:
+  #     context: .
+  #     dockerfile: Dockerfile
+  #   ports:
+  #    - "3000:3000"
+  #   networks:
+  #     default:
+  #   volumes:
+  #     - ./_site:/static/
+  #     - ./_site/assets:/static/kitchen145/assets
+  #     - ./_site/images:/static/kitchen145/images
+  #   environment:
+  #     - JEKYLL_ENV=development
+  #   command: ["nginx", "-g", "daemon off;"]
+  #   depends_on:
+  #     - "builder"
+
+  # builder:
+  #   image: jekyll/jekyll
+  #   networks:
+  #     default:
+  #   volumes:
+  #     - ./vendor/bundle:/usr/local/bundle
+  #     - ./:/srv/jekyll
+  #   environment:
+  #     - JEKYLL_ENV=development
+  #   command: ["jekyll", "build", "--watch"]
+
+  blog:
+    image: jekyll/jekyll:3.8
+    networks:
+      default:
+    volumes:
+      - ./vendor/bundle:/usr/local/bundle
+      - ./:/srv/jekyll
+    environment:
+      - JEKYLL_ENV=development
+    command: ["jekyll", "serve", "--incremental", "--force_polling"]
+    ports:
+     - "4000:4000"
+
+networks:
+  default:

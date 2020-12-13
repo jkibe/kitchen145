@@ -3,11 +3,59 @@
     <channel>
         <title>Renovation Diary</title>
         <description>Joseph renovates his kitchen.</description>
-        <link>http://0.0.0.0:4000/kitchen145/</link>
-        <atom:link href="http://0.0.0.0:4000/kitchen145/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Nov 2020 15:36:44 -0600</pubDate>
-        <lastBuildDate>Sat, 28 Nov 2020 15:36:44 -0600</lastBuildDate>
+        <link>https://jkibe.github.io/kitchen145//kitchen145/</link>
+        <atom:link href="https://jkibe.github.io/kitchen145//kitchen145/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sun, 13 Dec 2020 17:38:56 -0600</pubDate>
+        <lastBuildDate>Sun, 13 Dec 2020 17:38:56 -0600</lastBuildDate>
         <generator>Jekyll v4.0.1</generator>
+        
+            <item>
+                <title>Cabinets, Part III</title>
+                <description>&lt;p&gt;Before spending upwards of $10,000 on something, it’s worth taking the time to see what you’re buying in person. Or at least to the extent possible in current circumstances. If it were easier to travel, I probably would have made a trip down to New York to look at complete kitchens made with Reform’s cabinet system. I’ve chosen to settle for more pandemic-friendly samples.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;The leading contender was Reform’s “Frame” option in white. Fortunately they had that option in stock as a sample, so I was able to get my hands on that. My architects are also big fans of natural wood, so they also pulled the “Basis” option in oak veneer for me to look at.&lt;/p&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/basis-on-white.jpg&quot; alt=&quot;Basis&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;The Reform Basis option. I liked the oak look more than I would've guessed. I was not as thrilled with the built-in handle.&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;I was pleasantly surprised with the oak veneer finish. My inclination is against lots and lots of natural wood. I couldn’t articulate exactly why. But the oak is really quite nice. Certainly much nicer than other oak effect or oak veneers I’ve seen in fancy hotel rooms or other people’s less “designed” kitchens.&lt;/p&gt;
+
+&lt;p&gt;I was unpleasantly disappointed by the integrated circular cutout handle. I love the idea of a kitchen without pulls. It’s sleeker, more compact, and presents fewer chances to catch stuff (like a headphone cable or coat). But the integrated pulls on the Basis didn’t float my boat. They’re small and a little uncomfortable. There also wasn’t a ton of attention paid to the feeling of the surface you touch. It feels like bland just-sanded-enough wood. There is no joy.&lt;/p&gt;
+
+&lt;p&gt;It looks kind of cool. I could see this being a good option for something other than a kitchen that’s opened less often. Having to deal with that built-in pull every day would drive me crazy.&lt;/p&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/frame-with-book.jpg&quot; alt=&quot;Frame&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;The Reform Frame in white. This is positioned roughly where the new run of kitchen cabinets will sit. My apartment faces north, so everything is washed in a very painterly soft light.&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;At any rate, I was already much more inclined to the Frame look painted white. After living with the samples for a few days, I’ve more or less committed to it. It has the whiff of classicism that I like with a bit of a modern twist. Rather than a bog standard shaker look, it evokes it with an edgy angled frame. There’s texture as the wood grain shows through the paint.&lt;/p&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/frame-white-on-white.jpg&quot; alt=&quot;Frame with quartz&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;Experimenting with worktop options against an end table with a marble-effect quartz composite.&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;I’m still waiting on final pricing for the cabinets. I also need to figure out exactly how I want the drawers and doors configured. Once that’s all set, the order can go in, and the fun really begins. With a provisional delivery date, I can start the planning process (getting approval from my condo board) and pick a contractor.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Feature image credit BOS |UA&lt;/em&gt;&lt;/p&gt;
+</description>
+                <pubDate>Sun, 13 Dec 2020 00:00:00 -0600</pubDate>
+                <link>https://jkibe.github.io/kitchen145//kitchen145/cabinets-part-iii</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145//kitchen145/cabinets-part-iii</guid>
+                
+                
+            </item>
         
             <item>
                 <title>Cabinets, Part II</title>
@@ -134,8 +182,8 @@
 &lt;p&gt;But that’s all still up in the air. I’m hoping within the next few weeks I can have all the basic layout and cabinet choices made so this can really get going. Much as I don’t love the idea of living with dust everywhere, the road to a better kitchen will have to begin with a little bit of demolition.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 28 Nov 2020 00:00:00 -0600</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/cabients-part-ii</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/cabients-part-ii</guid>
+                <link>https://jkibe.github.io/kitchen145//kitchen145/cabients-part-ii</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145//kitchen145/cabients-part-ii</guid>
                 
                 
             </item>
@@ -191,8 +239,8 @@
 
 </description>
                 <pubDate>Thu, 12 Nov 2020 00:00:00 -0600</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/cabients-are-expensive</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/cabients-are-expensive</guid>
+                <link>https://jkibe.github.io/kitchen145//kitchen145/cabients-are-expensive</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145//kitchen145/cabients-are-expensive</guid>
                 
                 
             </item>
@@ -243,8 +291,8 @@
 &lt;p&gt;&lt;em&gt;Feature image credit: BOS|UA&lt;/em&gt;&lt;/p&gt;
 </description>
                 <pubDate>Thu, 22 Oct 2020 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/step-one</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/step-one</guid>
+                <link>https://jkibe.github.io/kitchen145//kitchen145/step-one</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145//kitchen145/step-one</guid>
                 
                 
             </item>
@@ -295,8 +343,8 @@
 &lt;p&gt;When I have a chance, I may share some preliminary thoughts about those questions. For now, stay tuned.&lt;/p&gt;
 </description>
                 <pubDate>Sun, 04 Oct 2020 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/finding-an-architect</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/finding-an-architect</guid>
+                <link>https://jkibe.github.io/kitchen145//kitchen145/finding-an-architect</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145//kitchen145/finding-an-architect</guid>
                 
                 
             </item>
@@ -349,8 +397,8 @@
 
 </description>
                 <pubDate>Sun, 13 Sep 2020 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/where-weve-been</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/where-weve-been</guid>
+                <link>https://jkibe.github.io/kitchen145//kitchen145/where-weve-been</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145//kitchen145/where-weve-been</guid>
                 
                 
             </item>
@@ -371,8 +419,8 @@
 
 </description>
                 <pubDate>Sat, 12 Sep 2020 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/resurrection</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/resurrection</guid>
+                <link>https://jkibe.github.io/kitchen145//kitchen145/resurrection</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145//kitchen145/resurrection</guid>
                 
                 
             </item>

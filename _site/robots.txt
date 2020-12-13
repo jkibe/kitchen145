@@ -1,1 +1,1 @@
-Sitemap: http://0.0.0.0:4000/kitchen145/sitemap.xml
+Sitemap: https://jkibe.github.io/kitchen145//kitchen145/sitemap.xml
