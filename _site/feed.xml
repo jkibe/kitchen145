@@ -3,11 +3,34 @@
     <channel>
         <title>Renovation Diary</title>
         <description>Joseph renovates his kitchen.</description>
-        <link>http://0.0.0.0:4000/kitchen145/</link>
-        <atom:link href="http://0.0.0.0:4000/kitchen145/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 19 Feb 2021 17:41:05 -0600</pubDate>
-        <lastBuildDate>Fri, 19 Feb 2021 17:41:05 -0600</lastBuildDate>
+        <link>https://jkibe.github.io/kitchen145//kitchen145/</link>
+        <atom:link href="https://jkibe.github.io/kitchen145//kitchen145/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Thu, 04 Mar 2021 15:10:46 -0600</pubDate>
+        <lastBuildDate>Thu, 04 Mar 2021 15:10:46 -0600</lastBuildDate>
         <generator>Jekyll v4.0.1</generator>
+        
+            <item>
+                <title>Before the Bids</title>
+                <description>&lt;p&gt;More developments are afoot! The cabinet order is in, as mentioned last time.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;In terms of the cabinet order itself, once it was ready to go, the process was pretty painless. The total bill came to $11,509. That doesn’t include all the cabinet boxes: the laundry, refrigerator, and upper cabinet boxes will be custom. But it does include additional paneling for the new entry-office area that will be created in the current kitchen.&lt;/p&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/pegboard-final.jpg&quot; alt=&quot;A refined version of the former kitchen area. The panels being ordered from Reform will make up the pegboard system. (Image credit: BOS|UA )&quot; /&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;In the next week or two I really will go look at flooring, and start figuring out how to get all my appliances here on time.&lt;/p&gt;
+
+</description>
+                <pubDate>Thu, 04 Mar 2021 00:00:00 -0600</pubDate>
+                <link>https://jkibe.github.io/kitchen145//kitchen145/about-to-bid</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145//kitchen145/about-to-bid</guid>
+                
+                
+            </item>
         
             <item>
                 <title>Cabinets, Part V</title>
@@ -26,8 +49,8 @@
 
 </description>
                 <pubDate>Fri, 19 Feb 2021 00:00:00 -0600</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/cabinets-part-v</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/cabinets-part-v</guid>
+                <link>https://jkibe.github.io/kitchen145//kitchen145/cabinets-part-v</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145//kitchen145/cabinets-part-v</guid>
                 
                 
             </item>
@@ -109,8 +132,8 @@
 &lt;p&gt;&lt;em&gt;Feature image credit BOS |UA&lt;/em&gt;&lt;/p&gt;
 </description>
                 <pubDate>Sat, 30 Jan 2021 00:00:00 -0600</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/cabinets-part-iv</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/cabinets-part-iv</guid>
+                <link>https://jkibe.github.io/kitchen145//kitchen145/cabinets-part-iv</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145//kitchen145/cabinets-part-iv</guid>
                 
                 
             </item>
@@ -157,8 +180,8 @@
 &lt;p&gt;&lt;em&gt;Feature image credit BOS |UA&lt;/em&gt;&lt;/p&gt;
 </description>
                 <pubDate>Sun, 13 Dec 2020 00:00:00 -0600</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/cabinets-part-iii</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/cabinets-part-iii</guid>
+                <link>https://jkibe.github.io/kitchen145//kitchen145/cabinets-part-iii</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145//kitchen145/cabinets-part-iii</guid>
                 
                 
             </item>
@@ -288,8 +311,8 @@
 &lt;p&gt;But that’s all still up in the air. I’m hoping within the next few weeks I can have all the basic layout and cabinet choices made so this can really get going. Much as I don’t love the idea of living with dust everywhere, the road to a better kitchen will have to begin with a little bit of demolition.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 28 Nov 2020 00:00:00 -0600</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/cabients-part-ii</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/cabients-part-ii</guid>
+                <link>https://jkibe.github.io/kitchen145//kitchen145/cabients-part-ii</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145//kitchen145/cabients-part-ii</guid>
                 
                 
             </item>
@@ -345,8 +368,8 @@
 
 </description>
                 <pubDate>Thu, 12 Nov 2020 00:00:00 -0600</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/cabients-are-expensive</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/cabients-are-expensive</guid>
+                <link>https://jkibe.github.io/kitchen145//kitchen145/cabients-are-expensive</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145//kitchen145/cabients-are-expensive</guid>
                 
                 
             </item>
@@ -397,8 +420,8 @@
 &lt;p&gt;&lt;em&gt;Feature image credit: BOS|UA&lt;/em&gt;&lt;/p&gt;
 </description>
                 <pubDate>Thu, 22 Oct 2020 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/step-one</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/step-one</guid>
+                <link>https://jkibe.github.io/kitchen145//kitchen145/step-one</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145//kitchen145/step-one</guid>
                 
                 
             </item>
@@ -449,8 +472,8 @@
 &lt;p&gt;When I have a chance, I may share some preliminary thoughts about those questions. For now, stay tuned.&lt;/p&gt;
 </description>
                 <pubDate>Sun, 04 Oct 2020 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/finding-an-architect</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/finding-an-architect</guid>
+                <link>https://jkibe.github.io/kitchen145//kitchen145/finding-an-architect</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145//kitchen145/finding-an-architect</guid>
                 
                 
             </item>
@@ -503,8 +526,8 @@
 
 </description>
                 <pubDate>Sun, 13 Sep 2020 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/where-weve-been</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/where-weve-been</guid>
+                <link>https://jkibe.github.io/kitchen145//kitchen145/where-weve-been</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145//kitchen145/where-weve-been</guid>
                 
                 
             </item>
@@ -525,8 +548,8 @@
 
 </description>
                 <pubDate>Sat, 12 Sep 2020 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/resurrection</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/resurrection</guid>
+                <link>https://jkibe.github.io/kitchen145//kitchen145/resurrection</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145//kitchen145/resurrection</guid>
                 
                 
             </item>

@@ -37,6 +37,10 @@
 <lastmod>2021-02-19T00:00:00-06:00</lastmod>
 </url>
 <url>
+<loc>http://0.0.0.0:4000/kitchen145/about-to-bid</loc>
+<lastmod>2021-03-04T00:00:00-06:00</lastmod>
+</url>
+<url>
 <loc>http://0.0.0.0:4000/kitchen145/about</loc>
 </url>
 <url>
@@ -50,5 +54,8 @@
 </url>
 <url>
 <loc>http://0.0.0.0:4000/kitchen145/page3/</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/kitchen145/page4/</loc>
 </url>
 </urlset>
