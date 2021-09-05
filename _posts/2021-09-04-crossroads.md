@@ -36,6 +36,9 @@ What to do, then?
 
 Either way, I'm resigned to spending more than I had planned to. Fortunately, I'm in a position to do that, so it shouldn't be a big problem. The more vexed question is exactly how much more to spend.
 
+
+{% include image_caption.html imageurl="https://st.hzcdn.com/simgs/pictures/salles-de-bain/abbeville-terre-grise-img~97715fc70daf124b_14-5849-1-7529adc.jpg" title="A bathroom" caption="Sadly, I don't have this much space. (<a href='https://www.houzz.fr/photos/abbeville-phvw-vp~150420990'>Photo</a> courtesy <a href='https://www.houzz.fr/pro/webuser-574038528/terre-grise' target='_blank'>Terre Grise</a>)" %}
+
 The current thought is to wait, hoping the demand for contractors cools down a bit, and expand the scope to spread out the project overheads a bit more. I had planned to eventually redo the bathroom and add more storage eventually, why not do it now? Especially if I have to spend so much more anyway.
 
 I'm still waiting on meta-estimates from the contractors on demand trends heading into next year. If they see it tapering off, that might be one indication to wait. And then, if I wind up doing the additional projects, it's back to the drawing board with my architects to design a bathroom!
