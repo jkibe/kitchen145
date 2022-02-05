@@ -3,31 +3,163 @@
     <channel>
         <title>Renovation Diary</title>
         <description>Joseph renovates his kitchen.</description>
-        <link>https://jkibe.github.io/kitchen145//kitchen145/</link>
-        <atom:link href="https://jkibe.github.io/kitchen145//kitchen145/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 04 Mar 2021 15:10:46 -0600</pubDate>
-        <lastBuildDate>Thu, 04 Mar 2021 15:10:46 -0600</lastBuildDate>
+        <link>http://0.0.0.0:4000/kitchen145/</link>
+        <atom:link href="http://0.0.0.0:4000/kitchen145/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Fri, 04 Feb 2022 22:00:45 -0600</pubDate>
+        <lastBuildDate>Fri, 04 Feb 2022 22:00:45 -0600</lastBuildDate>
         <generator>Jekyll v4.0.1</generator>
         
             <item>
-                <title>Before the Bids</title>
-                <description>&lt;p&gt;More developments are afoot! The cabinet order is in, as mentioned last time.&lt;/p&gt;
+                <title>Bidding, Part II</title>
+                <description>&lt;p&gt;Almost six months ago, I accepted my fate: this project is going to cost a lot more than I had hoped and anticipated. On the plus side, I’ve been waiting so long, I’m in a position to do that somewhat comfortably. But that doesn’t remove the feeling that everything is just that little bit out of reach.&lt;/p&gt;
+
+&lt;p&gt;After getting a bid roughly double the original labor and materials estimate, I figured it would at least be worth exploring what it would cost to do “everything,” meaning mostly adding a gut remodel of the apartment’s bathroom to my project scope.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
-&lt;p&gt;In terms of the cabinet order itself, once it was ready to go, the process was pretty painless. The total bill came to $11,509. That doesn’t include all the cabinet boxes: the laundry, refrigerator, and upper cabinet boxes will be custom. But it does include additional paneling for the new entry-office area that will be created in the current kitchen.&lt;/p&gt;
+&lt;p&gt;Earlier in the week, the contractor visited again to finalize pricing on that, and I think it’s pushed me to make some decisions.&lt;/p&gt;
+
+&lt;p&gt;First, the good news: my contractor is ready to go. It’s likely the kitchen portion of my project will get going next month, in March.&lt;/p&gt;
+
+&lt;p&gt;The bad news: it’s still very expensive. The latest bid for both my kitchen renovation and the gut remodel of the bathroom comes to a cool $81,000 or so. I think it’s important to share that number. There’s something deeply frustrating about seeing all these renovation projects on TV or on blogs, and the authors making it seem like pluck and effort are the reason you don’t live in an Instagram-ready home. This stuff is expensive.&lt;/p&gt;
+
+&lt;p&gt;That $81,000 isn’t the totality of the project’s cost either. I’ve already spent around $10,000 on cabinets (still hanging out in a warehouse somewhere in New Jersey), and doing the kitchen and bathroom would require about $10,000 worth of appliances, another $5,000 for bathroom fixtures, and then some amount for me to relocate while my apartment is being ripped apart. Add that up and the total cost comes to around $100,000. Put differently: more than I’d like to spend right now.&lt;/p&gt;
+
+&lt;p&gt;Plus: there are a few more smaller tweaks I’d like to make — adding wardrobe space in the bedroom, replacing some very bland millwork in the living space — that would add even more to that number.&lt;/p&gt;
+
+&lt;p&gt;There’s still some finalization to be done, but for anyone interested, the contract as currently specified looks something like:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;$810 for permitting&lt;/li&gt;
+  &lt;li&gt;$3100 for project management&lt;/li&gt;
+  &lt;li&gt;$4300 for site preparation and demolition&lt;/li&gt;
+  &lt;li&gt;$20,000 for carpentry&lt;/li&gt;
+  &lt;li&gt;$11,300 for electrical&lt;/li&gt;
+  &lt;li&gt;$15,800 for plumbing&lt;/li&gt;
+  &lt;li&gt;$2,700 for drywall work&lt;/li&gt;
+  &lt;li&gt;$3,400 for painting&lt;/li&gt;
+  &lt;li&gt;$20,500 for tile and counters&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Having never done this before, I was also interested to understand much more specifically when and how the cost is spread over the duration of the contract. If you’re curious too, the breakdown looks like this:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Around 10% at contract signature&lt;/li&gt;
+  &lt;li&gt;Around 25% when work begins&lt;/li&gt;
+  &lt;li&gt;Around 20% when framing plus rough-in (first fix) plumbing and electric is completed&lt;/li&gt;
+  &lt;li&gt;Around 15% after the cabinets and tile are in&lt;/li&gt;
+  &lt;li&gt;Around 15% after flooring and second fix plumbing and electric is completed&lt;/li&gt;
+  &lt;li&gt;Around 15% after final inspections and completion of work&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As I can’t really swing dropping $100,000 right now, the thought is to break the project into two phases: do the kitchen now, and then do the bathroom maybe a year from now after my finances have had a chance to recover. Based on the earlier bid, I’m hoping that I can get the kitchen-only portion down to around $55,000, putting me somewhere like $65,000 including the appliances I’ll buy myself. It’s a lot of money, but I’m in the fortunate position that I can spend that pretty comfortably.&lt;/p&gt;
+
+&lt;p&gt;I should have an update next week on exactly what comes of that. I’m a little nervous, to be sure. Home renovations are notorious for being stressful, complicated, and running over budget. But after the very unpleasant experience buying my apartment — which really was at the absolute limits of what I could afford at the time — I’m very happy choosing the slightly more conservative path. Spending $65,000 is a pretty dizzying concept. But I also have the money, and enough beyond that set aside for a pretty catastrophic worst-case scenario.&lt;/p&gt;
+</description>
+                <pubDate>Fri, 04 Feb 2022 00:00:00 -0600</pubDate>
+                <link>http://0.0.0.0:4000/kitchen145/bid-ii</link>
+                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/bid-ii</guid>
+                
+                
+            </item>
+        
+            <item>
+                <title>At a Crossroads</title>
+                <description>&lt;p&gt;The pandemic has thrown a wrench in just about every part of this project. Getting information from the potential cabinet companies took forever. It took forever to order the cabinets. It took forever to get the cabinets delivered and shipped. It took forever to even get me flooring samples when we got to that stage.&lt;/p&gt;
+
+&lt;p&gt;Then it took forever to find a contractor. The last six months, more or less, and not for lack of trying. The results of that process have thrown a wrench in the project. Either way, it’s going to be a lot more expensive than I had hoped. Thanks, pandemic.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;First, a few steps back. A few years ago, when I bought this apartment, I had poorly-informed delusions about how much such a project might cost. In retrospect, the thought I could do anything meaningful for $25,000 was laughable. After a few years of savings and a bit of re-calibration, I landed on a more realistic figure of $45,000 for the project when I brought it back to life a year ago.&lt;/p&gt;
 
 &lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/pegboard-final.jpg&quot; alt=&quot;A refined version of the former kitchen area. The panels being ordered from Reform will make up the pegboard system. (Image credit: BOS|UA )&quot; /&gt;
+  &lt;img src=&quot;images/siematic-pure-010.jpeg&quot; alt=&quot;SieMatic Pure&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;A SieMatic Kitchen I can't afford. (Image credit: SieMatic)&lt;/figcaption&gt;
   
 &lt;/figure&gt;
 
-&lt;p&gt;In the next week or two I really will go look at flooring, and start figuring out how to get all my appliances here on time.&lt;/p&gt;
+&lt;p&gt;Working to that figure has been a strong input to the process. It’s the reason I bought cabinets from Reform rather than, say, SieMatic as I’d hoped might just maybe be affordable. (If you haven’t read &lt;a href=&quot;cabients-part-ii&quot;&gt;that post&lt;/a&gt;, they very much were not even remotely within my budget.) It was equally reassuring that my architects had done a project along the same lines in 2019 that had construction costs in line with that sort of budget.&lt;/p&gt;
+
+&lt;p&gt;But the pandemic threw a wrench in all that. Accounting for the cabinets and appliances, that left around $25,000 for construction and materials. Not a trivial sum! The bids my architects got blew that out of the water.&lt;/p&gt;
+
+&lt;p&gt;The first was for roughly $44,000. The second was for close to $50,000, nearly double the budgeted amount. The third wouldn’t even give a precise estimate, from what I heard.&lt;/p&gt;
+
+&lt;p&gt;As it was conveyed to me, several pieces contributed to these astronomical quotes.&lt;/p&gt;
+
+&lt;p&gt;First, supply chain issues. In the design my architects put together, the worktops and backsplash are designed to be made out of Corian. The counters need to be in half-inch because they need to support the work of cooking. But the backsplash and protective caps on the upper cabinets don’t, and could be made of (much cheaper) quarter-inch Corian. The quarter-inch product, however, is apparently not easy to get right now, so one of the bids used half-inch instead, doubling the materials cost for that component.&lt;/p&gt;
+
+&lt;p&gt;Second, the incredible demand that still exists for contractors and people in the construction industry. It’s likely some of the prices are so high simply to make the market clear. If you want to do a project now, it will not be cheap.&lt;/p&gt;
+
+&lt;p&gt;Third, my impression is that we slightly underestimated the overheads involved in working in my neighborhood. Parking is scarce, and it’s a multi-family building (with all the concomitant rules and regulations), not a single-family suburban home with easy access and few restrictions.&lt;/p&gt;
+
+&lt;p&gt;What to do, then?&lt;/p&gt;
+
+&lt;p&gt;Either way, I’m resigned to spending more than I had planned to. Fortunately, I’m in a position to do that, so it shouldn’t be a big problem. The more vexed question is exactly how much more to spend.&lt;/p&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;https://st.hzcdn.com/simgs/pictures/salles-de-bain/abbeville-terre-grise-img~97715fc70daf124b_14-5849-1-7529adc.jpg&quot; alt=&quot;A bathroom&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;Sadly, I don't have this much space. (&lt;a href=&quot;https://www.houzz.fr/photos/abbeville-phvw-vp~150420990&quot;&gt;Photo&lt;/a&gt; courtesy &lt;a href=&quot;https://www.houzz.fr/pro/webuser-574038528/terre-grise&quot; target=&quot;_blank&quot;&gt;Terre Grise&lt;/a&gt;)&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;The current thought is to wait, hoping the demand for contractors cools down a bit, and expand the scope to spread out the project overheads a bit more. I had planned to eventually redo the bathroom and add more storage eventually, why not do it now? Especially if I have to spend so much more anyway.&lt;/p&gt;
+
+&lt;p&gt;I’m still waiting on meta-estimates from the contractors on demand trends heading into next year. If they see it tapering off, that might be one indication to wait. And then, if I wind up doing the additional projects, it’s back to the drawing board with my architects to design a bathroom!&lt;/p&gt;
+
+&lt;p&gt;In the meantime, I’m going to have to start spending about $100 every month to keep my cabinets — which have made it to the US from Denmark — in storage somewhere in New Jersey.&lt;/p&gt;
+
+</description>
+                <pubDate>Sat, 04 Sep 2021 00:00:00 -0500</pubDate>
+                <link>http://0.0.0.0:4000/kitchen145/crossroads</link>
+                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/crossroads</guid>
+                
+                
+            </item>
+        
+            <item>
+                <title>Before the Bids</title>
+                <description>&lt;p&gt;More developments are afoot! The cabinet order is in, as mentioned last time. Next up, I’m making some final decisions about small details, like where to put outlets and light switches. I’ve also got to pick out the flooring that will replace the suspect plastic wood simulacrum that came with the apartment. With construction documents nearly done, it’s also time to send the bid out to potential contractors.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;The preliminary construction documents are very reassuring. Mostly in that they’re so detailed. I feel even better about having paid serious professionals to work up a detailed plan. It’s a easier to imagine the very expensive construction phase going well with less left to figure out in the moment.&lt;/p&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/preliminary-drawing.png&quot; alt=&quot;A preliminary drawing&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;Part of the preliminary construction documents. The architects have drawn up detailed plans to confirm details and give the contractors a very precise idea what needs to be done. (Image credit: BOS|UA)&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;I still need to do a bit more thinking. First, I need to confirm switch placement. Based on the plans, I don’t think I’ll have much to say. Rather cleverly — though apparently this is not unusual — the switch for the garbage disposal will be placed under the sink inside the cabinet rather than disrupt the harmony of the wall behind. I’m am hoping it will be possible to add in a few more outlets here and there. They’re not the most attractive part of a space, but you can never have enough.&lt;/p&gt;
+
+&lt;p&gt;Second, I need to pick out the flooring. This has turned into a bit of an ordeal. Before I spend $5,000 on it, I figured it would be nice to see more than a little 4 by 4 inch sample. So I took a day off to go visit some flooring showrooms at the local design center. These fancy suppliers cater mostly to professionals, and so the showrooms are only open on weekdays during business hours.&lt;/p&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/picture-frame.jpg&quot; alt=&quot;A preliminary drawing&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;Carlisle 'Picture Frame' flooring at the Boston Design Center showroom. This was one option suggested to me, the thought being another white European oak would go well with the cabinets also made of that material.&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;I should’ve done more confirming before cycling over there to look around. I did manage to see one of the two flooring showrooms. Unfortunately, it was not the one that had my architects’ first pick. The other showroom was closed because, as it turned out, the person who runs the Boston one was out sick.&lt;/p&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/oven-in-the-wild.jpg&quot; alt=&quot;My oven-to-be&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;While I was waiting, I nosed around a few of the kitchen showrooms. One display kitchen had the Miele 60cm oven I plan to buy installed.&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;In any case, the preliminary construction drawings should make it possible to begin getting bids from contractors and thus start setting dates for when the actual work begins. I’m hoping the next post will have more to say about that. Or I’ll finally get the last of the flooring samples and have a final decision on that.&lt;/p&gt;
 
 </description>
                 <pubDate>Thu, 04 Mar 2021 00:00:00 -0600</pubDate>
-                <link>https://jkibe.github.io/kitchen145//kitchen145/about-to-bid</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145//kitchen145/about-to-bid</guid>
+                <link>http://0.0.0.0:4000/kitchen145/about-to-bid</link>
+                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/about-to-bid</guid>
                 
                 
             </item>
@@ -49,8 +181,8 @@
 
 </description>
                 <pubDate>Fri, 19 Feb 2021 00:00:00 -0600</pubDate>
-                <link>https://jkibe.github.io/kitchen145//kitchen145/cabinets-part-v</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145//kitchen145/cabinets-part-v</guid>
+                <link>http://0.0.0.0:4000/kitchen145/cabinets-part-v</link>
+                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/cabinets-part-v</guid>
                 
                 
             </item>
@@ -132,8 +264,8 @@
 &lt;p&gt;&lt;em&gt;Feature image credit BOS |UA&lt;/em&gt;&lt;/p&gt;
 </description>
                 <pubDate>Sat, 30 Jan 2021 00:00:00 -0600</pubDate>
-                <link>https://jkibe.github.io/kitchen145//kitchen145/cabinets-part-iv</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145//kitchen145/cabinets-part-iv</guid>
+                <link>http://0.0.0.0:4000/kitchen145/cabinets-part-iv</link>
+                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/cabinets-part-iv</guid>
                 
                 
             </item>
@@ -180,8 +312,8 @@
 &lt;p&gt;&lt;em&gt;Feature image credit BOS |UA&lt;/em&gt;&lt;/p&gt;
 </description>
                 <pubDate>Sun, 13 Dec 2020 00:00:00 -0600</pubDate>
-                <link>https://jkibe.github.io/kitchen145//kitchen145/cabinets-part-iii</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145//kitchen145/cabinets-part-iii</guid>
+                <link>http://0.0.0.0:4000/kitchen145/cabinets-part-iii</link>
+                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/cabinets-part-iii</guid>
                 
                 
             </item>
@@ -311,8 +443,8 @@
 &lt;p&gt;But that’s all still up in the air. I’m hoping within the next few weeks I can have all the basic layout and cabinet choices made so this can really get going. Much as I don’t love the idea of living with dust everywhere, the road to a better kitchen will have to begin with a little bit of demolition.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 28 Nov 2020 00:00:00 -0600</pubDate>
-                <link>https://jkibe.github.io/kitchen145//kitchen145/cabients-part-ii</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145//kitchen145/cabients-part-ii</guid>
+                <link>http://0.0.0.0:4000/kitchen145/cabients-part-ii</link>
+                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/cabients-part-ii</guid>
                 
                 
             </item>
@@ -368,8 +500,8 @@
 
 </description>
                 <pubDate>Thu, 12 Nov 2020 00:00:00 -0600</pubDate>
-                <link>https://jkibe.github.io/kitchen145//kitchen145/cabients-are-expensive</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145//kitchen145/cabients-are-expensive</guid>
+                <link>http://0.0.0.0:4000/kitchen145/cabients-are-expensive</link>
+                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/cabients-are-expensive</guid>
                 
                 
             </item>
@@ -420,8 +552,8 @@
 &lt;p&gt;&lt;em&gt;Feature image credit: BOS|UA&lt;/em&gt;&lt;/p&gt;
 </description>
                 <pubDate>Thu, 22 Oct 2020 00:00:00 -0500</pubDate>
-                <link>https://jkibe.github.io/kitchen145//kitchen145/step-one</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145//kitchen145/step-one</guid>
+                <link>http://0.0.0.0:4000/kitchen145/step-one</link>
+                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/step-one</guid>
                 
                 
             </item>
@@ -472,84 +604,8 @@
 &lt;p&gt;When I have a chance, I may share some preliminary thoughts about those questions. For now, stay tuned.&lt;/p&gt;
 </description>
                 <pubDate>Sun, 04 Oct 2020 00:00:00 -0500</pubDate>
-                <link>https://jkibe.github.io/kitchen145//kitchen145/finding-an-architect</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145//kitchen145/finding-an-architect</guid>
-                
-                
-            </item>
-        
-            <item>
-                <title>Where We've Been</title>
-                <description>&lt;p&gt;Before I get into the details of what’s happening with the kitchen project now, I thought it would be a good idea to take a step back and explore how I got here. It’s been a long journey from deciding to take on this project to realizing it’s harder than I thought, and then having plans derailed by a once-in-a-lifetime public health crisis.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;When I was shopping for a place to buy, it quickly became clear that the kitchens fell into one of two camps. Either they hadn’t been touched for 30 years, or they were recently renovated, but with questionable taste.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;images/shopping.jpeg&quot; alt=&quot;Questionable kitchen&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;image-caption&quot;&gt;&lt;em&gt;One option I didn’t go for. The cabinet installers were so bad, I can tell some of the doors aren’t in alignment by looking at this photo, which is hiding many smaller sins. This apartment also had the disadvantage of being in a basement.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;One apartment I looked at (sadly, I forgot to take a photo) had a kitchen that was more or less a corner of the living room in which they’d installed a $10,000 Sub-Zero refrigerator and a half-size dishwasher. Yes, I could have removed it after purchase, but then I’d have had to pay for a $10,000 refrigerator that I didn’t want. Others, like the one in the photo above, were clearly designed to tick boxes on a real estate listing, not work well as a system. One easy check: nothing I looked at had a dishwasher that cost more than my most expensive stock pot. Admittedly, my most expensive stock pot cost about $400 — which is a lot for a piece of cookware — but it’s also really not that much for a dishwasher. By comparison, that expanse of low-grade jet black granite probably cost upwards of $5,000. It truly boggles my mind someone would want such fancy worktops but skimp on way more useful choices, like spending the extra money to get drawers with nice runners instead of shelves in the lower cabinets.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;images/shopping2.jpeg&quot; alt=&quot;Questionable kitchen&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;image-caption&quot;&gt;&lt;em&gt;Another option I didn’t take. The second “bedroom” was more of a closet. Note that they did upgrade to (ugly) beige granite worktops to tick the “granite counter” box on real estate listings.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Instead, I chose to go for something that hadn’t been touched for 30 years. How hard could it be to scape together $20,000 to renovate a kitchen? As it turns out, pretty hard when you vastly underestimate all the leeches who siphon money off unsuspecting people when you buy a home and encounter some novel personal financial issues. (I’m not allowed to discuss those for legal reasons.)&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;images/current.jpeg&quot; alt=&quot;Kitchen&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;image-caption&quot;&gt;&lt;em&gt;A glimpse into my current tiny kitchen, taken the day I moved in.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;By the time I had the money put together last fall, I also realized that $20,000 wasn’t going to be enough for my tiny kitchen and big ambitions. At the moment, I’m budgeting closer to $30,000, and I wouldn’t be surprised if I spend more like $40,000.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;images/sketch.png&quot; alt=&quot;Sketch&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;image-caption&quot;&gt;&lt;em&gt;The current layout.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Given this was a small project, the idea of hiring an architect seemed like an indulgence at first. I felt good enough planning something out with basic CAD software to hand off to what I hoped would be a competent contractor who might be capable of helping me iron out some of the more ambiguous details. My choices were fairly modest: Ikea cabinets to save money, locating services like plumbing to avoid expensive changes to the structure. Even that, however, proved to be too much. Every contractor I spoke to said I’d need an architect, if only to comply build local building regulations.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;images/sketch2.png&quot; alt=&quot;Sketch&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;image-caption&quot;&gt;&lt;em&gt;The renovation concept.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Speaking of, the process of finding a contractor isn’t one known for being pleasant. My experience didn’t do much to counter that. No one seems to have realized it’s easy to set up an email address, let alone a website. Hunting them down was a game of telephone tag. Call at off hours, and they’ve checked out for the day. Call during the day, and they barely give you notice because they’re trying to finish their work.&lt;/p&gt;
-
-&lt;p&gt;When I did find someone, it was not an especially productive relationship. Despite being a man, I’m pretty sure I fell victim to “mansplaining.” Because my kitchen was built in the 1950s, they decided to put the electrical panel in the kitchen. Rotating the layout virtually necessitates moving that, which is expensive, probably in the region of $3000. It’s a strange feeling to put that in an email and mention it on the phone up front, only to have the someone call and spend 20 minutes explaining it again, as if there was no way I could have understood it.&lt;/p&gt;
-
-&lt;p&gt;Then, of course, the pandemic hit. With it came a construction ban in my building and the necessity that I work from home more or less indefinitely. The idea of living off microwave meals and takeout isn’t super appealing to me. But at least in the pre-covid world I would have been able to commandeer friends’ kitchens, eat out at restaurants, and travel freely.&lt;/p&gt;
-
-&lt;p&gt;It was the realization that the public health crisis may last for another year or more that pushed me to bring this project back to life. If I wait for the situation to really improve, it might be 2022 before I have a new kitchen — five years after I moved in.&lt;/p&gt;
-
-&lt;p&gt;Next time, I’ll share my experiences finding an architect to whip the project into shape. I figure, if I have to engage a firm anyway, I might as well have them help me build something that goes beyond my amateur efforts.&lt;/p&gt;
-
-</description>
-                <pubDate>Sun, 13 Sep 2020 00:00:00 -0500</pubDate>
-                <link>https://jkibe.github.io/kitchen145//kitchen145/where-weve-been</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145//kitchen145/where-weve-been</guid>
-                
-                
-            </item>
-        
-            <item>
-                <title>Resurrection</title>
-                <description>&lt;p&gt;It’s been almost three years since I bought my apartment with the idea of renovating the kitchen, and I still haven’t done anything beyond install a new dishwasher. The first hurdle was getting the money together. Even my tiny kitchen with modest upgrades is going to be fairy expensive. Then, of course, the world was hit with a pandemic. Stuck at home and without the ability to really travel or visit friends, I didn’t love the idea of living on a construction site.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;A few weeks ago I realized we could be in this situation for a very long time, however. It’s time to take the leap and begin the renovation.&lt;/p&gt;
-
-&lt;p&gt;I’ve set up this new blog to keep a running diary of the process. I’m hoping to keep interested people informed with a difference. Yes, I’ll have the usual photos and commentary of the process as it goes along. But I’m also going to be very honest about details that a lot of people seem to skim over. Living on a construction site isn’t fun, and major home renovations are not cheap. It’s misleading to imagine that you can achieve Architectural Digest-quality with pluck and elbow grease. I’ll spend more on my architects than you’d pay for a high-end watch or fancy handbag.&lt;/p&gt;
-
-&lt;p&gt;I’m hoping that by chronicling all the little details most people omit, this will be a more interesting and a more useful guide for anyone else hoping to take on a project like mine.&lt;/p&gt;
-
-&lt;p&gt;In my next post, I’ll piece together more of a project update recapping where I am today, and what’s happening as I dust off the project and get it moving again. Stay tuned!&lt;/p&gt;
-
-</description>
-                <pubDate>Sat, 12 Sep 2020 00:00:00 -0500</pubDate>
-                <link>https://jkibe.github.io/kitchen145//kitchen145/resurrection</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145//kitchen145/resurrection</guid>
+                <link>http://0.0.0.0:4000/kitchen145/finding-an-architect</link>
+                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/finding-an-architect</guid>
                 
                 
             </item>
