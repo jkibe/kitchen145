@@ -49,6 +49,10 @@
 <lastmod>2022-02-04T00:00:00-06:00</lastmod>
 </url>
 <url>
+<loc>http://0.0.0.0:4000/kitchen145/feeder-wire</loc>
+<lastmod>2022-02-12T00:00:00-06:00</lastmod>
+</url>
+<url>
 <loc>http://0.0.0.0:4000/kitchen145/about</loc>
 </url>
 <url>
@@ -65,5 +69,8 @@
 </url>
 <url>
 <loc>http://0.0.0.0:4000/kitchen145/page4/</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/kitchen145/page5/</loc>
 </url>
 </urlset>
