@@ -5,54 +5,29 @@
         <description>Joseph renovates his kitchen.</description>
         <link>http://0.0.0.0:4000/kitchen145/</link>
         <atom:link href="http://0.0.0.0:4000/kitchen145/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 12 Feb 2022 11:21:29 -0600</pubDate>
-        <lastBuildDate>Sat, 12 Feb 2022 11:21:29 -0600</lastBuildDate>
+        <pubDate>Sat, 12 Feb 2022 12:03:52 -0600</pubDate>
+        <lastBuildDate>Sat, 12 Feb 2022 12:03:52 -0600</lastBuildDate>
         <generator>Jekyll v4.0.1</generator>
         
             <item>
                 <title>Feeder Wire</title>
-                <description>&lt;p&gt;I was so close to&lt;/p&gt;
+                <description>&lt;p&gt;I’m very close to signing a contract to get the program going. The last detail: pinning down the cost of the electrical work. In particular, the core upgrades necessary for the increased load that the renovation will put on the system.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
-&lt;p&gt;Earlier in the week, the contractor visited again to finalize pricing on that, and I think it’s pushed me to make some decisions.&lt;/p&gt;
+&lt;p&gt;I went into the project knowing that I’d need to upgrade the panel. For starters, I’m adding enough new circuits I need a new panel simply for space.&lt;/p&gt;
 
-&lt;p&gt;First, the good news: my contractor is ready to go. It’s likely the kitchen portion of my project will get going next month, in March.&lt;/p&gt;
+&lt;p&gt;Current code requires more loads go on separate circuits for safety. More importantly, I’m adding a bunch of new appliances: a separate oven and cooktop (rather than the existing all-in-one range), each of which need a double-gang slot to carry 240 V to those appliances; and then a washer and dryer. Fortunately, the Miele heat pump dryer that I’ve specified only requires a 15 amp circuit, but each laundry appliance does need to go on its own separate circuit.&lt;/p&gt;
 
-&lt;p&gt;The bad news: it’s still very expensive. The latest bid for both my kitchen renovation and the gut remodel of the bathroom comes to a cool $81,000 or so. I think it’s important to share that number. There’s something deeply frustrating about seeing all these renovation projects on TV or on blogs, and the authors making it seem like pluck and effort are the reason you don’t live in an Instagram-ready home. This stuff is expensive.&lt;/p&gt;
+&lt;p&gt;The relatively straightforward panel replacement had already been factored into the bid. But there was an additional twist that needed additional following up.&lt;/p&gt;
 
-&lt;p&gt;That $81,000 isn’t the totality of the project’s cost either. I’ve already spent around $10,000 on cabinets (still hanging out in a warehouse somewhere in New Jersey), and doing the kitchen and bathroom would require about $10,000 worth of appliances, another $5,000 for bathroom fixtures, and then some amount for me to relocate while my apartment is being ripped apart. Add that up and the total cost comes to around $100,000. Put differently: more than I’d like to spend right now.&lt;/p&gt;
+&lt;p&gt;All these new appliances also require more overall capacity on the panel. My current service to the apartment is only 60 amps, common when my building was built in the 1950s, but well below current standards.&lt;/p&gt;
 
-&lt;p&gt;Plus: there are a few more smaller tweaks I’d like to make — adding wardrobe space in the bedroom, replacing some very bland millwork in the living space — that would add even more to that number.&lt;/p&gt;
+&lt;p&gt;According to the electrician, the existing feeder wire — the wire that runs from the electric meter to my apartment — can only safely carry 75 amps. That’s enough to support all the new electrical load I’m putting on the system, but below the 100 amp minimum that code currently requires for a dwelling of any size.&lt;/p&gt;
 
-&lt;p&gt;There’s still some finalization to be done, but for anyone interested, the contract as currently specified looks something like:&lt;/p&gt;
+&lt;p&gt;The question then is whether it will be possible to have my system grandfathered in. If it can be, that’s a huge savings: there’s no additional work to do. If it can’t, then the electrician will need to run a new feeder wire from my apartment to the meter. I haven’t seen pricing, but there’s no way that’s going to be inexpensive. The meter is about 100 feet down the common corridor from my apartment, and the new wire won’t run in a completely straight line. Moreover, it will have to run through a conduit buried in a cast concrete slab.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;$810 for permitting&lt;/li&gt;
-  &lt;li&gt;$3,100 for project management&lt;/li&gt;
-  &lt;li&gt;$4,300 for site preparation and demolition&lt;/li&gt;
-  &lt;li&gt;$20,000 for carpentry&lt;/li&gt;
-  &lt;li&gt;$11,300 for electrical&lt;/li&gt;
-  &lt;li&gt;$15,800 for plumbing&lt;/li&gt;
-  &lt;li&gt;$2,700 for drywall work&lt;/li&gt;
-  &lt;li&gt;$3,400 for painting&lt;/li&gt;
-  &lt;li&gt;$20,500 for tile and counters&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Having never done this before, I was also interested to understand much more specifically when and how the cost is spread over the duration of the contract. If you’re curious too, the breakdown looks like this:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Around 10% at contract signature&lt;/li&gt;
-  &lt;li&gt;Around 25% when work begins&lt;/li&gt;
-  &lt;li&gt;Around 20% when framing plus rough-in (first fix) plumbing and electric is completed&lt;/li&gt;
-  &lt;li&gt;Around 15% after the cabinets and tile are in&lt;/li&gt;
-  &lt;li&gt;Around 15% after flooring and second fix plumbing and electric is completed&lt;/li&gt;
-  &lt;li&gt;Around 15% after final inspections and completion of work&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;As I can’t really swing dropping $100,000 right now, the thought is to break the project into two phases: do the kitchen now, and then do the bathroom maybe a year from now after my finances have had a chance to recover. Based on the earlier bid, I’m hoping that I can get the kitchen-only portion down to around $55,000, putting me somewhere like $65,000 including the appliances I’ll buy myself. It’s a lot of money, but I’m in the fortunate position that I can spend that pretty comfortably.&lt;/p&gt;
-
-&lt;p&gt;I should have an update next week on exactly what comes of that. I’m a little nervous, to be sure. Home renovations are notorious for being stressful, complicated, and running over budget. But after the very unpleasant experience buying my apartment — which really was at the absolute limits of what I could afford at the time — I’m very happy choosing the slightly more conservative path. Spending $65,000 is a pretty dizzying concept. But I also have the money, and enough beyond that set aside for a pretty catastrophic worst-case scenario.&lt;/p&gt;
+&lt;p&gt;If it has to happen, I don’t have much choice but to pay for it. I also don’t envy the person who has to do the work.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 12 Feb 2022 00:00:00 -0600</pubDate>
                 <link>http://0.0.0.0:4000/kitchen145/feeder-wire</link>
