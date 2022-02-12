@@ -24,8 +24,9 @@ A list of all the pieces that were specified as part of the project.
 ### Materials
 
 * Kitchen millwork: Reform Frame in white
-* Worktops and backsplash: Corian solid surface in black
+* Worktops, wall protection, upper cabinet caps: Corian solid surface in black
 * Flooring: PID River Edge engineered hardwood
+* Floating shelves: Shelfology Tromso
 
 ### Electrical
 
