@@ -5,9 +5,85 @@
         <description>Joseph renovates his kitchen.</description>
         <link>http://0.0.0.0:4000/kitchen145/</link>
         <atom:link href="http://0.0.0.0:4000/kitchen145/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 12 Feb 2022 12:03:52 -0600</pubDate>
-        <lastBuildDate>Sat, 12 Feb 2022 12:03:52 -0600</lastBuildDate>
+        <pubDate>Sun, 27 Feb 2022 10:42:13 -0600</pubDate>
+        <lastBuildDate>Sun, 27 Feb 2022 10:42:13 -0600</lastBuildDate>
         <generator>Jekyll v4.0.1</generator>
+        
+            <item>
+                <title>Bidding, Part III</title>
+                <description>&lt;p&gt;I’m almost at the end of the bidding process. It hasn’t exactly ended the way I’d hoped, but then the last two years have changed my expectations pretty considerably.&lt;/p&gt;
+
+&lt;p&gt;The contract still isn’t quite ready to sign, but I’m very close.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;The one big outstanding question has been resolved: I’m going to have to replace the feeder wire to my electrical panel at a cost of around $5,000. Reading between the lines, the city wasn’t able to grandfather me in with 75 amp service. It’s unfortunate from a cost perspective, though on the other hand, gives me lots of headroom for my menagerie of electrical appliances.&lt;/p&gt;
+
+&lt;p&gt;My architects have also consulted with the prospective contractor to trim out any unnecessary expenses. It hasn’t amounted to much relative to the total bill. They’ve cut out expenses like a few hundred dollars to run a water line to my fridge-freezer, which doesn’t need one, as it doesn’t have an ice maker.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, I think this goes to show the value of having experts combing through the details. The small amount of time spent scrutinizing the plans has saved far more than the cost of those professional services. Of course, I’m very aware that hiring an architect (or, let’s be honest, my aesthetic aspirations) probably increased the cost of the project in making it less straightforward.&lt;/p&gt;
+
+&lt;p&gt;Next week I’ll coordinate scheduling and dates. My architects have also said they’ll draw up a standard AIA (American Institute of Architects) owner-contractor agreement, rather than the document provided by my prospective contractor. I’ll probably have more to say about that once I’ve seen it.&lt;/p&gt;
+
+&lt;p&gt;As it stands now, the quote breaks down like this:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Item&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Cost&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Permitting&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$810&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;General conditions&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$7,400&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Preparation and demolition&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$3,600&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Carpentry (including flooring material)&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$17,300&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Electrical&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$14,800&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Plumbing&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$7,800&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Patching and painting&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$4,300&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Countertops&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$11,900&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Adding that up (and rounding slightly) brings the whole cost of the kitchen construction and materials to a cool $67,900. Adding the kitchen would pull that up another $22,400 in the itemized bid.&lt;/p&gt;
+
+&lt;p&gt;Nor is that going to be the total cost. I’ve already spent almost $17,000 on the cabinets and professional fees. (Though some of that is pre-paying for construction administration.) And I’ll need to add another $11,000 for appliances.&lt;/p&gt;
+
+&lt;p&gt;That will bring this whole project in at close to $90,000. A staggering sum of money, if I’m honest. And almost exactly double the original budget.&lt;/p&gt;
+
+&lt;p&gt;I’ll be back next week with more on the actual execution, scheduling, and taking the plunge.&lt;/p&gt;
+</description>
+                <pubDate>Fri, 25 Feb 2022 00:00:00 -0600</pubDate>
+                <link>http://0.0.0.0:4000/kitchen145/bid-iii</link>
+                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/bid-iii</guid>
+                
+                
+            </item>
         
             <item>
                 <title>Feeder Wire</title>
@@ -161,7 +237,7 @@
   
 &lt;/figure&gt;
 
-&lt;p&gt;I still need to do a bit more thinking. First, I need to confirm switch placement. Based on the plans, I don’t think I’ll have much to say. Rather cleverly — though apparently this is not unusual — the switch for the garbage disposal will be placed under the sink inside the cabinet rather than disrupt the harmony of the wall behind. I’m am hoping it will be possible to add in a few more outlets here and there. They’re not the most attractive part of a space, but you can never have enough.&lt;/p&gt;
+&lt;p&gt;I still need to do a bit more thinking. First, I need to confirm switch placement. Based on the plans, I don’t think I’ll have much to say. Rather cleverly — though apparently this is not unusual — the switch for the garbage disposal will be placed under the sink inside the cabinet rather than disrupt the harmony of the wall behind. I’m hoping it will be possible to add in a few more outlets here and there. They’re not the most attractive part of a space, but you can never have enough.&lt;/p&gt;
 
 &lt;p&gt;Second, I need to pick out the flooring. This has turned into a bit of an ordeal. Before I spend $5,000 on it, I figured it would be nice to see more than a little 4 by 4 inch sample. So I took a day off to go visit some flooring showrooms at the local design center. These fancy suppliers cater mostly to professionals, and so the showrooms are only open on weekdays during business hours.&lt;/p&gt;
 
@@ -529,58 +605,6 @@
                 <pubDate>Thu, 12 Nov 2020 00:00:00 -0600</pubDate>
                 <link>http://0.0.0.0:4000/kitchen145/cabients-are-expensive</link>
                 <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/cabients-are-expensive</guid>
-                
-                
-            </item>
-        
-            <item>
-                <title>Step One</title>
-                <description>&lt;p&gt;While signing up with an architect is a big step, I don’t think the project will feel completely real until I start signing the really big checks and the construction team starts to set up camp in my living room. Even so, it’s getting interesting. I had the first formal meeting with the architects after signing the paperwork, and we have some preliminary options.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;The next few weeks should see us achieve a few key milestones in terms of the schedule. Most importantly, I need to choose a layout, which drives most of the other decisions on the project. I’ve also been asked to start assembling a list of appliances, fixtures, and fittings so we can begin to price everything out.&lt;/p&gt;
-
-&lt;p&gt;On the appliance end of things, I have a head start. I bought a swanky Miele dishwasher — they really are the best — a couple of years ago, which will be reinstalled in the new kitchen. Given my excellent experience with Miele products over the years, I’d love to outfit the whole kitchen with their stuff. It’s slightly complicated by the fact they sell only a small, less up-to-date line of products in the US, and the models they do have here are exceptionally pricey. I’ll have to see how other parts of the budget shake out. I am very tempted to spring for the Miele cooktop anyway. It’s the only one I’ve been able to find that can bridge all the power together to send 7700 W to a single pan. It might actually be possible to do great stir fry at home.&lt;/p&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/dishwashers.jpg&quot; alt=&quot;Dishwashers&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;Shopping for dishwashers in a more innocent time at Yale Appliance.&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;In terms of the slightly more consequential decision about the layout, the architects have proposed a couple of different layout concepts. First, the more straightforward option maintains essentially the same layout, but opens the space up and makes it a bit more sociable. On the downside, it doesn’t really create all that much more space to work in, and it would be possibly even more of a squeeze to fit multiple people in the kitchen at the same time.&lt;/p&gt;
-
-&lt;p&gt;As an aside, this exercise has really brought home the fact I could use more space, full stop. And while the real estate agent that helped me buy this apartment told me to start planning for “phase II” when I signed the offer letter, I don’t think that’s in the cards anytime soon. It’s slightly horrifying to think for the money I’m spending to completely redo my kitchen, I could only buy about 25 more square feet of space in this neighborhood.&lt;/p&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/conservative.png&quot; alt=&quot;Safe option&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;The more conservative option: this keeps my services in more or less the same place but rearranges to make things more open and create more work space. (Image credit: BOS|UA)&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;The second more interesting option I can’t quite make my mind up on. It’s definitely bold. In this world, what’s now the kitchen becomes (at least in this version) an office. The kitchen then rather voraciously gobbles up the living room and a closet to span over 15 feet, plus a mini-island.&lt;/p&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/bold.png&quot; alt=&quot;Interesting option&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;The more inventive option: in this world, the kitchen spreads its wings. I get a big long linear run of cabinets at the cost of a closet, and a mini extra room for something where the kitchen sits now. (Image credit: BOS|UA)&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;I love the extra space for cooking, of course. I’m less sure I want the kitchen to take over quite so much, however well the ultimate design manages to blur the kitchen into the background and turn it into furniture.&lt;/p&gt;
-
-&lt;p&gt;I’ve wondered whether the putative office couldn’t become something other than an office. While working in my bedroom is maybe not ideal, I’ve settled into a nice rhythm. Whereas, if it could be made to feel less closed off, it might be fun to turn the former kitchen into a “music room”, so that the living space doesn’t feel quite as cramped if the kitchen gets so moved around.&lt;/p&gt;
-
-&lt;p&gt;Doubtless, there will be some further revisions. I’m not sure how often I’ll update this as those move along, but at the very least there will be another post in a few weeks when the layout and some other final decisions are made. It’s becoming real! As long as the budget doesn’t completely fall apart — and perhaps skirting over the whole my-home-will-be-a-construction-site issue — this should be fun.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Feature image credit: BOS|UA&lt;/em&gt;&lt;/p&gt;
-</description>
-                <pubDate>Thu, 22 Oct 2020 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/step-one</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/step-one</guid>
                 
                 
             </item>
