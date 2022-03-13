@@ -18,7 +18,7 @@ description: "Joseph renovates his kitchen."
 baseurl: "/kitchen145"
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://jkibe.github.io/kitchen145/"
+url: "https://jkibe.github.io"
 
 # Favicon
 favicon: images/favicon.png
