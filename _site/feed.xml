@@ -3,11 +3,44 @@
     <channel>
         <title>Renovation Diary</title>
         <description>Joseph renovates his kitchen.</description>
-        <link>http://0.0.0.0:4000/kitchen145/</link>
-        <atom:link href="http://0.0.0.0:4000/kitchen145/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 14 Mar 2022 20:56:14 -0500</pubDate>
-        <lastBuildDate>Mon, 14 Mar 2022 20:56:14 -0500</lastBuildDate>
+        <link>https://jkibe.github.io/kitchen145/</link>
+        <atom:link href="https://jkibe.github.io/kitchen145/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sun, 27 Mar 2022 08:21:17 -0500</pubDate>
+        <lastBuildDate>Sun, 27 Mar 2022 08:21:17 -0500</lastBuildDate>
         <generator>Jekyll v4.0.1</generator>
+        
+            <item>
+                <title>The Permit Dash</title>
+                <description>&lt;p&gt;For once, some good news on the project: my contractor got the permit way ahead of schedule. On the other hand, I wasn’t really prepared for them to get it so quickly. It was supposed to take about a month from contract signature; it wound up taking about two days.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;It took about a week of back-and-forth with my building manager to get the sign off from my condo association for the project. At which point, the contractor applied for the permit.&lt;/p&gt;
+
+&lt;p&gt;When we were going over the contract, it was explained to me that it would take about 30 days to get the permit. Not because it had to, but because that’s the time limit the City of Boston operates under, and, in my team’s experience, they usually took the whole window.&lt;/p&gt;
+
+&lt;p&gt;Thus my immense surprise when, two days later, I got a phone call from the contractor that the permit was approved, and they were ready to go. I got the impression they could’ve started the next morning had I been ready.&lt;/p&gt;
+
+&lt;p&gt;Before they start, however, I’m going to have to move all my stuff out of the work area. Most of this will go elsewhere in my apartment or my building. I have basement storage in the basement, and I bought a $20 Ikea garment rack to hold my clothes in the (relative) safety of my bedroom. That’s been my weekend project, hauling one box of stuff down to the basement after another.&lt;/p&gt;
+
+&lt;p&gt;The stickier issue is getting the larger pieces of furniture out, like my dining table. That really won’t fit anywhere else, and so I needed to find a moving and storage company.&lt;/p&gt;
+
+&lt;p&gt;I keep thinking there’s a business opportunity buried in the madness of finding movers, in the same way I found the process of finding a contractor so fraught. If there’s anything even remotely non-standard about your move, no one reads the notes, and the estimate doesn’t seem to take the details into account. Plus there’s all the other complication of having to get a parking permit from the city and from my condo association to make sure the move is allowed.&lt;/p&gt;
+
+&lt;p&gt;I think I’ve found movers, a nice technology-forward company called Small Haul, that focuses on small moving jobs, and who (blessedly) has a storage partner that isn’t at capacity. I didn’t have the presence of mind to clear the date with the people who manage my building, so it’s looking like it will be a mad dash on Monday morning to get the details ironed out.&lt;/p&gt;
+
+&lt;p&gt;I’m really pushing to get the work going in two weeks, when I have a good excuse not to be at home while they’re getting going and doing the demolition.&lt;/p&gt;
+
+&lt;p&gt;This has also been an interesting test of the project management stance of the system. With so many people and so many parts in motion, I can see how communication is vital. The architect managing my project suggested we have a weekly check-in meeting, and I’m beginning to see the value in that, to make sure information flows well between the group.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Feature image credit BOS |UA&lt;/em&gt;&lt;/p&gt;
+</description>
+                <pubDate>Sat, 26 Mar 2022 00:00:00 -0500</pubDate>
+                <link>https://jkibe.github.io/kitchen145/permit-dash</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/permit-dash</guid>
+                
+                
+            </item>
         
             <item>
                 <title>Contract Signature</title>
@@ -15,10 +48,82 @@
 
 &lt;!--more--&gt;
 
+&lt;p&gt;We wound up going for what I thought was a reasonably modern experience. The architect shepherding my project prepared the standard A105 (a standard contract for small projects), which was first executed by the contractor, and then given to me for signature.&lt;/p&gt;
+
+&lt;p&gt;From here, I need to mail the contractor a check for the first payment. At that point, they’ll get going on the permitting process, which formally gates the construction beginning in earnest. That’s supposed to take about 30 days, and then adding the three months of construction, the project should be substantially complete around the middle of July.&lt;/p&gt;
+
+&lt;p&gt;As I mentioned in the last post, this included a not-so-fun extra $1,000 or so for an additional chunk of wall to facilitate the necessary electrical upgrade.&lt;/p&gt;
+
+&lt;p&gt;The final contract’s cost breakdown was:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Item&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Cost&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Permitting&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$810&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;General conditions&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$7,428.24&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Preparation and demolition&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$3,645&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Carpentry (including flooring material)&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$18,250&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Electrical&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$14,842.25&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Plumbing&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$7,672&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Patching and painting&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$4,290&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Countertops&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$11,853.70&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Among those costs, a few were broken out to account for potential variance. This is meant to make it fairer should one of the more speculative items cost more or less than anticipated. For instance, I really hope running a new feeder wire does not do $1,000 in damage to the common areas.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Flooring: $4,800&lt;/li&gt;
+  &lt;li&gt;Fire sprinkler changes: $900&lt;/li&gt;
+  &lt;li&gt;Painting and patching common areas: $1,000&lt;/li&gt;
+  &lt;li&gt;Countertop material: $5,692&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is then broken out into a payment schedule based on milestones, which someone from my architect’s office will assess and gate payment for as part of their construction administration.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Payment 1: Contract signature: $9,015.72&lt;/li&gt;
+  &lt;li&gt;Payment 2: Work begins: $17,462.89&lt;/li&gt;
+  &lt;li&gt;Payment 3: First fix electrical and plumbing plus framing: $16,146.39&lt;/li&gt;
+  &lt;li&gt;Payment 4: After millwork installation: $8,843.90&lt;/li&gt;
+  &lt;li&gt;Payment 5: After flooring is installed plus second fix plumbing and electrical: $10,322.80&lt;/li&gt;
+  &lt;li&gt;Payment 6: After final inspections and completion: $7,000.00&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Now my attention turns to finding somewhere to store all of my large furniture when the project is moving. The clock is ticking!&lt;/p&gt;
 </description>
                 <pubDate>Mon, 14 Mar 2022 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/signature</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/signature</guid>
+                <link>https://jkibe.github.io/kitchen145/signature</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/signature</guid>
                 
                 
             </item>
@@ -50,8 +155,8 @@
 &lt;p&gt;&lt;em&gt;Feature image credit BOS |UA&lt;/em&gt;&lt;/p&gt;
 </description>
                 <pubDate>Sat, 12 Mar 2022 00:00:00 -0600</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/bid-iv</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/bid-iv</guid>
+                <link>https://jkibe.github.io/kitchen145/bid-iv</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/bid-iv</guid>
                 
                 
             </item>
@@ -126,8 +231,8 @@
 &lt;p&gt;I’ll be back next week with more on the actual execution, scheduling, and taking the plunge.&lt;/p&gt;
 </description>
                 <pubDate>Fri, 25 Feb 2022 00:00:00 -0600</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/bid-iii</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/bid-iii</guid>
+                <link>https://jkibe.github.io/kitchen145/bid-iii</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/bid-iii</guid>
                 
                 
             </item>
@@ -153,8 +258,8 @@
 &lt;p&gt;If it has to happen, I don’t have much choice but to pay for it. I also don’t envy the person who has to do the work.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 12 Feb 2022 00:00:00 -0600</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/feeder-wire</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/feeder-wire</guid>
+                <link>https://jkibe.github.io/kitchen145/feeder-wire</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/feeder-wire</guid>
                 
                 
             </item>
@@ -207,8 +312,8 @@
 &lt;p&gt;I should have an update next week on exactly what comes of that. I’m a little nervous, to be sure. Home renovations are notorious for being stressful, complicated, and running over budget. But after the very unpleasant experience buying my apartment — which really was at the absolute limits of what I could afford at the time — I’m very happy choosing the slightly more conservative path. Spending $65,000 is a pretty dizzying concept. But I also have the money, and enough beyond that set aside for a pretty catastrophic worst-case scenario.&lt;/p&gt;
 </description>
                 <pubDate>Fri, 04 Feb 2022 00:00:00 -0600</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/bid-ii</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/bid-ii</guid>
+                <link>https://jkibe.github.io/kitchen145/bid-ii</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/bid-ii</guid>
                 
                 
             </item>
@@ -263,8 +368,8 @@
 
 </description>
                 <pubDate>Sat, 04 Sep 2021 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/crossroads</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/crossroads</guid>
+                <link>https://jkibe.github.io/kitchen145/crossroads</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/crossroads</guid>
                 
                 
             </item>
@@ -308,8 +413,8 @@
 
 </description>
                 <pubDate>Thu, 04 Mar 2021 00:00:00 -0600</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/about-to-bid</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/about-to-bid</guid>
+                <link>https://jkibe.github.io/kitchen145/about-to-bid</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/about-to-bid</guid>
                 
                 
             </item>
@@ -331,8 +436,8 @@
 
 </description>
                 <pubDate>Fri, 19 Feb 2021 00:00:00 -0600</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/cabinets-part-v</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/cabinets-part-v</guid>
+                <link>https://jkibe.github.io/kitchen145/cabinets-part-v</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/cabinets-part-v</guid>
                 
                 
             </item>
@@ -414,56 +519,8 @@
 &lt;p&gt;&lt;em&gt;Feature image credit BOS |UA&lt;/em&gt;&lt;/p&gt;
 </description>
                 <pubDate>Sat, 30 Jan 2021 00:00:00 -0600</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/cabinets-part-iv</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/cabinets-part-iv</guid>
-                
-                
-            </item>
-        
-            <item>
-                <title>Cabinets, Part III</title>
-                <description>&lt;p&gt;Before spending upwards of $10,000 on something, it’s worth taking the time to see what you’re buying in person. Or at least to the extent possible in current circumstances. If it were easier to travel, I probably would have made a trip down to New York to look at complete kitchens made with Reform’s cabinet system. I’ve chosen to settle for more pandemic-friendly samples.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;The leading contender was Reform’s “Frame” option in white. Fortunately they had that option in stock as a sample, so I was able to get my hands on that. My architects are also big fans of natural wood, so they also pulled the “Basis” option in oak veneer for me to look at.&lt;/p&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/basis-on-white.jpg&quot; alt=&quot;Basis&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;The Reform Basis option. I liked the oak look more than I would've guessed. I was not as thrilled with the built-in handle.&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;I was pleasantly surprised with the oak veneer finish. My inclination is against lots and lots of natural wood. I couldn’t articulate exactly why. But the oak is really quite nice. Certainly much nicer than other oak effect or oak veneers I’ve seen in fancy hotel rooms or other people’s less “designed” kitchens.&lt;/p&gt;
-
-&lt;p&gt;I was unpleasantly disappointed by the integrated circular cutout handle. I love the idea of a kitchen without pulls. It’s sleeker, more compact, and presents fewer chances to catch stuff (like a headphone cable or coat). But the integrated pulls on the Basis didn’t float my boat. They’re small and a little uncomfortable. There also wasn’t a ton of attention paid to the feeling of the surface you touch. It feels like bland just-sanded-enough wood. There is no joy.&lt;/p&gt;
-
-&lt;p&gt;It looks kind of cool. I could see this being a good option for something other than a kitchen that’s opened less often. Having to deal with that built-in pull every day would drive me crazy.&lt;/p&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/frame-with-book.jpg&quot; alt=&quot;Frame&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;The Reform Frame in white. This is positioned roughly where the new run of kitchen cabinets will sit. My apartment faces north, so everything is washed in a very painterly soft light.&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;At any rate, I was already much more inclined to the Frame look painted white. After living with the samples for a few days, I’ve more or less committed to it. It has the whiff of classicism that I like with a bit of a modern twist. Rather than a bog standard shaker look, it evokes it with an edgy angled frame. There’s texture as the wood grain shows through the paint.&lt;/p&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/frame-white-on-white.jpg&quot; alt=&quot;Frame with quartz&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;Experimenting with worktop options against an end table with a marble-effect quartz composite.&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;I’m still waiting on final pricing for the cabinets. I also need to figure out exactly how I want the drawers and doors configured. Once that’s all set, the order can go in, and the fun really begins. With a provisional delivery date, I can start the planning process (getting approval from my condo board) and pick a contractor.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Feature image credit BOS |UA&lt;/em&gt;&lt;/p&gt;
-</description>
-                <pubDate>Sun, 13 Dec 2020 00:00:00 -0600</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/cabinets-part-iii</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/cabinets-part-iii</guid>
+                <link>https://jkibe.github.io/kitchen145/cabinets-part-iv</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/cabinets-part-iv</guid>
                 
                 
             </item>
