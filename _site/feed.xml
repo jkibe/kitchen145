@@ -5,9 +5,29 @@
         <description>Joseph renovates his kitchen.</description>
         <link>https://jkibe.github.io/kitchen145/</link>
         <atom:link href="https://jkibe.github.io/kitchen145/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 23 Apr 2022 11:27:18 -0500</pubDate>
-        <lastBuildDate>Sat, 23 Apr 2022 11:27:18 -0500</lastBuildDate>
+        <pubDate>Wed, 27 Apr 2022 19:26:21 -0500</pubDate>
+        <lastBuildDate>Wed, 27 Apr 2022 19:26:21 -0500</lastBuildDate>
         <generator>Jekyll v4.0.1</generator>
+        
+            <item>
+                <title>Framing, Part III</title>
+                <description>&lt;p&gt;The rest of the week saw a bit of activity. It’s felt a bit like one step forward, two steps back. The framing is closer, but still not quite there. The plumbing work got going. And the electrical panel issue continues to vex.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/framing-algined.jpg&quot; alt=&quot;Aligned framing&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+</description>
+                <pubDate>Wed, 27 Apr 2022 00:00:00 -0500</pubDate>
+                <link>https://jkibe.github.io/kitchen145/framing-iii</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/framing-iii</guid>
+                
+                
+            </item>
         
             <item>
                 <title>Framing, Part II</title>
@@ -15,38 +35,43 @@
 
 &lt;!--more--&gt;
 
-&lt;p&gt;On the framing front, the team came back for a second pass. They got closer; clearly the new set of drawings helped. Unfortunately, it’s still not quite right. I confirmed&lt;/p&gt;
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/framing-view.jpg&quot; alt=&quot;View out the new aperture&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;The new view out from the former kitchen area, correctly framed&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;On the framing front, the team came back for a second pass. They got closer; clearly the new set of drawings helped. Unfortunately, it’s still not quite right. The framing now has the aperture designed to let light into the former kitchen space, behind the new kitchen sink and dishwasher. It’s also been trimmed down to the right height, about a foot off the ceiling — it’s designed to line up with the height of structural concrete beams running through the space — that should let in even more light.&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/XhTnkUX7Fgs&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
+&lt;p&gt;But they didn’t quite get it right. The whole wall needs to be in one plane, not offset. Talking to both the architects and the project manager on the job, it will get fixed. In all honesty, I do find it rather baffling. I noticed the issue myself, and I’m definitely not an expert.&lt;/p&gt;
+
 &lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/framing-alignment-close.jpg&quot; alt=&quot;Sink in a box&quot; /&gt;
+  &lt;img src=&quot;images/framing-alignment-close.jpg&quot; alt=&quot;Out of plane&quot; /&gt;
   
-  &lt;figcaption class=&quot;caption-text&quot;&gt;The sink and faucet have arrived&lt;/figcaption&gt;
+  &lt;figcaption class=&quot;caption-text&quot;&gt;The whole wall should be in the same plane&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;Meanwhile, the plumber stopped by to begin getting ready for the first fix. From what I can tell, he removed the old plumbing and added valves off the building’s main water lines in preparation for the next step. I’m guessing that can’t happen until the framing gets fixed, though.&lt;/p&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/discarded-plumbing.jpg&quot; alt=&quot;Remnants of plumbing&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;The old sink connections&lt;/figcaption&gt;
   
 &lt;/figure&gt;
 
 &lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/discarded-plumbing.jpg&quot; alt=&quot;Reform panels&quot; /&gt;
+  &lt;img src=&quot;images/plumbing-capped.jpg&quot; alt=&quot;Capped plumbing&quot; /&gt;
   
-  &lt;figcaption class=&quot;caption-text&quot;&gt;Some of the larger cabinet doors and panels&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/plumbing-capped.jpg&quot; alt=&quot;Cabinet doors in packaging&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;A few panels in their protective packing&lt;/figcaption&gt;
+  &lt;figcaption class=&quot;caption-text&quot;&gt;New valves in the kitchen plumbing stack&lt;/figcaption&gt;
   
 &lt;/figure&gt;
 
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/framing-view.jpg&quot; alt=&quot;Reform packing slip&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;They really did start working on this order over a year ago&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
+&lt;p&gt;The electrical situation continues to cause a problem. Apparently the head electrician is on vacation in Brazil, and so isn’t around to negotiate with the electrical inspectors. It would really be nice if I didn’t need to run a new feeder through the common corridor, if they insist that I have a four-wire feeder that won’t fit in the conduit.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 23 Apr 2022 00:00:00 -0500</pubDate>
                 <link>https://jkibe.github.io/kitchen145/framing-ii</link>
@@ -504,33 +529,6 @@
                 <pubDate>Fri, 25 Feb 2022 00:00:00 -0600</pubDate>
                 <link>https://jkibe.github.io/kitchen145/bid-iii</link>
                 <guid isPermaLink="true">https://jkibe.github.io/kitchen145/bid-iii</guid>
-                
-                
-            </item>
-        
-            <item>
-                <title>Feeder Wire</title>
-                <description>&lt;p&gt;I’m very close to signing a contract to get the program going. The last detail: pinning down the cost of the electrical work. In particular, the core upgrades necessary for the increased load that the renovation will put on the system.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;I went into the project knowing that I’d need to upgrade the panel. For starters, I’m adding enough new circuits I need a new panel simply for space.&lt;/p&gt;
-
-&lt;p&gt;Current code requires more loads go on separate circuits for safety. More importantly, I’m adding a bunch of new appliances: a separate oven and cooktop (rather than the existing all-in-one range), each of which need a double-gang slot to carry 240 V to those appliances; and then a washer and dryer. Fortunately, the Miele heat pump dryer that I’ve specified only requires a 15 amp circuit, but each laundry appliance does need to go on its own separate circuit.&lt;/p&gt;
-
-&lt;p&gt;The relatively straightforward panel replacement had already been factored into the bid. But there was an additional twist that needed additional following up.&lt;/p&gt;
-
-&lt;p&gt;All these new appliances also require more overall capacity on the panel. My current service to the apartment is only 60 amps, common when my building was built in the 1950s, but well below current standards.&lt;/p&gt;
-
-&lt;p&gt;According to the electrician, the existing feeder wire — the wire that runs from the electric meter to my apartment — can only safely carry 75 amps. That’s enough to support all the new electrical load I’m putting on the system, but below the 100 amp minimum that code currently requires for a dwelling of any size.&lt;/p&gt;
-
-&lt;p&gt;The question then is whether it will be possible to have my system grandfathered in. If it can be, that’s a huge savings: there’s no additional work to do. If it can’t, then the electrician will need to run a new feeder wire from my apartment to the meter. I haven’t seen pricing, but there’s no way that’s going to be inexpensive. The meter is about 100 feet down the common corridor from my apartment, and the new wire won’t run in a completely straight line. Moreover, it will have to run through a conduit buried in a cast concrete slab.&lt;/p&gt;
-
-&lt;p&gt;If it has to happen, I don’t have much choice but to pay for it. I also don’t envy the person who has to do the work.&lt;/p&gt;
-</description>
-                <pubDate>Sat, 12 Feb 2022 00:00:00 -0600</pubDate>
-                <link>https://jkibe.github.io/kitchen145/feeder-wire</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/feeder-wire</guid>
                 
                 
             </item>

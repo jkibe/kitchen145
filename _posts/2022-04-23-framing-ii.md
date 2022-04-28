@@ -13,7 +13,7 @@ The rest of the week saw a bit of activity. It's felt a bit like one step forwar
 
 {% include image_caption.html imageurl="images/framing-view.jpg" title="View out the new aperture" caption="The new view out from the former kitchen area, correctly framed" %}
 
-On the framing front, the team came back for a second pass. They got closer; clearly the new set of drawings helped. Unfortunately, it's still not quite right. The framing now has the aperture designed to let light into the former kitchen space, behind the new kitchen sink and dishwasher. It's also been trimmed down to the right height, about a foot off the ceiling --- it's designed to line up with the height of structural concrete beams running through the space --- that should let in even more light.
+On the framing front, the team came back for a second pass. They got closer; clearly the new set of drawings helped. Unfortunately, it's still not quite right. The framing now has the aperture designed to let light into the former kitchen space, behind the new kitchen sink and dishwasher. It's also been trimmed down to the right height, about a foot off the ceiling — it's designed to line up with the height of structural concrete beams running through the space — that should let in even more light.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XhTnkUX7Fgs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
