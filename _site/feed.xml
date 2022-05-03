@@ -5,22 +5,100 @@
         <description>Joseph renovates his kitchen.</description>
         <link>https://jkibe.github.io/kitchen145/</link>
         <atom:link href="https://jkibe.github.io/kitchen145/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 27 Apr 2022 19:26:21 -0500</pubDate>
-        <lastBuildDate>Wed, 27 Apr 2022 19:26:21 -0500</lastBuildDate>
+        <pubDate>Tue, 03 May 2022 07:29:40 -0500</pubDate>
+        <lastBuildDate>Tue, 03 May 2022 07:29:40 -0500</lastBuildDate>
         <generator>Jekyll v4.0.1</generator>
         
             <item>
-                <title>Framing, Part III</title>
-                <description>&lt;p&gt;The rest of the week saw a bit of activity. It’s felt a bit like one step forward, two steps back. The framing is closer, but still not quite there. The plumbing work got going. And the electrical panel issue continues to vex.&lt;/p&gt;
+                <title>An Electric Saga</title>
+                <description>&lt;p&gt;There was some excitement on site yesterday. I didn’t stay all day, but I managed to catch several people first thing in the morning. That provided me with a few updates, and I got to see the electrician’s crew in action as they began the first fix wiring.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
+&lt;p&gt;As always, the tangible progress is the most satisfying. They ran the rough wiring for a few of the smaller circuits, for appliances like the fridge-freezer and the dishwasher, and the various new outlets.&lt;/p&gt;
+
 &lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/framing-algined.jpg&quot; alt=&quot;Aligned framing&quot; /&gt;
+  &lt;img src=&quot;images/ff-checklist.jpg&quot; alt=&quot;&quot; /&gt;
   
   &lt;figcaption class=&quot;caption-text&quot;&gt;&lt;/figcaption&gt;
   
 &lt;/figure&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/ff-two-gang.jpg&quot; alt=&quot;&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/ff-wide.jpg&quot; alt=&quot;&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/ff-old-switch.jpg&quot; alt=&quot;&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/ff-old-light.jpg&quot; alt=&quot;&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;They removed a lot of the vestigial outlets and wiring too, such as the old runs for the countertop outlets in the kitchen. Sadly, one of the few ceiling lights had to go. There was no way to save it without aesthetic compromises I wasn’t willing to live with.&lt;/p&gt;
+
+&lt;p&gt;There’s still no exact plan for the vexed question of the electrical panel’s feeder wire. The electrician was able to get the city to approve a three-wire configuration, using the conduit as the ground. But running a new feeder 100 feet through a 70-year-old conduit buried in a concrete slab is not sure thing. There’s thus some planning involved in the step: the electrician wants to have a “plan B” ready to go. Namely, destroying the common hallway to run a new feeder that way. I have to get the condo association to sign off on that before that’s on the table as the fallback.&lt;/p&gt;
+
+&lt;p&gt;On the plus side, I finally got everyone to understand the nuanced situation with the Miele heat pump dryer I’ve specified. This may save the day, depending on the electrician’s calculations.&lt;/p&gt;
+
+&lt;p&gt;Because it uses a heat pump, this dryer consumes substantially less power than a traditional electric tumble dryer, and so requires only a 120 V 20 amp circuit rather than a 240 V 30 amp “dryer” circuit. It’s possible this gets the load down to below 60 amps, and no new feeder wire at all is required. Which would be great, for many reasons.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, as the electrical situation somewhat stabilizes, the plumbing has introduced a new wrinkle of its own.&lt;/p&gt;
+
+&lt;p&gt;Now that he’s looked more carefully at the situation, the plumber has decided it’s not possible to use the kitchen’s drain line for the laundry stack. The exact logic isn’t entirely clear to me. The architects are consulting with an engineer to try and work around the problem.&lt;/p&gt;
+
+&lt;p&gt;Depending on the outcome of that consultation, this wrinkle opens the possibility they have to run the plumbing through my bathroom stack. Which would mean opening more walls and tearing apart my bathroom.&lt;/p&gt;
+
+&lt;p&gt;Once my finances have recovered from the kitchen project, I would eventually like to redo the bathroom. If they need to do a slightly ugly repair after tearing the wall open, maybe that’s fine, especially if it gets a sort of head start on the demolition.&lt;/p&gt;
+
+&lt;p&gt;I’ve been told they’ll have an opinion by later this week. Perhaps I’ll be looking at tile now after all.&lt;/p&gt;
+</description>
+                <pubDate>Tue, 03 May 2022 00:00:00 -0500</pubDate>
+                <link>https://jkibe.github.io/kitchen145/electrical</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/electrical</guid>
+                
+                
+            </item>
+        
+            <item>
+                <title>Framing, Part III</title>
+                <description>&lt;p&gt;The crew made another trip and, as far as I can tell, they got the framing right on the third pass.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;From what I can tell, they simply picked the framing up, moved it forward, and reattached it to the ground. That also required extending the platform where the cabinets will sit, and adjust the box for the soffit over the refrigerator and laundry cabinets.&lt;/p&gt;
+
+&lt;p&gt;Everything is now in the same plane, and the new spaces have been properly delineated. While this apartment is never going to be enormous, I’m pleasantly surprised at the amount of space in the former kitchen area.&lt;/p&gt;
+
+&lt;p&gt;Some of the framing looks a little rough. It’s not clear to me whether that’s normal and reasonable, or something I should be worried about. I’m never going to see the framing once the project is done. Presumably framing with more finesse would be slower and more expensive.&lt;/p&gt;
+
+&lt;p&gt;They also removed more of the wall of the former kitchen space, per what I think were the plumber’s instructions. It’s interesting to see the guts of the building.&lt;/p&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/plumbing-wall.jpg&quot; alt=&quot;More wall is removed&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;Here too I’m slightly confused: the updating framing drawings suggested the whole wall would come down and be replaced with a new 2x4 wall. Avoiding work is good for me, the contractor, and the planet. I worry that not following the plan will cause other problems.&lt;/p&gt;
 </description>
                 <pubDate>Wed, 27 Apr 2022 00:00:00 -0500</pubDate>
                 <link>https://jkibe.github.io/kitchen145/framing-iii</link>
@@ -453,82 +531,6 @@
                 <pubDate>Sat, 12 Mar 2022 00:00:00 -0600</pubDate>
                 <link>https://jkibe.github.io/kitchen145/bid-iv</link>
                 <guid isPermaLink="true">https://jkibe.github.io/kitchen145/bid-iv</guid>
-                
-                
-            </item>
-        
-            <item>
-                <title>Bidding, Part III</title>
-                <description>&lt;p&gt;I’m almost at the end of the bidding process. It hasn’t exactly ended the way I’d hoped, but then the last two years have changed my expectations pretty considerably.&lt;/p&gt;
-
-&lt;p&gt;The contract still isn’t quite ready to sign, but I’m very close.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;The one big outstanding question has been resolved: I’m going to have to replace the feeder wire to my electrical panel at a cost of around $5,000. Reading between the lines, the city wasn’t able to grandfather me in with 75 amp service. It’s unfortunate from a cost perspective, though on the other hand, gives me lots of headroom for my menagerie of electrical appliances.&lt;/p&gt;
-
-&lt;p&gt;My architects have also consulted with the prospective contractor to trim out any unnecessary expenses. It hasn’t amounted to much relative to the total bill. They’ve cut out expenses like a few hundred dollars to run a water line to my fridge-freezer, which doesn’t need one, as it doesn’t have an ice maker.&lt;/p&gt;
-
-&lt;p&gt;On the other hand, I think this goes to show the value of having experts combing through the details. The small amount of time spent scrutinizing the plans has saved far more than the cost of those professional services. Of course, I’m very aware that hiring an architect (or, let’s be honest, my aesthetic aspirations) probably increased the cost of the project in making it less straightforward.&lt;/p&gt;
-
-&lt;p&gt;Next week I’ll coordinate scheduling and dates. My architects have also said they’ll draw up a standard AIA (American Institute of Architects) owner-contractor agreement, rather than the document provided by my prospective contractor. I’ll probably have more to say about that once I’ve seen it.&lt;/p&gt;
-
-&lt;p&gt;As it stands now, the quote breaks down like this:&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Item&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;Cost&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Permitting&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$810&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;General conditions&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$7,400&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Preparation and demolition&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$3,600&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Carpentry (including flooring material)&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$17,300&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Electrical&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$14,800&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Plumbing&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$7,800&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Patching and painting&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$4,300&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Countertops&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$11,900&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Adding that up (and rounding slightly) brings the whole cost of the kitchen construction and materials to a cool $67,900. Adding the bathroom would pull that up another $22,400 in the itemized bid.&lt;/p&gt;
-
-&lt;p&gt;Nor is that going to be the total cost. I’ve already spent almost $17,000 on the cabinets and professional fees. (Though some of that is pre-paying for construction administration.) And I’ll need to add another $11,000 for appliances.&lt;/p&gt;
-
-&lt;p&gt;That will bring this whole project in at close to $90,000. A staggering sum of money, if I’m honest. And almost exactly double the original budget.&lt;/p&gt;
-
-&lt;p&gt;I’ll be back next week with more on the actual execution, scheduling, and taking the plunge.&lt;/p&gt;
-</description>
-                <pubDate>Fri, 25 Feb 2022 00:00:00 -0600</pubDate>
-                <link>https://jkibe.github.io/kitchen145/bid-iii</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/bid-iii</guid>
                 
                 
             </item>
