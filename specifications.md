@@ -13,8 +13,6 @@ A list of all the pieces that were specified as part of the project.
 * Oven: Miele 7660 BP AM
 * Vent hood: Bertazzoni KIN30XV
 * Refrigerator: Liebherr HC 1030
-* Washing machine: Miele WXF 660 WCS TDos
-* Tumble dryer: Miele TXI680WP Eco & Steam
 
 ### Plumbing fixtures
 
@@ -25,7 +23,7 @@ A list of all the pieces that were specified as part of the project.
 
 * Kitchen millwork: Reform Frame in white
 * Worktops, wall protection, upper cabinet caps: Corian solid surface in black
-* Flooring: PID River Edge engineered hardwood
+* Flooring: PID Hope engineered hardwood
 * Floating shelves: Shelfology Tromso
 
 ### Electrical
