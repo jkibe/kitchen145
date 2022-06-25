@@ -109,6 +109,10 @@
 <lastmod>2022-06-21T00:00:00-05:00</lastmod>
 </url>
 <url>
+<loc>http://0.0.0.0:4000/kitchen145/plumbing-progress</loc>
+<lastmod>2022-06-25T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>http://0.0.0.0:4000/kitchen145/about</loc>
 </url>
 <url>
@@ -143,5 +147,8 @@
 </url>
 <url>
 <loc>http://0.0.0.0:4000/kitchen145/page9/</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/kitchen145/page10/</loc>
 </url>
 </urlset>

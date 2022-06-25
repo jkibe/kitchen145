@@ -5,9 +5,32 @@
         <description>Joseph renovates his kitchen.</description>
         <link>https://jkibe.github.io/kitchen145/</link>
         <atom:link href="https://jkibe.github.io/kitchen145/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Jun 2022 18:16:33 -0500</pubDate>
-        <lastBuildDate>Tue, 21 Jun 2022 18:16:33 -0500</lastBuildDate>
+        <pubDate>Sat, 25 Jun 2022 10:31:39 -0500</pubDate>
+        <lastBuildDate>Sat, 25 Jun 2022 10:31:39 -0500</lastBuildDate>
         <generator>Jekyll v4.0.1</generator>
+        
+            <item>
+                <title>Plumbing progress</title>
+                <description>&lt;p&gt;Progress continues working toward completion of the first fix plumbing and electric. The plumber was on site several days running the new drain, water, and vent lines for the relocated kitchen sink. From what I can tell, everything is ready to go.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;It’s kind of fun to see the parts of the old drain and vent stack that the plumber cut out to tie the new lines in. They’re very substantial chunks of pipe. Slightly more terrifying to peer into the old sections of pipe and see the accretion of sludge or corrosion&lt;/p&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/pluming-old-drain.jpg&quot; alt=&quot;Sections of pipe&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;Drain and vent lines removed to make way for new adapters&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+</description>
+                <pubDate>Sat, 25 Jun 2022 00:00:00 -0500</pubDate>
+                <link>https://jkibe.github.io/kitchen145/plumbing-progress</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/plumbing-progress</guid>
+                
+                
+            </item>
         
             <item>
                 <title>Inching to the First Fix</title>
@@ -17,6 +40,51 @@
 
 &lt;!--more--&gt;
 
+&lt;p&gt;As part of the asbestos removal, they tore down what remained of the old kitchen wall, and then added new framing where that had been. From what I could tell, that was a relatively straightforward process.&lt;/p&gt;
+
+&lt;p&gt;More involved (and still unresolved) was the electrical work. The most straightforward reading of the electrical code meant that I was initially required to upgrade my 60 A service — a relic from the 1950s — with 100 A service, the modern minimum. That requires upgrading the conductors that run from my apartment to the electric meter, no mean feat when that new feeder line had to run through a 70-year-old conduit buried in cast concrete.&lt;/p&gt;
+
+&lt;p&gt;Despite several attempts, the electricians were unable to run the new feeder. The current plan is to go back to the city electrical department and argue that the actual load fits within the limits of 60 A service. It’s not a huge apartment after all. Whether that will land remains to be seen. I’m hoping it will.&lt;/p&gt;
+
+&lt;p&gt;From what I understand, the alternative would be incredibly expensive and disruptive: destroying the common hallway to run a new feeder through the ceiling there.&lt;/p&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/rough-panel.jpg&quot; alt=&quot;Electrical panel&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;The panel upgrade begins&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;In the meantime, more (successful) electrical wiring happened. Several new circuits were run, and they began the process of upgrading my panel.&lt;/p&gt;
+
+&lt;p&gt;Regulations dominated aesthetic considerations in one case. They had to add an outlet for the small run of counter space to the left of the new sink. The electrical code requires any run of counter space over 12” to have at least one outlet.&lt;/p&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/rough-kitchen-outlet.jpg&quot; alt=&quot;An outlet&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;The wall paneling will have to be marred by an outlet&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;More interestingly, they were able to wire for the LED strips using very narrow 18 gauge conductors, as (presumably) the LEDs are so low power.&lt;/p&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/rough-18.jpg&quot; alt=&quot;18 gauge&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;Wiring for the LED strips&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;Work on the first fix plumbing also got started. There’s not a ton to see yet, only the beginnings of new drain and vent lines.&lt;/p&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/sink-rough-drain.jpg&quot; alt=&quot;18 gauge&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;A drain for the new kitchen sink&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;Progress, for sure. I’m less sure they’re going to make it to the early July deadline.&lt;/p&gt;
 </description>
                 <pubDate>Tue, 21 Jun 2022 00:00:00 -0500</pubDate>
                 <link>https://jkibe.github.io/kitchen145/inching-to-first-fix</link>
@@ -442,30 +510,6 @@
                 <pubDate>Sat, 09 Apr 2022 00:00:00 -0500</pubDate>
                 <link>https://jkibe.github.io/kitchen145/demolition</link>
                 <guid isPermaLink="true">https://jkibe.github.io/kitchen145/demolition</guid>
-                
-                
-            </item>
-        
-            <item>
-                <title>The End of the Beginning</title>
-                <description>&lt;p&gt;It’s really happening: the demolition for the new kitchen begins on Tuesday next week. And it’s been even more of a mad dash to make sure that happened, and that everything was in place for it to.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;As mentioned in the last post, once the contractor got the permit, it was really a race to get everything in place. With no small amount of stress and scrambling, I managed to thread that needle. The movers showed up on time to pick up the larger pieces of furniture, and I spent evenings and the two weekends bringing box after box to my basement storage unit.&lt;/p&gt;
-
-&lt;p&gt;It was a lot of work. I told myself that only packing up part of my apartment wouldn’t be as bad as a full-on move, and I’m not sure I was right. I used almost all the boxes I had saved from the last time I moved, and my basement storage unit is pretty full.&lt;/p&gt;
-
-&lt;p&gt;There’s an accretion effect: none of the tasks to get my apartment ready for construction was really that onerous, but put together, it was a lot. Going on a brutalist adventure to city hall to get a parking permit — necessary when you need to put the permit up the same day — only took about an hour. But then it also took an hour to pack and transport a few boxes down to the basement. It really adds up.&lt;/p&gt;
-
-&lt;p&gt;But it’s done, and a crew will show up on Tuesday.&lt;/p&gt;
-
-&lt;p&gt;I still need to drop letters off to all my neighbors. And, assuming I don’t get sucked into any meetings on Monday, I’ll pop in to the project kick off with the architects and contractor’s team.&lt;/p&gt;
-
-</description>
-                <pubDate>Sat, 02 Apr 2022 00:00:00 -0500</pubDate>
-                <link>https://jkibe.github.io/kitchen145/end-of-the-beginning</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/end-of-the-beginning</guid>
                 
                 
             </item>
