@@ -5,24 +5,59 @@
         <description>Joseph renovates his kitchen.</description>
         <link>https://jkibe.github.io/kitchen145/</link>
         <atom:link href="https://jkibe.github.io/kitchen145/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Jun 2022 10:31:39 -0500</pubDate>
-        <lastBuildDate>Sat, 25 Jun 2022 10:31:39 -0500</lastBuildDate>
+        <pubDate>Fri, 01 Jul 2022 11:01:57 -0500</pubDate>
+        <lastBuildDate>Fri, 01 Jul 2022 11:01:57 -0500</lastBuildDate>
         <generator>Jekyll v4.0.1</generator>
         
             <item>
-                <title>Plumbing progress</title>
-                <description>&lt;p&gt;Progress continues working toward completion of the first fix plumbing and electric. The plumber was on site several days running the new drain, water, and vent lines for the relocated kitchen sink. From what I can tell, everything is ready to go.&lt;/p&gt;
+                <title>Electric Progress</title>
+                <description>&lt;p&gt;While I can’t quite tell if it’s done-done, there’s been encouraging progress on the electrical wiring. Most of the circuits are in place, and they’ve wired up my new panel to the original feeder.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
-&lt;p&gt;It’s kind of fun to see the parts of the old drain and vent stack that the plumber cut out to tie the new lines in. They’re very substantial chunks of pipe. Slightly more terrifying to peer into the old sections of pipe and see the accretion of sludge or corrosion&lt;/p&gt;
+&lt;p&gt;It’s kind of fun to see the parts of the old drain and vent stack that the plumber cut out to tie the new lines in. They’re very substantial chunks of pipe. Slightly more terrifying to peer into the old sections of pipe and see the accretion of sludge or corrosion or whatever builds up inside drain lines.&lt;/p&gt;
 
 &lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/pluming-old-drain.jpg&quot; alt=&quot;Sections of pipe&quot; /&gt;
+  &lt;img src=&quot;images/plumbing-old-drain.jpg&quot; alt=&quot;Sections of pipe&quot; /&gt;
   
   &lt;figcaption class=&quot;caption-text&quot;&gt;Drain and vent lines removed to make way for new adapters&lt;/figcaption&gt;
   
 &lt;/figure&gt;
+
+&lt;p&gt;My building is about to spend $1.5 million replacing all the exterior balcony railings and floors. Perhaps the drain lines only need a good clean. I do slightly wonder how much it will cost and how complicated it will be if the drains actually need to be replaced.&lt;/p&gt;
+
+&lt;p&gt;My inner software developer brain wonders why the building doesn’t require anyone who opens the wall to replace that section of drain and vent completely, or even subsidize that. Compared to the complication of opening and then reassembling the wall of everyone’s apartments in the future, the expense and minor complication of replacing the whole section seems negligible. Perhaps another casualty of the American delusion we can all be completely self-sufficient. Or our procedure fetish.&lt;/p&gt;
+
+&lt;p&gt;In any case, I’m still waiting for the electrical question to be resolved, keeping my fingers crossed that they’ll let me get away with not having to run a new feeder wire. From what I understand, getting the electrical work done is the next big step.&lt;/p&gt;
+
+</description>
+                <pubDate>Fri, 01 Jul 2022 00:00:00 -0500</pubDate>
+                <link>https://jkibe.github.io/kitchen145/eletric-progress</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/eletric-progress</guid>
+                
+                
+            </item>
+        
+            <item>
+                <title>Plumbing Progress</title>
+                <description>&lt;p&gt;Progress continues working toward completion of the first fix plumbing and electric. The plumber was on site several days running the new drain, water, and vent lines for the relocated kitchen sink. From what I can tell, everything is ready to go.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;It’s kind of fun to see the parts of the old drain and vent stack that the plumber cut out to tie the new lines in. They’re very substantial chunks of pipe. Slightly more terrifying to peer into the old sections of pipe and see the accretion of sludge or corrosion or whatever builds up inside drain lines.&lt;/p&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/plumbing-old-drain.jpg&quot; alt=&quot;Sections of pipe&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;Drain and vent lines removed to make way for new adapters&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;My building is about to spend $1.5 million replacing all the exterior balcony railings and floors. Perhaps the drain lines only need a good clean. I do slightly wonder how much it will cost and how complicated it will be if the drains actually need to be replaced.&lt;/p&gt;
+
+&lt;p&gt;My inner software developer brain wonders why the building doesn’t require anyone who opens the wall to replace that section of drain and vent completely, or even subsidize that. Compared to the complication of opening and then reassembling the wall of everyone’s apartments in the future, the expense and minor complication of replacing the whole section seems negligible. Perhaps another casualty of the American delusion we can all be completely self-sufficient. Or our procedure fetish.&lt;/p&gt;
+
+&lt;p&gt;In any case, I’m still waiting for the electrical question to be resolved, keeping my fingers crossed that they’ll let me get away with not having to run a new feeder wire. From what I understand, getting the electrical work done is the next big step.&lt;/p&gt;
 
 </description>
                 <pubDate>Sat, 25 Jun 2022 00:00:00 -0500</pubDate>
@@ -427,89 +462,6 @@
                 <pubDate>Wed, 13 Apr 2022 00:00:00 -0500</pubDate>
                 <link>https://jkibe.github.io/kitchen145/framing</link>
                 <guid isPermaLink="true">https://jkibe.github.io/kitchen145/framing</guid>
-                
-                
-            </item>
-        
-            <item>
-                <title>Demolition</title>
-                <description>&lt;p&gt;The project has begun! More through coincidence than any real planning, I was able to have the first step — demolition — take place while I was out of town. It was pretty surreal to come home to a construction site.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Speaking of, it’s definitely going to be a struggle. There is dust everywhere. So much that I saturated the medium particle filter in my vacuum cleaner after 20 minutes of trying to clear up the dust all over the place. If I hadn’t had an air purifier running in my bedroom, it’s scary to think how much more dust there would have been for me to clean up. I’m resigned to having to replace the filter far sooner than six months from now.&lt;/p&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/demolition-zipwall.jpg&quot; alt=&quot;Drawings&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;Zipwalls help, but they're far from a panacea for keeping dust out of the non-work areas&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/demolition-drawing.jpg&quot; alt=&quot;Drawings&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;The architect managing my project thought it would be a good idea to cover the windows in protective plastic, and then someone unplugged the power to my old iPhone anyway, so I don’t have any time-lapse footage of the demolition. I’m working on rigging something up in a location that works.&lt;/p&gt;
-
-&lt;p&gt;It’s kind of fun to see some of the old finishes that previous inhabitants of the apartment have tried out. Having wallpaper in the kitchen (especially one so small) doesn’t seem like a great idea to me.&lt;/p&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/demolition-wallpaper.jpg&quot; alt=&quot;Old wallpaper&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/demolition-wallpaper-red.jpg&quot; alt=&quot;More old wallpaper&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;Not a pattern I'd put in a kitchen&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;It’s also fun to finally understand some of the construction details of the building. On some level, I understand that I basically live in a concrete box. Seeing it makes a difference.&lt;/p&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/demolition-beam.jpg&quot; alt=&quot;Beam detail&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;The demolition has finally uncovered how the interior, non-load bearing walls of my apartment were constructed. They’re weirdly thin — around 3” rather than the typical 5” — and definitely not constructed with modern materials like wood framing and gypsum wall board.&lt;/p&gt;
-
-&lt;p&gt;I had assumed it was lath and plaster with ancient wiring, but was surprised to discover it’s something else entirely. From what I can see, it looks like they substituted a kind of metal mesh for the lath, and then did infill with what looks like thinset cement, which was then given a skim coat of plaster.&lt;/p&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/demolition-wall-detail.jpg&quot; alt=&quot;Wall detail&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;An interesting lath and plaster alternative&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;I’d always wondered how the electrical lines were run, again, given that the structure of my building is cast concrete. Maybe not surprisingly, everything was run through metal conduits. It makes me somewhat less optimistic that it would be easy to do something like run new wiring for an additional ceiling light. It goes without saying, cutting a channel into cast concrete is not a walk in the park.&lt;/p&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/demolition-hanging-wire.jpg&quot; alt=&quot;A dangling light switch&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/demolition-conduit-box.jpg&quot; alt=&quot;One way to do an outlet&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-</description>
-                <pubDate>Sat, 09 Apr 2022 00:00:00 -0500</pubDate>
-                <link>https://jkibe.github.io/kitchen145/demolition</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/demolition</guid>
                 
                 
             </item>

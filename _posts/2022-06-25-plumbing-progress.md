@@ -20,3 +20,5 @@ My building is about to spend $1.5 million replacing all the exterior balcony ra
 My inner software developer brain wonders why the building doesn't require anyone who opens the wall to replace that section of drain and vent completely, or even subsidize that. Compared to the complication of opening and then reassembling the wall of everyone's apartments in the future, the expense and minor complication of replacing the whole section seems negligible. Perhaps another casualty of the American delusion we can all be completely self-sufficient. Or our procedure fetish.
 
 In any case, I'm still waiting for the electrical question to be resolved, keeping my fingers crossed that they'll let me get away with not having to run a new feeder wire. From what I understand, getting the electrical work done is the next big step.
+
+
