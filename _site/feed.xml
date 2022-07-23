@@ -5,9 +5,28 @@
         <description>Joseph renovates his kitchen.</description>
         <link>https://jkibe.github.io/kitchen145/</link>
         <atom:link href="https://jkibe.github.io/kitchen145/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 01 Jul 2022 11:01:57 -0500</pubDate>
-        <lastBuildDate>Fri, 01 Jul 2022 11:01:57 -0500</lastBuildDate>
+        <pubDate>Sat, 23 Jul 2022 10:39:10 -0500</pubDate>
+        <lastBuildDate>Sat, 23 Jul 2022 10:39:10 -0500</lastBuildDate>
         <generator>Jekyll v4.0.1</generator>
+        
+            <item>
+                <title>Inspected</title>
+                <description>&lt;p&gt;There’s not too much to say for the last few weeks. But there was a bit of progress: earlier in the week the electrical inspector paid the site a visit, and passed the work. The project is still behind schedule, but this is encouraging progress to say the least.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;From a budget perspective, there were a few interesting twists. The plumbing work to move the sink and add laundry wound up being more expensive than the original scope of the project suggested. The plumber hadn’t anticipated needing to replace quite as much of the drain and vent stack from what I’m told.&lt;/p&gt;
+
+&lt;p&gt;On the plus side, through some accounting I don’t totally understand, the very expensive extra plumbing work got offset with savings elsewhere, so only wound up costing about $1,000 more net.&lt;/p&gt;
+
+&lt;p&gt;Looking ahead, passing the rough inspections is a big step because it makes closing the walls (i.e., putting up the wallboard) possible. It goes without saying, that’s an important step in making progress.&lt;/p&gt;
+</description>
+                <pubDate>Sat, 23 Jul 2022 00:00:00 -0500</pubDate>
+                <link>https://jkibe.github.io/kitchen145/inspected</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/inspected</guid>
+                
+                
+            </item>
         
             <item>
                 <title>Electric Progress</title>
@@ -15,25 +34,40 @@
 
 &lt;!--more--&gt;
 
-&lt;p&gt;It’s kind of fun to see the parts of the old drain and vent stack that the plumber cut out to tie the new lines in. They’re very substantial chunks of pipe. Slightly more terrifying to peer into the old sections of pipe and see the accretion of sludge or corrosion or whatever builds up inside drain lines.&lt;/p&gt;
+&lt;p&gt;It’s interesting to see all the circuits run. We think of electricity as being an almost magical force, but in reality there really is a run of metal wire all the way from the outlet to a power station somewhere many miles away. There’s so much wiring!&lt;/p&gt;
+
+&lt;p&gt;Until the walls are closed and the outlets and switches are installed, they can’t wire up all the new circuits to the new panel. But, since I’m still living on site, they did make sure that the circuits in the living spaces have power, which resulted in the rather hilarious situation I’m in now with a single 15 amp breaker in the panel.&lt;/p&gt;
 
 &lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/plumbing-old-drain.jpg&quot; alt=&quot;Sections of pipe&quot; /&gt;
+  &lt;img src=&quot;images/electric-rough-solitary.jpg&quot; alt=&quot;Electrical panel&quot; /&gt;
   
-  &lt;figcaption class=&quot;caption-text&quot;&gt;Drain and vent lines removed to make way for new adapters&lt;/figcaption&gt;
+  &lt;figcaption class=&quot;caption-text&quot;&gt;A solitary breaker&lt;/figcaption&gt;
   
 &lt;/figure&gt;
 
-&lt;p&gt;My building is about to spend $1.5 million replacing all the exterior balcony railings and floors. Perhaps the drain lines only need a good clean. I do slightly wonder how much it will cost and how complicated it will be if the drains actually need to be replaced.&lt;/p&gt;
+&lt;p&gt;The rest of the work is more straightforward. There’s a tangle of circuits by the sink for the garbage disposal, dishwasher, and the transformers required for the LED strip lights.&lt;/p&gt;
 
-&lt;p&gt;My inner software developer brain wonders why the building doesn’t require anyone who opens the wall to replace that section of drain and vent completely, or even subsidize that. Compared to the complication of opening and then reassembling the wall of everyone’s apartments in the future, the expense and minor complication of replacing the whole section seems negligible. Perhaps another casualty of the American delusion we can all be completely self-sufficient. Or our procedure fetish.&lt;/p&gt;
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/electric-rough-sink.jpg&quot; alt=&quot;Wiring near the sink&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;A tangle of circuits&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
 
-&lt;p&gt;In any case, I’m still waiting for the electrical question to be resolved, keeping my fingers crossed that they’ll let me get away with not having to run a new feeder wire. From what I understand, getting the electrical work done is the next big step.&lt;/p&gt;
+&lt;p&gt;The circuits for the oven and cooktop are impressive to look at. Both appliances require more power — the cooktop I’ve selected can drive 7,700 W into a single pan! — which means they need an additional wire to get 240 V. They’re also much more substantial wires so they can safely run at 30 or 40 amps when they’re running at full power.&lt;/p&gt;
 
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/electric-rough-big.jpg&quot; alt=&quot;Wiring for the cooktop and oven&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;More substantial wiring for power-hungry cooking appliances&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;I’m not entirely sure what happens next. The inspection certificate on my front door suggests the electrical inspection hasn’t happened yet, and there are a couple of changes that need to happen on the electrical work so far. One outlet is in the wrong place. I’d also like to see if it’s possible to have a run of unconnected wiring left in the walls for a future bathroom renovation.&lt;/p&gt;
 </description>
                 <pubDate>Fri, 01 Jul 2022 00:00:00 -0500</pubDate>
-                <link>https://jkibe.github.io/kitchen145/eletric-progress</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/eletric-progress</guid>
+                <link>https://jkibe.github.io/kitchen145/electric-progress</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/electric-progress</guid>
                 
                 
             </item>
@@ -422,46 +456,6 @@
                 <pubDate>Sun, 17 Apr 2022 00:00:00 -0500</pubDate>
                 <link>https://jkibe.github.io/kitchen145/shopping</link>
                 <guid isPermaLink="true">https://jkibe.github.io/kitchen145/shopping</guid>
-                
-                
-            </item>
-        
-            <item>
-                <title>Framing</title>
-                <description>&lt;p&gt;The renovation continues, and appears to have hit its first hiccup. The framing started today, which was exciting. Then I got home and began scratching my head.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Back in the design phase, my architects specified a non-standard wall to back the run of cabinets. To let light into the former kitchen, it doesn’t go up to the ceiling and there’s an opening behind the sink.&lt;/p&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/cabinet-final.jpg&quot; alt=&quot;Cabinet render&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;The vision (credit: BOS | UA)&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;Thus my confusion when I got home and noticed that the framing for the new wall goes up to the ceiling. That, it turns out, was probably a mistake. I have some faith that it will get fixed, but it has to be said that it’s a little annoying. I was so excited when I left the house today!&lt;/p&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/framing-1.jpg&quot; alt=&quot;What was the kitchen&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;The former kitchen&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;On the plus side, seeing the walls at least approximately in the right place is encouraging. The former kitchen entry area is definitely small, but it’s a surprisingly nice space, all things considered.&lt;/p&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/framing-3.jpg&quot; alt=&quot;Looking back&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-</description>
-                <pubDate>Wed, 13 Apr 2022 00:00:00 -0500</pubDate>
-                <link>https://jkibe.github.io/kitchen145/framing</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/framing</guid>
                 
                 
             </item>
