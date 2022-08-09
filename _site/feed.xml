@@ -5,9 +5,25 @@
         <description>Joseph renovates his kitchen.</description>
         <link>https://jkibe.github.io/kitchen145/</link>
         <atom:link href="https://jkibe.github.io/kitchen145/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 30 Jul 2022 09:53:42 -0500</pubDate>
-        <lastBuildDate>Sat, 30 Jul 2022 09:53:42 -0500</lastBuildDate>
+        <pubDate>Mon, 08 Aug 2022 19:31:57 -0500</pubDate>
+        <lastBuildDate>Mon, 08 Aug 2022 19:31:57 -0500</lastBuildDate>
         <generator>Jekyll v4.0.1</generator>
+        
+            <item>
+                <title>Moving Ahead</title>
+                <description>&lt;p&gt;As it turned out, the project didn’t need to stop for the fire sprinkler. All that matters is having a sprinkler that meets requirements. Practically, that means some walls need to remain open in case the sprinkler does need to be adjusted.&lt;/p&gt;
+
+&lt;p&gt;Some isn’t all, though, so they were able to make some progress today.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+</description>
+                <pubDate>Mon, 08 Aug 2022 00:00:00 -0500</pubDate>
+                <link>https://jkibe.github.io/kitchen145/moving-ahead</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/moving-ahead</guid>
+                
+                
+            </item>
         
             <item>
                 <title>It's Always Something</title>
@@ -15,6 +31,46 @@
 
 &lt;!--more--&gt;
 
+&lt;p&gt;The sprinkler itself has always confused me. In most buildings there are either sprinklers in every room or no sprinklers at all. My apartment — and all the others in my building, as far as I’m aware — have one sprinkler, and it’s only in the original kitchen spaces.&lt;/p&gt;
+
+&lt;p&gt;On some level this makes sense. Cooking generates a lot of heat, and people often use oil to cook, which is another fire hazard. In a multi-family setting, I can see why it would make sense.&lt;/p&gt;
+
+&lt;p&gt;At the same time, it’s bizarre and frustrating. Most acutely, the lack of sprinklers everywhere means that I have to have a second means of egress from my apartment (beyond my front door), which is the reason I have a vestigial door in my bedroom that causes me no end of annoyances for no gain. Remedying that is a future renovation project.&lt;/p&gt;
+
+&lt;p&gt;Building inspection had two concerns with the sprinkler as the layout of my apartment has changed due to the renovation. First, that the coverage might not be as good or the same with the layout changes. Second, that the sprinkler might not work as designed because the previous owner did a shoddy paint job. The sprinkler isn’t supposed to be painted.&lt;/p&gt;
+
+&lt;p&gt;The delay is annoying on its face. It’s even more frustrating because it has to be done by the company who manages the fire suppression systems for the entire building rather than the contractor. I have to do all the coordination myself, and I’m not optimistic the fire suppression firm will be especially prompt. See also the earlier asbestos incident. Moreover, there was a communications gap: I didn’t hear about this requirement for several days, adding some needless delay.&lt;/p&gt;
+
+&lt;p&gt;Until this is fixed, it’s effectively impossible for the contractor to make further progress on the actual construction.&lt;/p&gt;
+
+&lt;p&gt;There too it’s hard to stay sanguine. I finally got a revised schedule for the rest of the program. It puts the completion date in mid-September. That’s &lt;em&gt;two months&lt;/em&gt; after the original completion date on a project that was only meant to take three months. And the schedule has already been blown: according to the chart they sent, drywall was supposed to happen on Monday. That can’t possibly happen given the delay with the sprinkler.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Framing inspection (25-28 July)&lt;/li&gt;
+  &lt;li&gt;Insulation (28-29 July)&lt;/li&gt;
+  &lt;li&gt;Insulation inspection (29 July-1 August)&lt;/li&gt;
+  &lt;li&gt;Drywall (1-3 August)&lt;/li&gt;
+  &lt;li&gt;Base cabinet installation (3-5 August)&lt;/li&gt;
+  &lt;li&gt;Flooring installation (5-9 August)&lt;/li&gt;
+  &lt;li&gt;Wall cabinet installation (9-11 August)&lt;/li&gt;
+  &lt;li&gt;Countertop templates (11-12 August)&lt;/li&gt;
+  &lt;li&gt;Panel installation (12-17 August)&lt;/li&gt;
+  &lt;li&gt;Baseboard (17-18 August)&lt;/li&gt;
+  &lt;li&gt;Priming (18-19 August)&lt;/li&gt;
+  &lt;li&gt;First coat (19-22 August)&lt;/li&gt;
+  &lt;li&gt;Second coat (22-23 August)&lt;/li&gt;
+  &lt;li&gt;Countertop installation (23-24 August)&lt;/li&gt;
+  &lt;li&gt;Cabinet handles (24-25 August)&lt;/li&gt;
+  &lt;li&gt;Electric fixture installation (25-26 August)&lt;/li&gt;
+  &lt;li&gt;Plumbing fixture installation (26-29 August)&lt;/li&gt;
+  &lt;li&gt;Punch list (29 August-5 September)&lt;/li&gt;
+  &lt;li&gt;Cleaning (5-6 September)&lt;/li&gt;
+  &lt;li&gt;Final electrical inspection (6-8 September)&lt;/li&gt;
+  &lt;li&gt;Final plumbing inspection (8-12 September)&lt;/li&gt;
+  &lt;li&gt;Final inspection (12-14 September)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I’ll make do — there’s not much choice at this point — but suffice to say cracks are beginning to show in my level of patience.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 30 Jul 2022 00:00:00 -0500</pubDate>
                 <link>https://jkibe.github.io/kitchen145/its-always-something</link>
@@ -341,57 +397,6 @@
                 <pubDate>Wed, 27 Apr 2022 00:00:00 -0500</pubDate>
                 <link>https://jkibe.github.io/kitchen145/framing-iii</link>
                 <guid isPermaLink="true">https://jkibe.github.io/kitchen145/framing-iii</guid>
-                
-                
-            </item>
-        
-            <item>
-                <title>Framing, Part II</title>
-                <description>&lt;p&gt;The rest of the week saw a bit of activity. It’s felt a bit like one step forward, two steps back. The framing is closer, but still not quite there. The plumbing work got going. And the electrical panel issue continues to vex.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/framing-view.jpg&quot; alt=&quot;View out the new aperture&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;The new view out from the former kitchen area, correctly framed&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;On the framing front, the team came back for a second pass. They got closer; clearly the new set of drawings helped. Unfortunately, it’s still not quite right. The framing now has the aperture designed to let light into the former kitchen space, behind the new kitchen sink and dishwasher. It’s also been trimmed down to the right height, about a foot off the ceiling — it’s designed to line up with the height of structural concrete beams running through the space — that should let in even more light.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/XhTnkUX7Fgs&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;But they didn’t quite get it right. The whole wall needs to be in one plane, not offset. Talking to both the architects and the project manager on the job, it will get fixed. In all honesty, I do find it rather baffling. I noticed the issue myself, and I’m definitely not an expert.&lt;/p&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/framing-alignment-close.jpg&quot; alt=&quot;Out of plane&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;The whole wall should be in the same plane&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;Meanwhile, the plumber stopped by to begin getting ready for the first fix. From what I can tell, he removed the old plumbing and added valves off the building’s main water lines in preparation for the next step. I’m guessing that can’t happen until the framing gets fixed, though.&lt;/p&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/discarded-plumbing.jpg&quot; alt=&quot;Remnants of plumbing&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;The old sink connections&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/plumbing-capped.jpg&quot; alt=&quot;Capped plumbing&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;New valves in the kitchen plumbing stack&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;The electrical situation continues to cause a problem. Apparently the head electrician is on vacation in Brazil, and so isn’t around to negotiate with the electrical inspectors. It would really be nice if I didn’t need to run a new feeder through the common corridor, if they insist that I have a four-wire feeder that won’t fit in the conduit.&lt;/p&gt;
-</description>
-                <pubDate>Sat, 23 Apr 2022 00:00:00 -0500</pubDate>
-                <link>https://jkibe.github.io/kitchen145/framing-ii</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/framing-ii</guid>
                 
                 
             </item>
