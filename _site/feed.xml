@@ -3,11 +3,48 @@
     <channel>
         <title>Renovation Diary</title>
         <description>Joseph renovates his kitchen.</description>
-        <link>http://0.0.0.0:4000/kitchen145/</link>
-        <atom:link href="http://0.0.0.0:4000/kitchen145/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 13 Aug 2022 07:52:16 -0500</pubDate>
-        <lastBuildDate>Sat, 13 Aug 2022 07:52:16 -0500</lastBuildDate>
+        <link>https://jkibe.github.io/kitchen145/</link>
+        <atom:link href="https://jkibe.github.io/kitchen145/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Mon, 15 Aug 2022 21:43:51 -0500</pubDate>
+        <lastBuildDate>Mon, 15 Aug 2022 21:43:51 -0500</lastBuildDate>
         <generator>Jekyll v4.0.1</generator>
+        
+            <item>
+                <title>Flooring, Part II</title>
+                <description>&lt;p&gt;The flooring continues. One more trip, and I think they’ll be done with it. It’s still a bit strange they’re doing this now, but I’m taking the progress.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;They’ve now finished laying the new flooring everywhere save for the old kitchen. This is pretty transformative. It would be nicer if I had a working kitchen (the original point of the project), but it’s incredibly nice not to have to walk around in dirt all the time.&lt;/p&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/flooring-bedroom.jpg&quot; alt=&quot;Flooring&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;My bedroom has flooring again&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;According to the flooring team, the unevenness of the new floor and the fact it makes some noises in place is normal, and the byproduct of the floor being floating. I kind of wonder what would’ve happened if they’d used a leveling product, but I think that ship has sailed. It looks great and feels so much better than the weird plastic flooring that I had before.&lt;/p&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/flooring-level.jpg&quot; alt=&quot;Floor leveling applied&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;The old kitchen needed floor leveler, which has to cure before more flooring goes down&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;They did have to apply floor leveler to the former kitchen area, though. That has to cure before than can cover it, so the flooring team will be back at least one more time.&lt;/p&gt;
+
+&lt;p&gt;The fire sprinkler firm got back to me: about $2000 to remedy the sprinkler situation. Worse still, it sounds like the permit to do the work will take many weeks. By chance, the walls that need to remain open for the sprinkler fixes don’t need any plaster or paint, so it may not be quite as big a deal as I’d feared.&lt;/p&gt;
+
+&lt;p&gt;What comes next, I’m not totally sure. I think some additional millwork will make it to site tomorrow, and of course they need to finish the flooring.&lt;/p&gt;
+</description>
+                <pubDate>Mon, 15 Aug 2022 00:00:00 -0500</pubDate>
+                <link>https://jkibe.github.io/kitchen145/flooring-part-ii</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/flooring-part-ii</guid>
+                
+                
+            </item>
         
             <item>
                 <title>Flooring Progress</title>
@@ -15,37 +52,38 @@
 
 &lt;!--more--&gt;
 
-&lt;p&gt;flooring-low
-flooring-interface
-flooring-storage&lt;/p&gt;
-
-&lt;p&gt;The fire protection company made a visit on Wednesday. The sprinkler head definitely needs to be replaced: at the point it has any paint on it, it’s no longer useful. It will also be necessary to run a new sprinkler head in the new kitchen wall, so that the relocated cooking area is directly covered by a sprinkler. On the plus side, it should be possible to conceal the sprinkler in the wall, so I won’t have any weird pipe running across the ceiling.&lt;/p&gt;
-
-&lt;p&gt;While I’d like to hope otherwise, the person from the fire protection company suggested it could take many weeks just to get the permit to change the fire sprinkler, let alone actually do the work. All of which does not bode well from a time or cost perspective.&lt;/p&gt;
+&lt;p&gt;They’ve finished enough of the flooring to let me move everything out of my bedroom this weekend so they can then do the bedroom on Monday. Annoying as that is, I’ll have a more or less finished bedroom again next week, which will be a very nice change.&lt;/p&gt;
 
 &lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/boxes-angle.jpg&quot; alt=&quot;Cabinets&quot; /&gt;
+  &lt;img src=&quot;images/flooring-low.jpg&quot; alt=&quot;Flooring&quot; /&gt;
   
-  &lt;figcaption class=&quot;caption-text&quot;&gt;Another view of the cabinet boxes&lt;/figcaption&gt;
+  &lt;figcaption class=&quot;caption-text&quot;&gt;It's beginning to look finished&lt;/figcaption&gt;
   
 &lt;/figure&gt;
 
-&lt;p&gt;The millwork on the other side of the wall has started going in, though, which is good to see. It’s weird. The cabinet boxes are both smaller and larger than I had imagined now they’re roughly in place. I’m slightly worried about the space between some of the cabinets and some circulation space. In other places, it’s not as bad as I feared it might be.&lt;/p&gt;
+&lt;p&gt;The floor is being installed floating. I’m not totally sure why, though it’s also somewhere I don’t have strong opinions. I am worried that there are some joints that could be tighter, and that the new floor squeaks in a couple of places. Less because I really mind those little issues per se, and more in case it betrays a deeper flaw. But I have no idea what I’m doing. This could be normal.&lt;/p&gt;
 
 &lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/flooring-start.jpg&quot; alt=&quot;Cabinets&quot; /&gt;
+  &lt;img src=&quot;images/flooring-interface.jpg&quot; alt=&quot;Flooring meets the wall&quot; /&gt;
   
-  &lt;figcaption class=&quot;caption-text&quot;&gt;Another view of the cabinet boxes&lt;/figcaption&gt;
+  &lt;figcaption class=&quot;caption-text&quot;&gt;Eventually there will be new skirting&lt;/figcaption&gt;
   
 &lt;/figure&gt;
 
-&lt;p&gt;They’ve also started putting down the new flooring. It’s really pleasing to see it in place, both from the perspective of seeing progress and knowing that I’ve made a choice I like for the new material. So much of this project is a leap of faith; it’s nice when the concept is just as good when executed as it is on paper.&lt;/p&gt;
+&lt;p&gt;Replacing all the flooring also means replacing the skirting board along the perimeter. This covers the expansion gap left around the flooring material to allow for expansion and contraction. The existing stuff was a pretty uninspiring stick-on vinyl. I haven’t gotten into what will replace it yet.&lt;/p&gt;
 
-&lt;p&gt;There’s a lot more of that to go. And the rest of the cabinets should go in soon as well. Those have been fabricated to custom sizes so that the limited space is maximized.&lt;/p&gt;
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/flooring-storage.jpg&quot; alt=&quot;Materials&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;Materials ready to go&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;There’s still a ton to do. The fire protection firm hasn’t been especially responsive. Next week I’m hoping they’ll get the various cabinets installed, and they should be able to close and plaster some of the walls that aren’t affected by the fire sprinkler.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 13 Aug 2022 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/flooring-progress</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/flooring-progress</guid>
+                <link>https://jkibe.github.io/kitchen145/flooring-progress</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/flooring-progress</guid>
                 
                 
             </item>
@@ -81,8 +119,8 @@ flooring-storage&lt;/p&gt;
 &lt;p&gt;There’s a lot more of that to go. And the rest of the cabinets should go in soon as well. Those have been fabricated to custom sizes so that the limited space is maximized.&lt;/p&gt;
 </description>
                 <pubDate>Thu, 11 Aug 2022 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/millwork-begins</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/millwork-begins</guid>
+                <link>https://jkibe.github.io/kitchen145/millwork-begins</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/millwork-begins</guid>
                 
                 
             </item>
@@ -111,8 +149,8 @@ flooring-storage&lt;/p&gt;
 &lt;p&gt;In the meantime, this should allow for the installation of the cabinets now that the kitchen side is closed up.&lt;/p&gt;
 </description>
                 <pubDate>Mon, 08 Aug 2022 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/moving-ahead</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/moving-ahead</guid>
+                <link>https://jkibe.github.io/kitchen145/moving-ahead</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/moving-ahead</guid>
                 
                 
             </item>
@@ -165,8 +203,8 @@ flooring-storage&lt;/p&gt;
 &lt;p&gt;I’ll make do — there’s not much choice at this point — but suffice to say cracks are beginning to show in my level of patience.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 30 Jul 2022 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/its-always-something</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/its-always-something</guid>
+                <link>https://jkibe.github.io/kitchen145/its-always-something</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/its-always-something</guid>
                 
                 
             </item>
@@ -184,8 +222,8 @@ flooring-storage&lt;/p&gt;
 &lt;p&gt;Looking ahead, passing the rough inspections is a big step because it makes closing the walls (i.e., putting up the wallboard) possible. It goes without saying, that’s an important step in making progress.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 23 Jul 2022 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/inspected</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/inspected</guid>
+                <link>https://jkibe.github.io/kitchen145/inspected</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/inspected</guid>
                 
                 
             </item>
@@ -228,8 +266,8 @@ flooring-storage&lt;/p&gt;
 &lt;p&gt;I’m not entirely sure what happens next. The inspection certificate on my front door suggests the electrical inspection hasn’t happened yet, and there are a couple of changes that need to happen on the electrical work so far. One outlet is in the wrong place. I’d also like to see if it’s possible to have a run of unconnected wiring left in the walls for a future bathroom renovation.&lt;/p&gt;
 </description>
                 <pubDate>Fri, 01 Jul 2022 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/electric-progress</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/electric-progress</guid>
+                <link>https://jkibe.github.io/kitchen145/electric-progress</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/electric-progress</guid>
                 
                 
             </item>
@@ -257,8 +295,8 @@ flooring-storage&lt;/p&gt;
 
 </description>
                 <pubDate>Sat, 25 Jun 2022 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/plumbing-progress</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/plumbing-progress</guid>
+                <link>https://jkibe.github.io/kitchen145/plumbing-progress</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/plumbing-progress</guid>
                 
                 
             </item>
@@ -318,8 +356,8 @@ flooring-storage&lt;/p&gt;
 &lt;p&gt;Progress, for sure. I’m less sure they’re going to make it to the early July deadline.&lt;/p&gt;
 </description>
                 <pubDate>Tue, 21 Jun 2022 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/inching-to-first-fix</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/inching-to-first-fix</guid>
+                <link>https://jkibe.github.io/kitchen145/inching-to-first-fix</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/inching-to-first-fix</guid>
                 
                 
             </item>
@@ -339,58 +377,8 @@ flooring-storage&lt;/p&gt;
 &lt;p&gt;For those interested in details, it’s going to run about $1,800 for the remediation work, plus $135 for the permit. Completion also requires that I engage an independent consultant to verify the environment is safe, another $350 to $500.&lt;/p&gt;
 </description>
                 <pubDate>Wed, 25 May 2022 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/the-pause</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/the-pause</guid>
-                
-                
-            </item>
-        
-            <item>
-                <title>The Hiccups</title>
-                <description>&lt;p&gt;Let’s start with some good news. Since the last post, the flooring from &lt;a href=&quot;http://pidfloors.com&quot;&gt;PID&lt;/a&gt; arrived on site, as did the new ventilation hood.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;The new hood is exciting for very mundane reasons. Namely, it’s really hard to get appliances right now. While there’s still quite a few to go — my oven probably won’t be here until August — progress is progress, and should be appreciated.&lt;/p&gt;
-
-&lt;p&gt;The flooring is more of a relief. It was only ever possible for me to see photos of finished floors and a couple of small samples. That I still liked the choice when I plucked out a few full planks to look at was reassuring. I can’t wait to see it all installed.&lt;/p&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/floor-plank.jpg&quot; alt=&quot;The new flooring, up closer&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;Real wood flooring to replace the Pergo&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;Now to the bad news.&lt;/p&gt;
-
-&lt;p&gt;Living in a well-established historical neighborhood has its benefits. Mature trees. Nice architecture. Streets designed for people, not cars. Unfortunately it also means old buildings with old building quirks.&lt;/p&gt;
-
-&lt;p&gt;In my case, that turned out to be &lt;a href=&quot;https://en.wikipedia.org/wiki/Asbestos&quot;&gt;asbestos&lt;/a&gt;.&lt;/p&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/asbestos.jpg&quot; alt=&quot;Asbestos&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;If you've ever wondered what asbestos looks like, it's this&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;It’s a great insulator and fire retardant. It’s also a serious danger to human health, and has to be very delicately removed when it’s found. In my case, that’s around the main hot water line.&lt;/p&gt;
-
-&lt;p&gt;From talking to the remediation company, the pipe insulation in my plumbing stack isn’t that big of a deal. They said it could probably be removed and certified in a single day. But it’s not going to be cheap. Among other things, I have to pay $350 just for the independent verification and certification after the material has been removed. People will be wearing serious respirators. Plastic wall barriers will be set up. And industrial-grade HEPA filters will be running.&lt;/p&gt;
-
-&lt;p&gt;I feel like I really lucked out that I happen to have domestic-scale HEPA filters running as a matter of course and I have a vacuum cleaner with a HEPA filter I’ve been using to do extra cleanup. At least some asbestos has been disturbed as part of the work so far; it’s nice to know I’ve been protected. A very bare silver lining of the pandemic. I decided to buy them to assuage my guilt in having (a very small and select number of) people over during the height of pandemic in 2020.&lt;/p&gt;
-
-&lt;p&gt;Other forces conspired to throw a wrench in one of the parts of my project I had been most excited about. It looks like I can’t have my in-unit laundry after all. Perhaps I should get a Costco membership and start buying breakfast cereal in bulk. I’m going to have a lot more closet space than I had anticipated.&lt;/p&gt;
-
-&lt;p&gt;My contractor still hasn’t been able to provide a full schedule, so it’s hard to say exactly what comes next. Probably asbestos remediation, if I had to guess. That may also take care of the remaining demolition that needed to happen before the final framing.&lt;/p&gt;
-
-&lt;p&gt;Once the framing is done and the asbestos is gone, my guess is that they’ll move to finish first fix plumbing and electric, including the high-stakes feeder wire replacement project.&lt;/p&gt;
-
-</description>
-                <pubDate>Thu, 19 May 2022 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/hiccups</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/hiccups</guid>
+                <link>https://jkibe.github.io/kitchen145/the-pause</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/the-pause</guid>
                 
                 
             </item>
