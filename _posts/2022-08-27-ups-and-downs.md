@@ -27,6 +27,6 @@ If I wind up having to replace the damaged doors, I don't want to think about th
 
 The plastering got started, too. Aside from the inevitable mess, I'm pretty happy with the way it looks. It's beginning to make the space feel more finished.
 
-{% include image_caption.html imageurl="images/plaster-back.jpg" title="Plaster going in" caption="Appliances in their boxes" %}
+{% include image_caption.html imageurl="images/plaster-back.jpg" title="Plaster going in" caption="The first coat of plaster going in on the back wall" %}
 
 Moving forward, I'm still waiting on the fire sprinkler permit and, after a false start, the appliances should get delivered next week.
