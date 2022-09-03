@@ -7,7 +7,7 @@ feature_image: images/plaster-stub.jpg
 tags: 
 ---
 
-As seems to be the pattern, there has been some encouraging progress this weak, but with some asterisks. They installed most of the cabinet fronts and started the plaster. It's starting to really look finished. A few of the details are giving the progress a bit of a sour note, though.
+As seems to be the pattern, there has been some encouraging progress this week, but with some asterisks. They installed most of the cabinet fronts and started the plaster. It's starting to really look finished. A few of the details are giving the progress a bit of a sour note, though.
 
 <!--more-->
 
