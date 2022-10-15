@@ -5,9 +5,40 @@
         <description>Joseph renovates his kitchen.</description>
         <link>https://jkibe.github.io/kitchen145/</link>
         <atom:link href="https://jkibe.github.io/kitchen145/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Oct 2022 16:35:48 -0500</pubDate>
-        <lastBuildDate>Thu, 13 Oct 2022 16:35:48 -0500</lastBuildDate>
+        <pubDate>Sat, 15 Oct 2022 13:37:16 -0500</pubDate>
+        <lastBuildDate>Sat, 15 Oct 2022 13:37:16 -0500</lastBuildDate>
         <generator>Jekyll v4.0.1</generator>
+        
+            <item>
+                <title>Caséta Interlude</title>
+                <description>&lt;p&gt;As the days get shorter and the project remains uncompleted, it’s gotten more annoying that there’s no way to turn on a light when I get home without stumbling in the dark. Last week, I decided to do something about it by setting up a Lutron Caséta system.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/caseta-dimmer.jpg&quot; alt=&quot;Caséta dimmer&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;A circa 1950 switch replaced with a new Lutron Caséta dimmer&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/caseta-entry.jpg&quot; alt=&quot;Caséta Pico remote&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;Pico remote temporarily installed in the entry junction box&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;On the plus side, the fire sprinkler contractors said that I didn’t need to keep a sprinkler head in the new entry area, so that’s one less ugly bit sticking out of the wall. It should make the finish a lot neater.&lt;/p&gt;
+
+&lt;p&gt;From here, the contractor should be unblocked. I have no idea what the timeline or order of events is, but I’m hoping they get a move on.&lt;/p&gt;
+</description>
+                <pubDate>Sat, 15 Oct 2022 00:00:00 -0500</pubDate>
+                <link>https://jkibe.github.io/kitchen145/caseta</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/caseta</guid>
+                
+                
+            </item>
         
             <item>
                 <title>Sprinkler Move</title>
@@ -15,25 +46,20 @@
 
 &lt;!--more--&gt;
 
+&lt;p&gt;This was a trickier part of the build than some others. Unlike the rest of the work, the fire sprinkler was my responsibility and not something in the contractor’s purview. So I had to do all the coordination on this myself, with help from the architectural practice I’m working with.&lt;/p&gt;
+
+&lt;p&gt;And it’s good they were around to support. If not for some help, they would have routed the sprinkler in a very strange path that wouldn’t have looked too great. As it is, I’m fine living with the sprinkler head peeping out over the top of the upper cabinets.&lt;/p&gt;
+
 &lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/mystery-holes.jpg&quot; alt=&quot;Holes in the wall&quot; /&gt;
+  &lt;img src=&quot;images/sprinkler-moved.jpg&quot; alt=&quot;Relocated fire sprinkler&quot; /&gt;
   
-  &lt;figcaption class=&quot;caption-text&quot;&gt;It's not totally clear why they cut these two holes into the plastered back wall&lt;/figcaption&gt;
+  &lt;figcaption class=&quot;caption-text&quot;&gt;Relocated to cover the new cooktop&lt;/figcaption&gt;
   
 &lt;/figure&gt;
 
-&lt;p&gt;Work also continued on the cabinets. They were re-aligned so that the fridge-freezer will be in-plane with the rest of the base cabinets. Holes were cut into the tops for the eventual installation of the cooktop and sink. They left the sink in the cutout, which is fun to see. It’s obviously not plumbed in, but there’s something about it that helps me feel the progress.&lt;/p&gt;
+&lt;p&gt;On the plus side, the fire sprinkler contractors said that I didn’t need to keep a sprinkler head in the new entry area, so that’s one less ugly bit sticking out of the wall. It should make the finish a lot neater.&lt;/p&gt;
 
-&lt;p&gt;I also finally got my appliances delivered. I think they’re a ways off installing them, but it’s great to see them on site.&lt;/p&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/appliances-boxed.jpg&quot; alt=&quot;Appliances in boxes&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;The appliances in their boxes&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;Once again, I’m not entirely sure what’s next. Here’s hoping they can get the bulk of it done by the end of the month.&lt;/p&gt;
+&lt;p&gt;From here, the contractor should be unblocked. I have no idea what the timeline or order of events is, but I’m hoping they get a move on.&lt;/p&gt;
 </description>
                 <pubDate>Thu, 13 Oct 2022 00:00:00 -0500</pubDate>
                 <link>https://jkibe.github.io/kitchen145/sprinkler</link>
@@ -374,25 +400,6 @@
                 <pubDate>Sat, 30 Jul 2022 00:00:00 -0500</pubDate>
                 <link>https://jkibe.github.io/kitchen145/its-always-something</link>
                 <guid isPermaLink="true">https://jkibe.github.io/kitchen145/its-always-something</guid>
-                
-                
-            </item>
-        
-            <item>
-                <title>Inspected</title>
-                <description>&lt;p&gt;There’s not too much to say for the last few weeks. But there was a bit of progress: earlier in the week the electrical inspector paid the site a visit, and passed the work. The project is still behind schedule, but this is encouraging progress to say the least.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;From a budget perspective, there were a few interesting twists. The plumbing work to move the sink and add laundry wound up being more expensive than the original scope of the project suggested. The plumber hadn’t anticipated needing to replace quite as much of the drain and vent stack from what I’m told.&lt;/p&gt;
-
-&lt;p&gt;On the plus side, through some accounting I don’t totally understand, the very expensive extra plumbing work got offset with savings elsewhere, so only wound up costing about $1,000 more net.&lt;/p&gt;
-
-&lt;p&gt;Looking ahead, passing the rough inspections is a big step because it makes closing the walls (i.e., putting up the wallboard) possible. It goes without saying, that’s an important step in making progress.&lt;/p&gt;
-</description>
-                <pubDate>Sat, 23 Jul 2022 00:00:00 -0500</pubDate>
-                <link>https://jkibe.github.io/kitchen145/inspected</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/inspected</guid>
                 
                 
             </item>
