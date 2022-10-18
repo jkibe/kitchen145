@@ -5,22 +5,45 @@
         <description>Joseph renovates his kitchen.</description>
         <link>https://jkibe.github.io/kitchen145/</link>
         <atom:link href="https://jkibe.github.io/kitchen145/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Oct 2022 13:37:16 -0500</pubDate>
-        <lastBuildDate>Sat, 15 Oct 2022 13:37:16 -0500</lastBuildDate>
+        <pubDate>Tue, 18 Oct 2022 07:24:11 -0500</pubDate>
+        <lastBuildDate>Tue, 18 Oct 2022 07:24:11 -0500</lastBuildDate>
         <generator>Jekyll v4.0.1</generator>
         
             <item>
-                <title>Caséta Interlude</title>
-                <description>&lt;p&gt;As the days get shorter and the project remains uncompleted, it’s gotten more annoying that there’s no way to turn on a light when I get home without stumbling in the dark. Last week, I decided to do something about it by setting up a Lutron Caséta system.&lt;/p&gt;
+                <title>Not Quite</title>
+                <description>&lt;p&gt;Yesterday the contractor was on site again, which was at least superficially exciting. As ever, I got home last night with a bit of trepidation as well. That emotion proved to be warranted. While they tried to install the appliances, they did not succeed.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
 &lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/caseta-dimmer.jpg&quot; alt=&quot;Caséta dimmer&quot; /&gt;
+  &lt;img src=&quot;images/caseta-entry.jpg&quot; alt=&quot;Caséta Pico remote&quot; /&gt;
   
-  &lt;figcaption class=&quot;caption-text&quot;&gt;A circa 1950 switch replaced with a new Lutron Caséta dimmer&lt;/figcaption&gt;
+  &lt;figcaption class=&quot;caption-text&quot;&gt;Pico remote temporarily installed in the entry junction box&lt;/figcaption&gt;
   
 &lt;/figure&gt;
+</description>
+                <pubDate>Tue, 18 Oct 2022 00:00:00 -0500</pubDate>
+                <link>https://jkibe.github.io/kitchen145/not-quite</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/not-quite</guid>
+                
+                
+            </item>
+        
+            <item>
+                <title>Caséta Interlude</title>
+                <description>&lt;p&gt;As the days get shorter and the project remains uncompleted, it’s gotten more annoying that there’s no way to turn on a light when I get home without stumbling in the dark. Last week, I decided to do something about it by setting up a &lt;a href=&quot;http://casetawireless.com&quot;&gt;Lutron Caséta&lt;/a&gt; system.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Lutron’s Caséta system brings ideas that used to be the preserve of very expensive custom installations into the mass market. The Caséta dimmers and switches operate existing lighting circuits. They also connect to a network bridge that allows the lights to be automated in fun and interesting ways.&lt;/p&gt;
+
+&lt;p&gt;You can bridge the Caséta system into Apple’s HomeKit universe (or use Lutron’s iOS application) to control the lights and program scenes with your phone. Or you can use system accessories like Lutron’s Pico remote to drop a switch anywhere (they operate over a proprietary wireless band) to control one or multiple lighting circuits.&lt;/p&gt;
+
+&lt;p&gt;It’s this last part that I took advantage of to deal with my “getting home and it’s pitch black” problem.&lt;/p&gt;
+
+&lt;p&gt;I replaced a few of the switches in the unaffected parts of my apartment with Caséta dimmers. Then I set up a Pico remote to operate those circuits. The remote is cleverly the same size as a decorator-style switch, and Lutron provides a holder to retrofit it into a standard switch box.&lt;/p&gt;
+
+&lt;p&gt;Eventually there will be a switch next to my front door that controls a lighting circuit. For now, I’ve slipped in a Pico remote to turn on other lights to avoid tripping in the dark. It’s still not exactly great, but it’s much improved.&lt;/p&gt;
 
 &lt;figure class=&quot;image-card width-wide caption&quot;&gt;
   &lt;img src=&quot;images/caseta-entry.jpg&quot; alt=&quot;Caséta Pico remote&quot; /&gt;
@@ -29,9 +52,28 @@
   
 &lt;/figure&gt;
 
-&lt;p&gt;On the plus side, the fire sprinkler contractors said that I didn’t need to keep a sprinkler head in the new entry area, so that’s one less ugly bit sticking out of the wall. It should make the finish a lot neater.&lt;/p&gt;
+&lt;p&gt;As a system, I’m impressed.&lt;/p&gt;
 
-&lt;p&gt;From here, the contractor should be unblocked. I have no idea what the timeline or order of events is, but I’m hoping they get a move on.&lt;/p&gt;
+&lt;p&gt;The Caséta “universe” is incredibly reliable. Ridiculous as it sounds, this is a big deal. I’ve used the Philips Hue system before, and, nice as it is, the fact the controls fail one out of even a thousand times is a problem.&lt;/p&gt;
+
+&lt;p&gt;I also really appreciate that the system doesn’t solely rely on special controls or a piece of smartphone software. You can use the system as normal. The normal switches in the normal place work as normal. Normal people can operate the lights without special instructions.&lt;/p&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/caseta-dimmer.jpg&quot; alt=&quot;Caséta dimmer&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;A circa 1950 switch replaced with a new Lutron Caséta dimmer&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;The only major downside is the system’s cost. Each of the switches runs about $60, and the cost doesn’t go down if you instead use a simple on-off switch rather than a dimmer. Plus the cost of the remotes (maddeningly, $20 for the white ones and $40 for the black ones) and the network bridge (about $100).&lt;/p&gt;
+
+&lt;p&gt;In any case, I’ve had to use dimmers on all my old lighting circuits because the simple on-off switches require a neutral wire. That wasn’t how they ran lighting circuits in the 1950s. If I’m honest, having dimmers everywhere is kind of nice and kind of fun.&lt;/p&gt;
+
+&lt;p&gt;On a more “this would be nice” level, there are two small paper cut issues I’d love to have them address.&lt;/p&gt;
+
+&lt;p&gt;First, I really wish it were possible to change the way the lights turn on and off. I’m sure most people think the subtle fade up and fade down make the system feel more “premium.” There are places it feels weird. Like in the bathroom. It’s nice to have the ability to dim the lights. I’d really rather than simply (or more quickly) turn on and off.&lt;/p&gt;
+
+&lt;p&gt;Second, it would be nice if Lutron were more open to other systems. The Pico remote is a genius concept. I’d love to be able to control devices outside Lutron’s switches or their universe of hand-selected partners.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 15 Oct 2022 00:00:00 -0500</pubDate>
                 <link>https://jkibe.github.io/kitchen145/caseta</link>
@@ -346,60 +388,6 @@
                 <pubDate>Mon, 08 Aug 2022 00:00:00 -0500</pubDate>
                 <link>https://jkibe.github.io/kitchen145/moving-ahead</link>
                 <guid isPermaLink="true">https://jkibe.github.io/kitchen145/moving-ahead</guid>
-                
-                
-            </item>
-        
-            <item>
-                <title>It's Always Something</title>
-                <description>&lt;p&gt;Just when I thought things would start moving again, there has been another snag. In particular, there’s an inspection issue with the fire sprinkler in the former kitchen space.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;The sprinkler itself has always confused me. In most buildings there are either sprinklers in every room or no sprinklers at all. My apartment — and all the others in my building, as far as I’m aware — have one sprinkler, and it’s only in the original kitchen spaces.&lt;/p&gt;
-
-&lt;p&gt;On some level this makes sense. Cooking generates a lot of heat, and people often use oil to cook, which is another fire hazard. In a multi-family setting, I can see why it would make sense.&lt;/p&gt;
-
-&lt;p&gt;At the same time, it’s bizarre and frustrating. Most acutely, the lack of sprinklers everywhere means that I have to have a second means of egress from my apartment (beyond my front door), which is the reason I have a vestigial door in my bedroom that causes me no end of annoyances for no gain. Remedying that is a future renovation project.&lt;/p&gt;
-
-&lt;p&gt;Building inspection had two concerns with the sprinkler as the layout of my apartment has changed due to the renovation. First, that the coverage might not be as good or the same with the layout changes. Second, that the sprinkler might not work as designed because the previous owner did a shoddy paint job. The sprinkler isn’t supposed to be painted.&lt;/p&gt;
-
-&lt;p&gt;The delay is annoying on its face. It’s even more frustrating because it has to be done by the company who manages the fire suppression systems for the entire building rather than the contractor. I have to do all the coordination myself, and I’m not optimistic the fire suppression firm will be especially prompt. See also the earlier asbestos incident. Moreover, there was a communications gap: I didn’t hear about this requirement for several days, adding some needless delay.&lt;/p&gt;
-
-&lt;p&gt;Until this is fixed, it’s effectively impossible for the contractor to make further progress on the actual construction.&lt;/p&gt;
-
-&lt;p&gt;There too it’s hard to stay sanguine. I finally got a revised schedule for the rest of the program. It puts the completion date in mid-September. That’s &lt;em&gt;two months&lt;/em&gt; after the original completion date on a project that was only meant to take three months. And the schedule has already been blown: according to the chart they sent, drywall was supposed to happen on Monday. That can’t possibly happen given the delay with the sprinkler.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Framing inspection (25-28 July)&lt;/li&gt;
-  &lt;li&gt;Insulation (28-29 July)&lt;/li&gt;
-  &lt;li&gt;Insulation inspection (29 July-1 August)&lt;/li&gt;
-  &lt;li&gt;Drywall (1-3 August)&lt;/li&gt;
-  &lt;li&gt;Base cabinet installation (3-5 August)&lt;/li&gt;
-  &lt;li&gt;Flooring installation (5-9 August)&lt;/li&gt;
-  &lt;li&gt;Wall cabinet installation (9-11 August)&lt;/li&gt;
-  &lt;li&gt;Countertop templates (11-12 August)&lt;/li&gt;
-  &lt;li&gt;Panel installation (12-17 August)&lt;/li&gt;
-  &lt;li&gt;Baseboard (17-18 August)&lt;/li&gt;
-  &lt;li&gt;Priming (18-19 August)&lt;/li&gt;
-  &lt;li&gt;First coat (19-22 August)&lt;/li&gt;
-  &lt;li&gt;Second coat (22-23 August)&lt;/li&gt;
-  &lt;li&gt;Countertop installation (23-24 August)&lt;/li&gt;
-  &lt;li&gt;Cabinet handles (24-25 August)&lt;/li&gt;
-  &lt;li&gt;Electric fixture installation (25-26 August)&lt;/li&gt;
-  &lt;li&gt;Plumbing fixture installation (26-29 August)&lt;/li&gt;
-  &lt;li&gt;Punch list (29 August-5 September)&lt;/li&gt;
-  &lt;li&gt;Cleaning (5-6 September)&lt;/li&gt;
-  &lt;li&gt;Final electrical inspection (6-8 September)&lt;/li&gt;
-  &lt;li&gt;Final plumbing inspection (8-12 September)&lt;/li&gt;
-  &lt;li&gt;Final inspection (12-14 September)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I’ll make do — there’s not much choice at this point — but suffice to say cracks are beginning to show in my level of patience.&lt;/p&gt;
-</description>
-                <pubDate>Sat, 30 Jul 2022 00:00:00 -0500</pubDate>
-                <link>https://jkibe.github.io/kitchen145/its-always-something</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/its-always-something</guid>
                 
                 
             </item>
