@@ -3,11 +3,33 @@
     <channel>
         <title>Renovation Diary</title>
         <description>Joseph renovates his kitchen.</description>
-        <link>https://jkibe.github.io/kitchen145/</link>
-        <atom:link href="https://jkibe.github.io/kitchen145/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Oct 2022 07:24:11 -0500</pubDate>
-        <lastBuildDate>Tue, 18 Oct 2022 07:24:11 -0500</lastBuildDate>
+        <link>http://0.0.0.0:4000/kitchen145/</link>
+        <atom:link href="http://0.0.0.0:4000/kitchen145/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Wed, 26 Oct 2022 21:44:04 -0500</pubDate>
+        <lastBuildDate>Wed, 26 Oct 2022 21:44:04 -0500</lastBuildDate>
         <generator>Jekyll v4.0.1</generator>
+        
+            <item>
+                <title>Closing</title>
+                <description>&lt;p&gt;The building inspector gave clearance on closing the two remaining walls. It’s a tantalizing taste of progress. On the other hand, there are still a few remaining hiccups.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Because the last two walls will get the fun CNC milled panels installed, they’ve gotten covered with sheets of plywood rather than plasterboard. It’s an interesting look. I could see it working as a final finish if a bit more care was taken with the pattern of plywood sheets.&lt;/p&gt;
+
+&lt;p&gt;I had a near miss with the plumbing, though. When the plumber came to do his work initially, he added shutoff valves to my plumbing, presumably to make it easier to do the plumbing work without needing to shut down the water for all my neighbors. That hadn’t been turned back on before the walls were closed. Fortunately I caught it before the panels had gone up.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, there are a few issues to work out on the appliance install that’s precluding the countertop fabrication and installation.&lt;/p&gt;
+
+&lt;p&gt;I’m hopeful that we’re actually getting to the end.&lt;/p&gt;
+
+</description>
+                <pubDate>Wed, 26 Oct 2022 00:00:00 -0500</pubDate>
+                <link>http://0.0.0.0:4000/kitchen145/closing</link>
+                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/closing</guid>
+                
+                
+            </item>
         
             <item>
                 <title>Not Quite</title>
@@ -15,16 +37,60 @@
 
 &lt;!--more--&gt;
 
+&lt;p&gt;Starting with the dishwasher, the layer of sound insulating material on the top has been removed. It’s also been installed too far back. On a practical level, if the (required) front cabinet panel were installed, it wouldn’t be possible to open the appliance. On an aesthetic level, the front of the dishwasher is supposed to align with the rest of the cabinets, so it blends in.&lt;/p&gt;
+
 &lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/caseta-entry.jpg&quot; alt=&quot;Caséta Pico remote&quot; /&gt;
+  &lt;img src=&quot;images/appliances-dishwasher-install.jpg&quot; alt=&quot;Dishwasher in place&quot; /&gt;
   
-  &lt;figcaption class=&quot;caption-text&quot;&gt;Pico remote temporarily installed in the entry junction box&lt;/figcaption&gt;
+  &lt;figcaption class=&quot;caption-text&quot;&gt;Missing? The layer of sound insulation that used to be on top. Also note that, if you were to put on the required front cabinet panel, you wouldn't be able to open the appliance.&lt;/figcaption&gt;
   
 &lt;/figure&gt;
+
+&lt;p&gt;It’s fun to finally see my amazing new oven out of its crating. It’s less fun to see it installed the way it is. It was supposed to sit on a shelf, so that the small drawer could sit underneath. We even ordered a ventilated shelf and some super strong brackets to hold the weight of the appliance. Instead, the oven was placed in the bottom of the cabinet, and someone thought it would be a good idea to unilaterally move the drawer to the top. A location where I don’t think it’s going to fit.&lt;/p&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/appliances-oven-front.jpg&quot; alt=&quot;Oven installed&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;The oven is supposed to be installed on a shelf so the drawer, previously installed correctly, could sit below&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;Being able to open the oven is exciting, though. It’s a very nice piece of hardware. I love the 60 cm design the rest of the world uses, so the trays slide right into the side runners.&lt;/p&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/appliances-oven-open.jpg&quot; alt=&quot;Oven interior&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;On the plus side, I'm very excited to use my new oven&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;The refrigerator-freezer is perhaps the most frustrating and perplexing. It’s so obviously wrong, it makes me wonder what the people installing it were thinking.&lt;/p&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/appliances-fridge-gap.jpg&quot; alt=&quot;Refrigerator gap&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;The refrigerator-freezer is supposed to be pushed all the way in, so it lines up with the other cabinets&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;Most obviously, it’s sticking out several inches from the cabinet. As with the dishwasher, the idea is that it sits flush with the cabinets, so it blends in and you don’t see it.&lt;/p&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/appliances-refrigerator-open.jpg&quot; alt=&quot;Open refrigerator&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;It's a nice appliance, in any case&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;Thumbing through the very detailed installation guide created other moments of confusion. The bright red clips labeled “Transport only” on the doors, designed to keep the appliance safe during shipping, haven’t been removed. The plastic filler piece at the top of the appliance has been crushed and shoved into the cabinet, rather than set up to cover the small gap between the top of the refrigerator-freezer and the shelf above.&lt;/p&gt;
+
+&lt;p&gt;Not to mention, after the bottom of the appliance’s cabinet box was erroneously cut off, they didn’t add the remedial vent cutouts to ensure the refrigeration circuit gets the airflow it needs.&lt;/p&gt;
+
+&lt;p&gt;Needless to say, they’re going to have to make another trip to fix it. I’m also still waiting to finalize the countertops, and the inspector still needs to make another visit to sign off on the fire sprinkler work.&lt;/p&gt;
 </description>
                 <pubDate>Tue, 18 Oct 2022 00:00:00 -0500</pubDate>
-                <link>https://jkibe.github.io/kitchen145/not-quite</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/not-quite</guid>
+                <link>http://0.0.0.0:4000/kitchen145/not-quite</link>
+                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/not-quite</guid>
                 
                 
             </item>
@@ -76,8 +142,8 @@
 &lt;p&gt;Second, it would be nice if Lutron were more open to other systems. The Pico remote is a genius concept. I’d love to be able to control devices outside Lutron’s switches or their universe of hand-selected partners.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 15 Oct 2022 00:00:00 -0500</pubDate>
-                <link>https://jkibe.github.io/kitchen145/caseta</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/caseta</guid>
+                <link>http://0.0.0.0:4000/kitchen145/caseta</link>
+                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/caseta</guid>
                 
                 
             </item>
@@ -104,8 +170,8 @@
 &lt;p&gt;From here, the contractor should be unblocked. I have no idea what the timeline or order of events is, but I’m hoping they get a move on.&lt;/p&gt;
 </description>
                 <pubDate>Thu, 13 Oct 2022 00:00:00 -0500</pubDate>
-                <link>https://jkibe.github.io/kitchen145/sprinkler</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/sprinkler</guid>
+                <link>http://0.0.0.0:4000/kitchen145/sprinkler</link>
+                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/sprinkler</guid>
                 
                 
             </item>
@@ -139,8 +205,8 @@
 &lt;p&gt;Once again, I’m not entirely sure what’s next. Here’s hoping they can get the bulk of it done by the end of the month.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 03 Sep 2022 00:00:00 -0500</pubDate>
-                <link>https://jkibe.github.io/kitchen145/delivery</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/delivery</guid>
+                <link>http://0.0.0.0:4000/kitchen145/delivery</link>
+                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/delivery</guid>
                 
                 
             </item>
@@ -192,8 +258,8 @@
 &lt;p&gt;Moving forward, I’m still waiting on the fire sprinkler permit and, after a false start, the appliances should get delivered next week.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 27 Aug 2022 00:00:00 -0500</pubDate>
-                <link>https://jkibe.github.io/kitchen145/ups-and-downs</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/ups-and-downs</guid>
+                <link>http://0.0.0.0:4000/kitchen145/ups-and-downs</link>
+                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/ups-and-downs</guid>
                 
                 
             </item>
@@ -240,8 +306,8 @@
 &lt;p&gt;Looking ahead, the only thing I know for sure is that the appliances will get delivered on Wednesday. That will be really exciting. They’re my one true splurge on this project.&lt;/p&gt;
 </description>
                 <pubDate>Fri, 19 Aug 2022 00:00:00 -0500</pubDate>
-                <link>https://jkibe.github.io/kitchen145/cabinets-part-vi</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/cabinets-part-vi</guid>
+                <link>http://0.0.0.0:4000/kitchen145/cabinets-part-vi</link>
+                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/cabinets-part-vi</guid>
                 
                 
             </item>
@@ -277,8 +343,8 @@
 &lt;p&gt;What comes next, I’m not totally sure. I think some additional millwork will make it to site tomorrow, and of course they need to finish the flooring.&lt;/p&gt;
 </description>
                 <pubDate>Mon, 15 Aug 2022 00:00:00 -0500</pubDate>
-                <link>https://jkibe.github.io/kitchen145/flooring-part-ii</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/flooring-part-ii</guid>
+                <link>http://0.0.0.0:4000/kitchen145/flooring-part-ii</link>
+                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/flooring-part-ii</guid>
                 
                 
             </item>
@@ -319,8 +385,8 @@
 &lt;p&gt;There’s still a ton to do. The fire protection firm hasn’t been especially responsive. Next week I’m hoping they’ll get the various cabinets installed, and they should be able to close and plaster some of the walls that aren’t affected by the fire sprinkler.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 13 Aug 2022 00:00:00 -0500</pubDate>
-                <link>https://jkibe.github.io/kitchen145/flooring-progress</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/flooring-progress</guid>
+                <link>http://0.0.0.0:4000/kitchen145/flooring-progress</link>
+                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/flooring-progress</guid>
                 
                 
             </item>
@@ -356,38 +422,8 @@
 &lt;p&gt;There’s a lot more of that to go. And the rest of the cabinets should go in soon as well. Those have been fabricated to custom sizes so that the limited space is maximized.&lt;/p&gt;
 </description>
                 <pubDate>Thu, 11 Aug 2022 00:00:00 -0500</pubDate>
-                <link>https://jkibe.github.io/kitchen145/millwork-begins</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/millwork-begins</guid>
-                
-                
-            </item>
-        
-            <item>
-                <title>Moving Ahead</title>
-                <description>&lt;p&gt;As it turned out, the project didn’t need to stop for the fire sprinkler. All that matters is having a sprinkler that meets requirements. Practically, that means some walls need to remain open in case the sprinkler does need to be adjusted.&lt;/p&gt;
-
-&lt;p&gt;Some isn’t all, though, so they were able to make some progress today.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;More specifically, they’ve started closing the walls on the kitchen side of the new partition. If I’m reading the materials correctly, they’ve used blue board rather than normal drywall. It’s made of the same stuff, but has a special outside surface designed to take veneer plaster.&lt;/p&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/board-1.jpg&quot; alt=&quot;Boarding on the kitchen side&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;Closing on the kitchen side&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;I’m guessing this is meant to help match with the existing walls, which are all plaster from the 1950s before gypsum wallboard became the standard.&lt;/p&gt;
-
-&lt;p&gt;The fire protection company is coming on Wednesday to give closure (or at least what comes next) on the fire sprinkler situation. That should let the crew close the rest of the walls.&lt;/p&gt;
-
-&lt;p&gt;In the meantime, this should allow for the installation of the cabinets now that the kitchen side is closed up.&lt;/p&gt;
-</description>
-                <pubDate>Mon, 08 Aug 2022 00:00:00 -0500</pubDate>
-                <link>https://jkibe.github.io/kitchen145/moving-ahead</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/moving-ahead</guid>
+                <link>http://0.0.0.0:4000/kitchen145/millwork-begins</link>
+                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/millwork-begins</guid>
                 
                 
             </item>
