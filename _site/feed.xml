@@ -3,11 +3,27 @@
     <channel>
         <title>Renovation Diary</title>
         <description>Joseph renovates his kitchen.</description>
-        <link>http://0.0.0.0:4000/kitchen145/</link>
-        <atom:link href="http://0.0.0.0:4000/kitchen145/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Oct 2022 21:44:04 -0500</pubDate>
-        <lastBuildDate>Wed, 26 Oct 2022 21:44:04 -0500</lastBuildDate>
+        <link>https://jkibe.github.io/kitchen145/</link>
+        <atom:link href="https://jkibe.github.io/kitchen145/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Thu, 03 Nov 2022 16:06:29 -0500</pubDate>
+        <lastBuildDate>Thu, 03 Nov 2022 16:06:29 -0500</lastBuildDate>
         <generator>Jekyll v4.0.1</generator>
+        
+            <item>
+                <title>Painting Begins</title>
+                <description>&lt;p&gt;Progress has resumed with a few visits from the painting crew. Their work is an object lesson in the value of painting and the benefit of hiring true professionals to do the work. No, painting isn’t that difficult. But it’s clear that people who do this for a living know what they’re doing.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Thus far&lt;/p&gt;
+
+</description>
+                <pubDate>Thu, 03 Nov 2022 00:00:00 -0500</pubDate>
+                <link>https://jkibe.github.io/kitchen145/painting</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/painting</guid>
+                
+                
+            </item>
         
             <item>
                 <title>Closing</title>
@@ -25,8 +41,8 @@
 
 </description>
                 <pubDate>Wed, 26 Oct 2022 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/closing</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/closing</guid>
+                <link>https://jkibe.github.io/kitchen145/closing</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/closing</guid>
                 
                 
             </item>
@@ -89,8 +105,8 @@
 &lt;p&gt;Needless to say, they’re going to have to make another trip to fix it. I’m also still waiting to finalize the countertops, and the inspector still needs to make another visit to sign off on the fire sprinkler work.&lt;/p&gt;
 </description>
                 <pubDate>Tue, 18 Oct 2022 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/not-quite</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/not-quite</guid>
+                <link>https://jkibe.github.io/kitchen145/not-quite</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/not-quite</guid>
                 
                 
             </item>
@@ -142,8 +158,8 @@
 &lt;p&gt;Second, it would be nice if Lutron were more open to other systems. The Pico remote is a genius concept. I’d love to be able to control devices outside Lutron’s switches or their universe of hand-selected partners.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 15 Oct 2022 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/caseta</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/caseta</guid>
+                <link>https://jkibe.github.io/kitchen145/caseta</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/caseta</guid>
                 
                 
             </item>
@@ -170,8 +186,8 @@
 &lt;p&gt;From here, the contractor should be unblocked. I have no idea what the timeline or order of events is, but I’m hoping they get a move on.&lt;/p&gt;
 </description>
                 <pubDate>Thu, 13 Oct 2022 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/sprinkler</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/sprinkler</guid>
+                <link>https://jkibe.github.io/kitchen145/sprinkler</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/sprinkler</guid>
                 
                 
             </item>
@@ -205,8 +221,8 @@
 &lt;p&gt;Once again, I’m not entirely sure what’s next. Here’s hoping they can get the bulk of it done by the end of the month.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 03 Sep 2022 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/delivery</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/delivery</guid>
+                <link>https://jkibe.github.io/kitchen145/delivery</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/delivery</guid>
                 
                 
             </item>
@@ -258,8 +274,8 @@
 &lt;p&gt;Moving forward, I’m still waiting on the fire sprinkler permit and, after a false start, the appliances should get delivered next week.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 27 Aug 2022 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/ups-and-downs</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/ups-and-downs</guid>
+                <link>https://jkibe.github.io/kitchen145/ups-and-downs</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/ups-and-downs</guid>
                 
                 
             </item>
@@ -306,8 +322,8 @@
 &lt;p&gt;Looking ahead, the only thing I know for sure is that the appliances will get delivered on Wednesday. That will be really exciting. They’re my one true splurge on this project.&lt;/p&gt;
 </description>
                 <pubDate>Fri, 19 Aug 2022 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/cabinets-part-vi</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/cabinets-part-vi</guid>
+                <link>https://jkibe.github.io/kitchen145/cabinets-part-vi</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/cabinets-part-vi</guid>
                 
                 
             </item>
@@ -343,8 +359,8 @@
 &lt;p&gt;What comes next, I’m not totally sure. I think some additional millwork will make it to site tomorrow, and of course they need to finish the flooring.&lt;/p&gt;
 </description>
                 <pubDate>Mon, 15 Aug 2022 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/flooring-part-ii</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/flooring-part-ii</guid>
+                <link>https://jkibe.github.io/kitchen145/flooring-part-ii</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/flooring-part-ii</guid>
                 
                 
             </item>
@@ -385,45 +401,8 @@
 &lt;p&gt;There’s still a ton to do. The fire protection firm hasn’t been especially responsive. Next week I’m hoping they’ll get the various cabinets installed, and they should be able to close and plaster some of the walls that aren’t affected by the fire sprinkler.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 13 Aug 2022 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/flooring-progress</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/flooring-progress</guid>
-                
-                
-            </item>
-        
-            <item>
-                <title>Millwork Begins</title>
-                <description>&lt;p&gt;The bad news: it may take ages to deal with the fire sprinkler. The good news: work continues on the other side of the wall.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;The fire protection company made a visit on Wednesday. The sprinkler head definitely needs to be replaced: at the point it has any paint on it, it’s no longer useful. It will also be necessary to run a new sprinkler head in the new kitchen wall, so that the relocated cooking area is directly covered by a sprinkler. On the plus side, it should be possible to conceal the sprinkler in the wall, so I won’t have any weird pipe running across the ceiling.&lt;/p&gt;
-
-&lt;p&gt;While I’d like to hope otherwise, the person from the fire protection company suggested it could take many weeks just to get the permit to change the fire sprinkler, let alone actually do the work. All of which does not bode well from a time or cost perspective.&lt;/p&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/boxes-angle.jpg&quot; alt=&quot;Cabinets&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;Another view of the cabinet boxes&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;The millwork on the other side of the wall has started going in, though, which is good to see. It’s weird. The cabinet boxes are both smaller and larger than I had imagined now they’re roughly in place. I’m slightly worried about the space between some of the cabinets and some circulation space. In other places, it’s not as bad as I feared it might be.&lt;/p&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/flooring-start.jpg&quot; alt=&quot;Cabinets&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;Another view of the cabinet boxes&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;They’ve also started putting down the new flooring. It’s really pleasing to see it in place, both from the perspective of seeing progress and knowing that I’ve made a choice I like for the new material. So much of this project is a leap of faith; it’s nice when the concept is just as good when executed as it is on paper.&lt;/p&gt;
-
-&lt;p&gt;There’s a lot more of that to go. And the rest of the cabinets should go in soon as well. Those have been fabricated to custom sizes so that the limited space is maximized.&lt;/p&gt;
-</description>
-                <pubDate>Thu, 11 Aug 2022 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/millwork-begins</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/millwork-begins</guid>
+                <link>https://jkibe.github.io/kitchen145/flooring-progress</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/flooring-progress</guid>
                 
                 
             </item>
