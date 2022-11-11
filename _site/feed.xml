@@ -3,17 +3,52 @@
     <channel>
         <title>Renovation Diary</title>
         <description>Joseph renovates his kitchen.</description>
-        <link>https://jkibe.github.io/kitchen145/</link>
-        <atom:link href="https://jkibe.github.io/kitchen145/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 08 Nov 2022 07:33:11 -0600</pubDate>
-        <lastBuildDate>Tue, 08 Nov 2022 07:33:11 -0600</lastBuildDate>
+        <link>http://0.0.0.0:4000/kitchen145/</link>
+        <atom:link href="http://0.0.0.0:4000/kitchen145/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Fri, 11 Nov 2022 07:34:30 -0600</pubDate>
+        <lastBuildDate>Fri, 11 Nov 2022 07:34:30 -0600</lastBuildDate>
         <generator>Jekyll v4.0.1</generator>
+        
+            <item>
+                <title>Panel Installation</title>
+                <description>&lt;p&gt;The project continues to inch toward the finish line. Yesterday, they began installing the wood panels in what was the kitchen area. It’s a surprisingly delicate and complicated ballet of pieces that need to line up due to the perforations.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;First, they had to install the floating steel shelves. Having lugged two of them up from the basement when they were delivered, they are astonishingly heavy. Installed, they have that fun feeling of defying gravity. I’m a little less excited about the fact they cut holes in the newly finished and painted wall to fit them in. That’s not going to be a fun patch job.&lt;/p&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/panels-opening.jpg&quot; alt=&quot;Through the opening&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;Looking through the kitchen wall, it's a bit easier to see the floating steel shelves&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;The panels themselves aren’t quite done. But they made a ton of progress, and it’s beginning to look good. Once again, I find myself in the interesting position where I take photos and it looks so like the renders that I looked at almost two years ago in the design phase.&lt;/p&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/panels-detail.jpg&quot; alt=&quot;Panel detail&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;The thick flying wall that backs the kitchen cabinets will get an end cap mirror to add light and a feeling of space&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;From what I’ve been told, they won’t be back until Monday to finish the panels. The other big blocker is the solid surface cladding that will form the countertops, backsplash, and caps around the upper cabinets. Once that’s in, the plumbing and electrical get get wrapped up, as the sink, faucet, and appliances all interface with those pieces in some way.&lt;/p&gt;
+</description>
+                <pubDate>Fri, 11 Nov 2022 00:00:00 -0600</pubDate>
+                <link>http://0.0.0.0:4000/kitchen145/panels</link>
+                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/panels</guid>
+                
+                
+            </item>
         
             <item>
                 <title>Painting, Part III</title>
                 <description>&lt;p&gt;The painters made another trip and wrapped up their work. It’s nice to be another step closer to having my home back.&lt;/p&gt;
 
 &lt;!--more--&gt;
+
+&lt;p&gt;If the vast quantity of home renovation media teaches us anything, it’s that an image or video conceals many sins when it comes to painting. Which is to say, I found it difficult to convey the sense of progress the painting has given when you’re on the site in person. It feels a lot more finished.&lt;/p&gt;
 
 &lt;figure class=&quot;image-card width-wide caption&quot;&gt;
   &lt;img src=&quot;images/painting-hall-2.jpg&quot; alt=&quot;Looking down the hall&quot; /&gt;
@@ -22,13 +57,22 @@
   
 &lt;/figure&gt;
 
-&lt;p&gt;In anticipation of the millwork installation next week, the plywood panels have gotten their coat of black paint. It’s made the old kitchen space a lot more dramatic. Fortunately it won’t be quite as dark once the millwork goes in on top. Though I do kind of like the look.&lt;/p&gt;
+&lt;p&gt;Most visibly, all the ceiling scars have been patched, sanded, and painted. I’m trying not to get too hung up on the details: it looks a lot better now. Without knowing where the old walls came down, I doubt anyone could point to where the patches have been done. The fresh coat of paint on the ceiling makes a surprisingly big difference, as I may have noted earlier.&lt;/p&gt;
 
-&lt;p&gt;Next week I’m hoping they can finish the painting, get the millwork installed, and, if they can get the countertops installed too, the project may actually get wrapped up. Or at the very least, I may have a working kitchen again.&lt;/p&gt;
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/ceiling-patched.jpg&quot; alt=&quot;Ceiling&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;Virtually impossible to tell where the ceiling damage was&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;The crew also patched a hole in the bathroom wall, painted the new baseboard in my bedroom, and fixed my error with a coat of flat paint over the eggshell. It’s still drying, so it doesn’t have the delicious velvety feel quite yet.&lt;/p&gt;
+
+&lt;p&gt;I’m really hoping the contractor can keep this momentum up. Aside from the punch list, we’re down to only a few major jobs. They need to install the CNC panels in the old kitchen space, which gets most of the remaining material off the floor. All the Corian needs to be installed. Once that’s done, they can finish the plumbing and electric, and I think we’re close to done.&lt;/p&gt;
 </description>
                 <pubDate>Tue, 08 Nov 2022 00:00:00 -0600</pubDate>
-                <link>https://jkibe.github.io/kitchen145/painting-iii</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/painting-iii</guid>
+                <link>http://0.0.0.0:4000/kitchen145/painting-iii</link>
+                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/painting-iii</guid>
                 
                 
             </item>
@@ -57,8 +101,8 @@
 &lt;p&gt;Next week I’m hoping they can finish the painting, get the millwork installed, and, if they can get the countertops installed too, the project may actually get wrapped up. Or at the very least, I may have a working kitchen again.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 05 Nov 2022 00:00:00 -0500</pubDate>
-                <link>https://jkibe.github.io/kitchen145/painting-ii</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/painting-ii</guid>
+                <link>http://0.0.0.0:4000/kitchen145/painting-ii</link>
+                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/painting-ii</guid>
                 
                 
             </item>
@@ -99,8 +143,8 @@
 &lt;p&gt;Looking ahead, there’s still more painting to do. The plywood that closed the two walls behind the new kitchen needs to get a coat of black paint, to disappear behind the white perforated panels. The real constraint are the countertops, which would then let the finish plumbing and electrical happen.&lt;/p&gt;
 </description>
                 <pubDate>Thu, 03 Nov 2022 00:00:00 -0500</pubDate>
-                <link>https://jkibe.github.io/kitchen145/painting</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/painting</guid>
+                <link>http://0.0.0.0:4000/kitchen145/painting</link>
+                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/painting</guid>
                 
                 
             </item>
@@ -121,8 +165,8 @@
 
 </description>
                 <pubDate>Wed, 26 Oct 2022 00:00:00 -0500</pubDate>
-                <link>https://jkibe.github.io/kitchen145/closing</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/closing</guid>
+                <link>http://0.0.0.0:4000/kitchen145/closing</link>
+                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/closing</guid>
                 
                 
             </item>
@@ -185,8 +229,8 @@
 &lt;p&gt;Needless to say, they’re going to have to make another trip to fix it. I’m also still waiting to finalize the countertops, and the inspector still needs to make another visit to sign off on the fire sprinkler work.&lt;/p&gt;
 </description>
                 <pubDate>Tue, 18 Oct 2022 00:00:00 -0500</pubDate>
-                <link>https://jkibe.github.io/kitchen145/not-quite</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/not-quite</guid>
+                <link>http://0.0.0.0:4000/kitchen145/not-quite</link>
+                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/not-quite</guid>
                 
                 
             </item>
@@ -238,8 +282,8 @@
 &lt;p&gt;Second, it would be nice if Lutron were more open to other systems. The Pico remote is a genius concept. I’d love to be able to control devices outside Lutron’s switches or their universe of hand-selected partners.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 15 Oct 2022 00:00:00 -0500</pubDate>
-                <link>https://jkibe.github.io/kitchen145/caseta</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/caseta</guid>
+                <link>http://0.0.0.0:4000/kitchen145/caseta</link>
+                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/caseta</guid>
                 
                 
             </item>
@@ -266,8 +310,8 @@
 &lt;p&gt;From here, the contractor should be unblocked. I have no idea what the timeline or order of events is, but I’m hoping they get a move on.&lt;/p&gt;
 </description>
                 <pubDate>Thu, 13 Oct 2022 00:00:00 -0500</pubDate>
-                <link>https://jkibe.github.io/kitchen145/sprinkler</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/sprinkler</guid>
+                <link>http://0.0.0.0:4000/kitchen145/sprinkler</link>
+                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/sprinkler</guid>
                 
                 
             </item>
@@ -301,8 +345,8 @@
 &lt;p&gt;Once again, I’m not entirely sure what’s next. Here’s hoping they can get the bulk of it done by the end of the month.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 03 Sep 2022 00:00:00 -0500</pubDate>
-                <link>https://jkibe.github.io/kitchen145/delivery</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/delivery</guid>
+                <link>http://0.0.0.0:4000/kitchen145/delivery</link>
+                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/delivery</guid>
                 
                 
             </item>
@@ -354,56 +398,8 @@
 &lt;p&gt;Moving forward, I’m still waiting on the fire sprinkler permit and, after a false start, the appliances should get delivered next week.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 27 Aug 2022 00:00:00 -0500</pubDate>
-                <link>https://jkibe.github.io/kitchen145/ups-and-downs</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/ups-and-downs</guid>
-                
-                
-            </item>
-        
-            <item>
-                <title>Cabinets, Part VI</title>
-                <description>&lt;p&gt;At long last, the cabinets are beginning to go in. It’s not without incident, but I’m taking the progress.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;There’s not really much more to say than that. They’ve delivered the custom boxes for the upper and tall cabinets to site, and everything has been installed and screwed in.&lt;/p&gt;
-
-&lt;p&gt;It’s a big relief both to see them installed and installed well. They’re level. They’re flush. And, most importantly, my precious Miele dishwasher has a 60 cm wide opening to install into. It’s amazing how big a difference that 3/8” makes between 60 cm and 2 feet for the installation of that dishwasher.&lt;/p&gt;
-
-&lt;p&gt;There are a couple small issues that will need to be fixed later. I’m really hoping they can do something about the peeling edge banding on the upper cabinets. And the contractor mistakenly cut the bottom off the refrigerator cabinet, which had been designed to provide the appropriate venting for my built-in fridge-freezer.&lt;/p&gt;
-
-&lt;p&gt;It is cool to see the boxes that were fabricated custom for the project. There’s something very pleasing about the cutout for the insert hood being so precise.&lt;/p&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/cabinet-hood-cutout.jpg&quot; alt=&quot;Hood cutout&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;An opening cut into one of the upper cabinets for the insert hood&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;Among other progress, all the flooring is down now, too. This has been a pretty huge improvement in my quality of life living on site. The first bit was nice, but it’s even better for everything to be done.&lt;/p&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/flooring-office.jpg&quot; alt=&quot;Flooring in the entry&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;Buried beneath the materials, the last of the flooring went down in the newly created entry area&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;With the flooring down, they’re also installing the skirting board to cover the gap around the floor to allow for expansion and contraction. It’s so much nicer than the weird stick-on vinyl skirting that the previous owner had installed.&lt;/p&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/baseboard-install.jpg&quot; alt=&quot;Baseboard installation&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;With the flooring done, the skirting or baseboard can be installed&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;Looking ahead, the only thing I know for sure is that the appliances will get delivered on Wednesday. That will be really exciting. They’re my one true splurge on this project.&lt;/p&gt;
-</description>
-                <pubDate>Fri, 19 Aug 2022 00:00:00 -0500</pubDate>
-                <link>https://jkibe.github.io/kitchen145/cabinets-part-vi</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/cabinets-part-vi</guid>
+                <link>http://0.0.0.0:4000/kitchen145/ups-and-downs</link>
+                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/ups-and-downs</guid>
                 
                 
             </item>

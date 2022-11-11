@@ -181,6 +181,10 @@
 <lastmod>2022-11-08T00:00:00-06:00</lastmod>
 </url>
 <url>
+<loc>http://0.0.0.0:4000/kitchen145/panels</loc>
+<lastmod>2022-11-11T00:00:00-06:00</lastmod>
+</url>
+<url>
 <loc>http://0.0.0.0:4000/kitchen145/about</loc>
 </url>
 <url>
@@ -233,5 +237,8 @@
 </url>
 <url>
 <loc>http://0.0.0.0:4000/kitchen145/page15/</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/kitchen145/page16/</loc>
 </url>
 </urlset>
