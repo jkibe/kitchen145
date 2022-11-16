@@ -3,11 +3,43 @@
     <channel>
         <title>Renovation Diary</title>
         <description>Joseph renovates his kitchen.</description>
-        <link>http://0.0.0.0:4000/kitchen145/</link>
-        <atom:link href="http://0.0.0.0:4000/kitchen145/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 11 Nov 2022 07:34:30 -0600</pubDate>
-        <lastBuildDate>Fri, 11 Nov 2022 07:34:30 -0600</lastBuildDate>
+        <link>https://jkibe.github.io/kitchen145/</link>
+        <atom:link href="https://jkibe.github.io/kitchen145/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Wed, 16 Nov 2022 07:49:02 -0600</pubDate>
+        <lastBuildDate>Wed, 16 Nov 2022 07:49:02 -0600</lastBuildDate>
         <generator>Jekyll v4.0.1</generator>
+        
+            <item>
+                <title>Countertop Installation Begins</title>
+                <description>&lt;p&gt;With painful slowness, there has been a tiny bit of additional progress. The solid surface installers were here yesterday and made a good start getting all the Corian installed. That will make up the worktops themselves, and also clad surfaces like the backsplash and underside of the upper cabinets.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;It’s another one of those steps that’s gratifying in that the kitchen is finally beginning to feel complete. In theory, there really are only a few more days of work to go.&lt;/p&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/counters-wide.jpg&quot; alt=&quot;Counter installed&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;The Corian over the base cabinets has gone in&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;But as seems to be the theme on this project,&lt;/p&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/counters-sag.jpg&quot; alt=&quot;Sagging cabinet box&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;I'm not totally sure what happened here in the cabinet box that holds the sink, but it doesn't look great&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+</description>
+                <pubDate>Wed, 16 Nov 2022 00:00:00 -0600</pubDate>
+                <link>https://jkibe.github.io/kitchen145/corian</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/corian</guid>
+                
+                
+            </item>
         
             <item>
                 <title>Panel Installation</title>
@@ -36,8 +68,8 @@
 &lt;p&gt;From what I’ve been told, they won’t be back until Monday to finish the panels. The other big blocker is the solid surface cladding that will form the countertops, backsplash, and caps around the upper cabinets. Once that’s in, the plumbing and electrical get get wrapped up, as the sink, faucet, and appliances all interface with those pieces in some way.&lt;/p&gt;
 </description>
                 <pubDate>Fri, 11 Nov 2022 00:00:00 -0600</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/panels</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/panels</guid>
+                <link>https://jkibe.github.io/kitchen145/panels</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/panels</guid>
                 
                 
             </item>
@@ -71,8 +103,8 @@
 &lt;p&gt;I’m really hoping the contractor can keep this momentum up. Aside from the punch list, we’re down to only a few major jobs. They need to install the CNC panels in the old kitchen space, which gets most of the remaining material off the floor. All the Corian needs to be installed. Once that’s done, they can finish the plumbing and electric, and I think we’re close to done.&lt;/p&gt;
 </description>
                 <pubDate>Tue, 08 Nov 2022 00:00:00 -0600</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/painting-iii</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/painting-iii</guid>
+                <link>https://jkibe.github.io/kitchen145/painting-iii</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/painting-iii</guid>
                 
                 
             </item>
@@ -101,8 +133,8 @@
 &lt;p&gt;Next week I’m hoping they can finish the painting, get the millwork installed, and, if they can get the countertops installed too, the project may actually get wrapped up. Or at the very least, I may have a working kitchen again.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 05 Nov 2022 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/painting-ii</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/painting-ii</guid>
+                <link>https://jkibe.github.io/kitchen145/painting-ii</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/painting-ii</guid>
                 
                 
             </item>
@@ -143,8 +175,8 @@
 &lt;p&gt;Looking ahead, there’s still more painting to do. The plywood that closed the two walls behind the new kitchen needs to get a coat of black paint, to disappear behind the white perforated panels. The real constraint are the countertops, which would then let the finish plumbing and electrical happen.&lt;/p&gt;
 </description>
                 <pubDate>Thu, 03 Nov 2022 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/painting</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/painting</guid>
+                <link>https://jkibe.github.io/kitchen145/painting</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/painting</guid>
                 
                 
             </item>
@@ -165,8 +197,8 @@
 
 </description>
                 <pubDate>Wed, 26 Oct 2022 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/closing</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/closing</guid>
+                <link>https://jkibe.github.io/kitchen145/closing</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/closing</guid>
                 
                 
             </item>
@@ -229,8 +261,8 @@
 &lt;p&gt;Needless to say, they’re going to have to make another trip to fix it. I’m also still waiting to finalize the countertops, and the inspector still needs to make another visit to sign off on the fire sprinkler work.&lt;/p&gt;
 </description>
                 <pubDate>Tue, 18 Oct 2022 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/not-quite</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/not-quite</guid>
+                <link>https://jkibe.github.io/kitchen145/not-quite</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/not-quite</guid>
                 
                 
             </item>
@@ -282,8 +314,8 @@
 &lt;p&gt;Second, it would be nice if Lutron were more open to other systems. The Pico remote is a genius concept. I’d love to be able to control devices outside Lutron’s switches or their universe of hand-selected partners.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 15 Oct 2022 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/caseta</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/caseta</guid>
+                <link>https://jkibe.github.io/kitchen145/caseta</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/caseta</guid>
                 
                 
             </item>
@@ -310,8 +342,8 @@
 &lt;p&gt;From here, the contractor should be unblocked. I have no idea what the timeline or order of events is, but I’m hoping they get a move on.&lt;/p&gt;
 </description>
                 <pubDate>Thu, 13 Oct 2022 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/sprinkler</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/sprinkler</guid>
+                <link>https://jkibe.github.io/kitchen145/sprinkler</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/sprinkler</guid>
                 
                 
             </item>
@@ -345,61 +377,8 @@
 &lt;p&gt;Once again, I’m not entirely sure what’s next. Here’s hoping they can get the bulk of it done by the end of the month.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 03 Sep 2022 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/delivery</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/delivery</guid>
-                
-                
-            </item>
-        
-            <item>
-                <title>Ups and Downs</title>
-                <description>&lt;p&gt;As seems to be the pattern, there has been some encouraging progress this week, but with some asterisks. They installed most of the cabinet fronts and started the plaster. It’s starting to really look finished. A few of the details are giving the progress a bit of a sour note, though.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;On the plus side, there was a lot of progress. The drawers and base cabinet fronts are in. Those Blum drawer runners are truly a joy and feel worth every penny. Drawers on base cabinets are the way to go. If you don’t look too hard, it all looks pretty good.&lt;/p&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/cabinet-doors-overall.jpg&quot; alt=&quot;Cabinets with doors&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;From  a distance, it looks pretty reasonable&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;In person, though, I find the installation at this stage a bit disappointing. I knew that I wouldn’t get the millimeter-precise alignment of cabinets from someone like SieMatic by going this more budget-friendly route, but I still feel like the alignment of the doors could be better.&lt;/p&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/cabinet-flaw-1.jpg&quot; alt=&quot;A cabinet door&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;It certainly looks to me like they drilled through the face of the cabinet and patched it&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;More worrying to me, there are clear installation defects that, at least to my eyes, go beyond usual issues. To my eyes, it really looks like the face of one of the doors got drilled through and patched. It’s not a great look. The fact that the hinges also don’t sit cleanly and flush in the back of the doors, and that there was clearly tear out when they drilled out the hinge cups, gives me pause.&lt;/p&gt;
-
-&lt;p&gt;If I wind up having to replace the damaged doors, I don’t want to think about the lead time on those parts.&lt;/p&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/cabinet-flaw-2.jpg&quot; alt=&quot;Back of a cabinet door&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;More worrying details on the back of the cabinet doors&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;The plastering got started, too. Aside from the inevitable mess, I’m pretty happy with the way it looks. It’s beginning to make the space feel more finished.&lt;/p&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/plaster-back.jpg&quot; alt=&quot;Plaster going in&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;The first coat of plaster going in on the back wall&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;Moving forward, I’m still waiting on the fire sprinkler permit and, after a false start, the appliances should get delivered next week.&lt;/p&gt;
-</description>
-                <pubDate>Sat, 27 Aug 2022 00:00:00 -0500</pubDate>
-                <link>http://0.0.0.0:4000/kitchen145/ups-and-downs</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/kitchen145/ups-and-downs</guid>
+                <link>https://jkibe.github.io/kitchen145/delivery</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/delivery</guid>
                 
                 
             </item>
