@@ -46,3 +46,5 @@ services:
 
 networks:
   default:
+
+# docker compose run --rm blog jekyll build
