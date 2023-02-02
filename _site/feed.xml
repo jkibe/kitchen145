@@ -5,16 +5,35 @@
         <description>Joseph renovates his kitchen.</description>
         <link>https://jkibe.github.io/kitchen145/</link>
         <atom:link href="https://jkibe.github.io/kitchen145/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 06 Dec 2022 08:08:39 -0600</pubDate>
-        <lastBuildDate>Tue, 06 Dec 2022 08:08:39 -0600</lastBuildDate>
+        <pubDate>Thu, 02 Feb 2023 10:20:32 -0600</pubDate>
+        <lastBuildDate>Thu, 02 Feb 2023 10:20:32 -0600</lastBuildDate>
         <generator>Jekyll v4.0.1</generator>
         
             <item>
-                <title>Inching Toward Completion</title>
-                <description>&lt;p&gt;oven-drawer
-panels-nearly&lt;/p&gt;
+                <title>Waiting for Final Details</title>
+                <description>&lt;p&gt;It’s been a while, and to be honest, there hasn’t been that much happening. There are a few small details where they’ve made progress. But for the most part, I’m still waiting for the last details to happen.&lt;/p&gt;
 
-&lt;p&gt;There was a bit of activity on site yesterday as the carpenters returned to make progress on millwork installation. They got most of the panels mostly installed, and they made some progress fixing other issues like the appliance installation.&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;In terms of progress,&lt;/p&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;images/oven-drawer.jpg&quot; alt=&quot;Oven moved&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;The oven is now in the correct location above the drawer&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+</description>
+                <pubDate>Thu, 02 Feb 2023 00:00:00 -0600</pubDate>
+                <link>https://jkibe.github.io/kitchen145/waiting-for-details</link>
+                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/waiting-for-details</guid>
+                
+                
+            </item>
+        
+            <item>
+                <title>Inching Toward Completion</title>
+                <description>&lt;p&gt;There was a bit of activity on site yesterday as the carpenters returned to make progress on millwork installation. They got most of the panels mostly installed, and they made some progress fixing other issues like the appliance installation.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -313,48 +332,6 @@ panels-nearly&lt;/p&gt;
                 <pubDate>Sat, 05 Nov 2022 00:00:00 -0500</pubDate>
                 <link>https://jkibe.github.io/kitchen145/painting-ii</link>
                 <guid isPermaLink="true">https://jkibe.github.io/kitchen145/painting-ii</guid>
-                
-                
-            </item>
-        
-            <item>
-                <title>Painting Begins</title>
-                <description>&lt;p&gt;Progress has resumed with a few visits from the painting crew. Their work is an object lesson in the value of painting and the benefit of hiring true professionals to do the work. No, painting isn’t that difficult. But it’s clear that people who do this for a living know what they’re doing.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;It’s largely preparation at this point. They’re filling holes, doing patches, caulking and otherwise getting all the surfaces ready to receive the paint. It’s weirdly satisfying to finally see the last vestiges of the previous owner’s marigold paint get covered with primer. It wasn’t my favorite color. I never painted over it because I knew — eventually — I’d do this bigger project.&lt;/p&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/painting-hall.jpg&quot; alt=&quot;Priming over marigold paint&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;Primer goes on the last parts of my apartment still in the marigold that the previous owner had chosen&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;The amount of artistry that goes into some parts of this process amazes me. Around the old kitchen walls, the ceiling looks pretty dire. Seeing the supplies and sheer quantity of filler required to patch and repair those wounds is fascinating. From what the painting crew said, it will take another day or two to finish up that work.&lt;/p&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/painting-patch.jpg&quot; alt=&quot;Patching the ceiling&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;Initial patching work to repair the ceiling scars&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;On the less damaged parts of the ceiling, you can begin to see the light at the end of the tunnel. I never would have guessed that repainting the ceiling would make such a huge difference, and yet, it really does look a lot better. I may have to get a painting crew (or spend a weekend) doing the same in my bedroom after this project gets wrapped up.&lt;/p&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;images/painting-ceiling.jpg&quot; alt=&quot;Ceiling painting&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;A fresh coat of flat white paint on the ceiling&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;Looking ahead, there’s still more painting to do. The plywood that closed the two walls behind the new kitchen needs to get a coat of black paint, to disappear behind the white perforated panels. The real constraint are the countertops, which would then let the finish plumbing and electrical happen.&lt;/p&gt;
-</description>
-                <pubDate>Thu, 03 Nov 2022 00:00:00 -0500</pubDate>
-                <link>https://jkibe.github.io/kitchen145/painting</link>
-                <guid isPermaLink="true">https://jkibe.github.io/kitchen145/painting</guid>
                 
                 
             </item>
