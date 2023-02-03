@@ -43,7 +43,7 @@ accent_color: '#2d72d9'
 
 # Site footer
 footer:
-  content: "&copy; Copyright 2020-2022 Joseph Kibe. All rights reserved. Tous droits réservés."
+  content: "&copy; Copyright 2020-2023 Joseph Kibe. All rights reserved."
   has_social: true
 
 # Plugins
